@@ -7,10 +7,10 @@
 - 💬 Ask me about chess or coding. Or math or physics (especially quantum!) or chemistry or geography. I'm happy to help!
 - 📫 How to reach me: 
     - Mail: aaravpatel14.in@gmail.com 
-    - Chess.com: chess.com/username/Sturm_Gambit_f4_d5_c4
+    - Chess.com: https://www.chess.com/username/Sturm_Gambit_f4_d5_c4
     - Reddit: https://www.reddit.com/user/Remarkable_Elk_1077
     - YouTube: https://www.youtube.com/@Aarav_Chess
-    - X: x.com/Tactic_Titan
+    - X: https://www.x.com/Tactic_Titan
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 
 
