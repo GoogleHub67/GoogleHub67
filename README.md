@@ -4,30 +4,19 @@
 - 🌱 I’m currently learning Python, SQL, Arduino, Scala and TypeScript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about chess or coding. Or math or physics (especially quantum!) or chemistry or geography. I'm happy to help!
 - 📫 How to reach me: 
     - Mail: aaravpatel14.in@gmail.com 
     - Chess.com: chess.com/username/Sturm_Gambit_f4_d5_c4
-    - Reddit:
+    - Reddit: https://www.reddit.com/user/Remarkable_Elk_1077
+    - YouTube: https://www.youtube.com/@Aarav_Chess
+    - X: x.com/Tactic_Titan
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 
 
 <!-- =========================================================================
      SECTION 1: SYSTEM TERMINAL HEADER
      ========================================================================= -->
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
-
-<p align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com"><img src="https://shields.io" /></a>
-  <a href="https://chess.com"><img src="https://shields.io" /></a>
-  <a href="mailto:aaravpatel14.in@gmail.com"><img src="https://shields.io" /></a>
-</p>
 
 ```text
 ===========================================================================
@@ -48,7 +37,7 @@
 
 Hi there! I'm **Aarav Patel**, a 13-year-old student, competitive chess player, and programming hobbyist. I am deeply passionate about advanced Mathematics, Physics, Chemistry, and Geography. Later in life, I aim to build my career as a **Software Engineer** or a **Quantum Scientist**, where I can play around with the absolute best concept in physics: **Qubits** and quantum superposition!
 
-Most of my code is born out of intense **vibe-coding, direct debugging sessions**, and curious late-night YouTube rabbit holes (like that time I saw a video on Brainf**k, copied a `Hello World` routine into PowerShell, and moved on). I follow **WittyAlien** and **GothamChess** on YouTube, and I casually ran into Thibault Duplessis (the creator of Lichess) himself to chat about the open-source `lila` ecosystem!
+Most of my code is born out of intense **vibe-coding, direct debugging sessions**, and curious late-night YouTube rabbit holes (like that time I saw a video on Brainfk, copied a `Hello World` routine into PowerShell, and moved on). I follow **WittyAlien** and **GothamChess** on YouTube, and I casually ran into Thibault Duplessis (the creator of Lichess) himself to chat about the open-source `lila` ecosystem!
 
 ---
 
@@ -94,17 +83,8 @@ I absolutely detest dry, slow, passive positional chess by a massive mile. My op
 
 ## 📊 Performance Analytics
 
-<p align="left">
-  <img src="https://vercel.app" width="49%" />
-  <img src="https://vercel.app" width="49%" />
-</p>
-
 ```text
 ===========================================================================
 [DIAGNOSTICS COMPLETE] Target Match Wishlist: Daniel "Danya" Naroditsky (RIP^2)
 ===========================================================================
 ```
-
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
