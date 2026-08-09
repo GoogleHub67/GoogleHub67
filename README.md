@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Lichess bot enhancements, game metrics database trackers, and coordinate-grid system configurations.
 - 🌱 I’m currently learning Python, SQL, Arduino, Scala and TypeScript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Open-source chess engine frameworks, microservices scripting toolsets, and big-data pipelines.
+- 🤔 I’m looking for help with Raspberry Pi GPIO pin mapping, motor actuation drivers, and custom circuit design schemas.
 - 💬 Ask me about chess or coding. Or math or physics (especially quantum!) or chemistry or geography. I'm happy to help!
 - 📫 How to reach me: 
     - Mail: aaravpatel14.in@gmail.com 
@@ -12,7 +12,7 @@
     - YouTube: https://www.youtube.com/@Aarav_Chess
     - X: https://www.x.com/Tactic_Titan
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: 
+- ⚡ Fun fact: A single YouTube video got me to write Brainfk code once in VS Code and run it just to see if it worked.
 
 <!-- =========================================================================
      SECTION 1: SYSTEM TERMINAL HEADER
