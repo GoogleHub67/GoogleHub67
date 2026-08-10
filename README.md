@@ -12,6 +12,7 @@
     - YouTube: https://www.youtube.com/@Aarav_Chess
     - X: https://www.x.com/Tactic_Titan
     - **FIDE: https://ratings.fide.com/profile/537030086**
+    - Internet Archive: https://archive.org/details/@aarav_patel605
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: A single YouTube video got me to write Brainfk code once in VS Code and run it just to see if it worked.
 
