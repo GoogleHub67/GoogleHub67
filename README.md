@@ -87,7 +87,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 
 > "An elite mind on the board, a master instructor on screen, and an exceptional friend to the community."
 
-Like millions of players around the world, I was deeply moved by the unexpected loss of Daniel "Danya" Naroditsky. His brilliant endgame lectures, lightning-fast speed chess, and genuine kindness to everyday players completely redefined what it meant to share the game online. 
+Like millions of players around the world, I was deeply moved by the unexpected loss of Daniel "Danya" Naroditsky. His brilliant endgame lectures, lightning-fast speed chess, and genuine kindness to everyday players completely redefined what it meant to share the game online and inspired millions before his passing on October 19, 2025, including me.
 
 May his soul rest in eternal peace. The chess community will forever remember his humor, his unparalleled passion, and the endless inspiration he brought to the board every single day. 
 
