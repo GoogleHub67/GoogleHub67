@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Raspberry Pi GPIO pin mapping, motor actuation drivers, and custom circuit design schemas.
 - 💬 Ask me about chess or coding. Or math or physics (especially quantum!) or chemistry or geography. I'm happy to help!
 - 📫 How to reach me: 
-    - Mail: aaravpatel14.in@gmail.com 
+    - Mail: mailto:aaravpatel14.in@gmail.com 
     - Chess.com: https://www.chess.com/username/Sturm_Gambit_f4_d5_c4
     - Reddit: https://www.reddit.com/user/Remarkable_Elk_1077
     - YouTube: https://www.youtube.com/@Aarav_Chess
@@ -22,11 +22,12 @@
 
 ```text
 ===========================================================================
-[BOOT LOG] HOST: GOOGLEHUB67 | STATUS: ACTIVE | LOCATION: GREATER NOIDA, IN
+[SYSTEM STATE] ACTIVE | HOST: GOOGLEHUB67 | LOC: GREATER NOIDA, IN
 ===========================================================================
-[INFO] FIDE Rating: 1500 Detected ♟️ | Math Olympiad: Level 2 Cleared 🏆
-[INFO] Core Trajectory: Aspiring Software Engineer / Quantum Scientist ⚛️
-[INFO] System Status: Just a totally chill guy touching grass & debugging...
+* FIDE Rating: 1500 detected ♟️
+* Math Olympiad: Level 2 cleared 🏆
+* Target Trajectory: Software Engineering / Quantum Computing ⚛️
+* Current Process: Just a regular guy debugging code & touching grass...
 ===========================================================================
 ```
 
@@ -35,20 +36,20 @@
 <!-- =========================================================================
      SECTION 2: BIOGRAPHY & SYSTEM SUMMARY
      ========================================================================= -->
-## 🎯 Executive Summary
+## 🎯 About Me
 
-Hi there! I'm **Aarav Patel**, a 13-year-old student, competitive chess player, and programming hobbyist. I am deeply passionate about advanced Mathematics, Physics, Chemistry, and Geography. Later in life, I aim to build my career as a **Software Engineer** or a **Quantum Scientist**, where I can play around with the absolute best concept in physics: **Qubits** and quantum superposition!
+I'm **Aarav Patel**, a 13-year-old student, competitive chess player, and self-taught programmer. I get genuinely excited about advanced Math, Physics, Chemistry, and Geography. In the future I want to work as a **Software Engineer** or a **Quantum Scientist**—mostly because messing around with qubits and quantum superposition sounds incredibly fun.
 
-Most of my code is born out of intense **vibe-coding, direct debugging sessions**, and curious late-night YouTube rabbit holes (like that time I saw a video on Brainfk, copied a `Hello World` routine into PowerShell, and moved on). I follow **WittyAlien** and **GothamChess** on YouTube, and I casually ran into Thibault Duplessis (the creator of Lichess) himself to chat about the open-source `lila` ecosystem!
+Most of my code is just the result of raw **vibe-coding, troubleshooting on the fly**, and getting lost in late-night YouTube rabbit holes. (Like when I copied a Brainfk `Hello World` routine into PowerShell to see what would happen). I regularly watch **WittyAlien** and **GothamChess**, and I even bumped into Thibault Duplessis online to talk shop about Lichess's open-source `lila` framework!
 
 ---
 
 <!-- =========================================================================
      SECTION 3: REPERTOIRE ENGINE: TACTICAL GAMBITS
      ========================================================================= -->
-## ♟️ Chess Database: Gambit Win-Rate Matrix
+## ♟️ Chess Database: My Gambit Win-Rates
 
-I absolutely detest dry, slow, passive positional chess by a massive mile. My opening repertoire is built entirely on maximum chaos and sharp complications. Below are my top 30 favourite openings, sorted by performance metrics:
+Positional chess is boring. I can't stand dry, slow games, where I will get rot 40 moves later so my opening repertoire focuses on creating pure chaos and sharp, double-edged lines on the board. Here is how my top 30 favorite openings actually perform based on my game data:
 
 | Rank | Opening Name | Win Rate | Games | Rank | Opening Name | Win Rate | Games |
 | :--- | :--- | :---: | :---: | :--- | :--- | :---: | :---: |
@@ -68,25 +69,26 @@ I absolutely detest dry, slow, passive positional chess by a massive mile. My op
 | 14 | **Benko Gambit** | **53.85%** | 139 | 29 | **Staunton Gambit** | **52.03%** | 65 |
 | 15 | **Evans Gambit** | **53.55%** | 87 | 30 | **Traxler Counterattack** 💥 | **51.76%** | 112 |
 
-*Note: Aggressive `g4` thrusts yield a higher live win percentage for me than opening up with standard, dry positional setup lines like `d4` or `d4-d5` arrays!*
+*Quick takeaway: Going for aggressive `g4` thrusts gets me a way better win percentage than settling into slow, standard setups like `d4` or `d4-d5` layouts!*
 
 ---
 
 <!-- =========================================================================
      SECTION 4: TECHNICAL MATRIX & HARDWARE FUTURE
      ========================================================================= -->
-## 🛠️ Diagnostics & Future Roadmaps
+## 🛠️ Tech Projects & Future Plans
 
-* **Tech Stack Matrix:** Python (Core), Scala (Exploratory), SQL (DBeaver schemas), JSON/YAML (Configs), PowerShell (`pip` / `iex-irm`)
-* **Autonomous Chessboard:** Designing a **Raspberry Pi (Zero W or 4)** physical board that mirrors live server match data over APIs, actuates movement coordinates underneath using custom motors, and running rule filters to completely cancel out illegal moves.
-* **Infinite Chess Engines:** Planning to leverage unbounded grid matrix calculations inspired by Math Olympiad grid structures to script logical chess rule sets that completely discard the traditional 8 × 8 board borders.
-
+* **What I use:** Python for most things, Scala when I'm experimenting, SQL via DBeaver for database schemas, JSON/YAML for configurations, and PowerShell for package management (`pip` / `iex-irm`).
+* **The Hardware Board:** I'm planning an automated, physical chessboard driven by a **Raspberry Pi (Zero W or 4)**. It will pull live server data over APIs, use small hidden motors to move the pieces underneath, and have built-in rules to stop illegal physical moves.
+* **Infinite Boards:** I want to take the grid patterns I learned in Math Olympiad and use them to write chess engines that ignore standard boundaries, creating infinite matrix chess rule sets.
 ---
 
-## 📊 Performance Analytics
+## 🕊️ In Loving Memory of GM Daniel Naroditsky (1995–2025)
 
-```text
-===========================================================================
-[DIAGNOSTICS COMPLETE] Target Match Wishlist: Daniel "Danya" Naroditsky (RIP^2)
-===========================================================================
-```
+> "An elite mind on the board, a master instructor on screen, and an exceptional friend to the community."
+
+Like millions of players around the world, I was deeply moved by the unexpected loss of Daniel "Danya" Naroditsky. His brilliant endgame lectures, lightning-fast speed chess, and genuine kindness to everyday players completely redefined what it meant to share the game online. 
+
+May his soul rest in eternal peace. The chess community will forever remember his humor, his unparalleled passion, and the endless inspiration he brought to the board every single day. 
+
+*Rest in Peace, Danya. The games continue in your honor.* ♟️❤️
