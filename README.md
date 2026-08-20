@@ -38,7 +38,7 @@
      ========================================================================= -->
 ## 🎯 About Me
 
-I'm **Aarav Patel**, a 13-year-old student, competitive chess player, and self-taught programmer. I get genuinely excited about advanced Math, Physics, Chemistry, and Geography. In the future I want to work as a **Software Engineer** or a **Quantum Scientist**—mostly because messing around with qubits and quantum superposition sounds incredibly fun.
+I'm **Aarav**, a student, competitive chess player, and self-taught programmer. I get genuinely excited about advanced Math, Physics, Chemistry, and Geography. In the future I want to work as a **Software Engineer** or a **Quantum Scientist**—mostly because messing around with qubits and quantum superposition sounds incredibly fun.
 
 Most of my code is just the result of raw **vibe-coding, troubleshooting on the fly**, and getting lost in late-night YouTube rabbit holes. (Like when I copied a Brainfk `Hello World` routine into PowerShell to see what would happen). I regularly watch **WittyAlien** and **GothamChess**, and I even bumped into Thibault Duplessis online to talk shop about Lichess's open-source `lila` framework!
 
