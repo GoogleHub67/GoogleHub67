@@ -39,7 +39,7 @@
 
 I'm **Aarav**, a student, competitive chess player, and self-taught programmer. I get genuinely excited about advanced Math, Physics, Chemistry, and Geography. In the future I want to work as a **Software Engineer** or a **Quantum Scientist**—mostly because messing around with qubits and quantum superposition sounds incredibly fun.
 
-Most of my code is just the result of raw **vibe-coding, troubleshooting on the fly**, and getting lost in late-night YouTube rabbit holes. (Like when I copied a Brainfk `Hello World` routine into PowerShell to see what would happen). I regularly watch **WittyAlien** and **GothamChess**, and I even bumped into Thibault Duplessis online to talk shop about Lichess's open-source `lila` framework!
+Most of my code is just the result of raw **vibe-coding, troubleshooting on the fly**, and getting lost in late-night YouTube rabbit holes. (Like when I copied a Brainfk `Hello World` routine into PowerShell to see what would happen). I regularly watch **WittyAlien** and **GothamChess**, and I even talked with Thibault Duplessis online about Lichess's open-source `lila` framework!
 
 ---
 
@@ -77,7 +77,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
      ========================================================================= -->
 ## 🛠️ Tech Projects & Future Plans
 
-* **What I use:** Python for most things, Scala when I'm experimenting, SQL via DBeaver for database schemas, JSON/YAML for configurations, and PowerShell for package management (`pip` / `iex-irm`).
+* **What I use:** Python for most things, Scala when I'm experimenting, SQL via DBeaver for database schemas, JSON/YAML for configurations, and PowerShell for package management (`pip` / `iex-irm` / `uv`).
 * **The Hardware Board:** I'm planning an automated, physical chessboard driven by a **Raspberry Pi (Zero W or 4)**. It will pull live server data over APIs, use small hidden motors to move the pieces underneath, and have built-in rules to stop illegal physical moves.
 * **Infinite Boards:** I want to take the grid patterns I learned in Math Olympiad and use them to write chess engines that ignore standard boundaries, creating infinite matrix chess rule sets.
 ---
