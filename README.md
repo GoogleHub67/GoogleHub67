@@ -21,7 +21,7 @@
 
 ```text
 ===========================================================================
-[SYSTEM STATE] ACTIVE | HOST: GOOGLEHUB67 | LOC: GREATER NOIDA, IN
+[SYSTEM STATE] ACTIVE | HOST: GOOGLEHUB67 | LOC: INDIA
 ===========================================================================
 * FIDE Rating: 1500 detected ♟️
 * Math Olympiad: Level 2 cleared 🏆
