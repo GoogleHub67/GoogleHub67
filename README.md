@@ -96,7 +96,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 ---
 
 <!-- =========================================================================
-     SECTION 4: TECHNICAL MATRIX & HARDWARE FUTURE
+     SECTION 5: TECHNICAL MATRIX & HARDWARE FUTURE
      ========================================================================= -->
 ## 🛠️ Tech Projects & Future Plans
 
