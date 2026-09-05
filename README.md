@@ -16,6 +16,13 @@
 - ⚡ Fun fact: A single YouTube video got me to write Brainfk code once in VS Code and run it just to see if it worked.
 
 <!-- =========================================================================
+     LIVE CHESS PLAYER WIDGET
+     ========================================================================= -->
+<p align="center">
+  <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=Sturm_Gambit_f4_d5_c4&theme=dark" alt="Chess.com Stats" width="400"/>
+</p>
+
+<!-- =========================================================================
      SECTION 1: SYSTEM TERMINAL HEADER
      ========================================================================= -->
 
