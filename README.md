@@ -80,6 +80,22 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 ---
 
 <!-- =========================================================================
+     SECTION 4: TECH STACK & TOOLS
+     ========================================================================= -->
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL%20%2F%20Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+---
+
+<!-- =========================================================================
      SECTION 4: TECHNICAL MATRIX & HARDWARE FUTURE
      ========================================================================= -->
 ## 🛠️ Tech Projects & Future Plans
