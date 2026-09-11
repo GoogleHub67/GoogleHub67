@@ -142,7 +142,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 <!-- ROW 4: ACTIVITY GRAPH -->
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/grraph?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Activity Graph" width="100%" />
 </p>
 
 <!-- ROW 5: PROFILE TROPHIES -->
