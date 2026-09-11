@@ -105,6 +105,55 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 * **Infinite Boards:** I want to take the grid patterns I learned in Math Olympiad and use them to write chess engines that ignore standard boundaries, creating infinite matrix chess rule sets.
 ---
 
+## 📊 GitHub Stats
+
+<!-- ROW 1: PRIMARY STATS & LANGUAGE BREAKDOWN -->
+### 📊 Core Overview
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=GoogleHub67&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GoogleHub67's Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=GoogleHub67&layout=compact&theme=tokyonight" alt="GoogleHub67's Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- ROW 2: CONTRIB STREAKS & CUSTOM WORKER ANALYTICS -->
+### 🔥 Momentum & Edge Metrics
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Streak Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://gh-profile-stats.zli39uclan.workers.dev/?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Worker Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- ROW 3: DETAILED SUMMARY CARDS -->
+### 🗂 Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoogleHub67&theme-tokyonight" alt="GoogleHub67's Summary Card" width="100%" />
+</p>
+
+<!-- ROW 4: ACTIVITY GRAPH -->
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/grraph?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Activity Graph" width="100%" />
+</p>
+
+<!-- ROW 5: PROFILE TROPHIES -->
+### 🏆 Achievements & Trophies
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=GoogleHub67&theme=tokyonight&wantAll=true" alt="GoogleHub67's Trophies" />
+  </a>
+</p>
+
+
 ## 🕊️ In Loving Memory of GM Daniel Naroditsky (1995–2025)
 
 > "An elite mind on the board, a master instructor on screen, and an exceptional friend to the community."
