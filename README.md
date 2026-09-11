@@ -158,6 +158,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 </p>
 
 ### 📜 Other Stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
