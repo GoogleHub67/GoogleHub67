@@ -9,9 +9,7 @@ jobs:
   update-readme:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      users: read
+    permissions: write-all
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -24,4 +22,3 @@ jobs:
           SHOW_OS: "false"
           SHOW_PROJECTS: "false"
           SHOW_TIMEZONE: "false"
-
