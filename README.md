@@ -105,6 +105,10 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 * **Infinite Boards:** I want to take the grid patterns I learned in Math Olympiad and use them to write chess engines that ignore standard boundaries, creating infinite matrix chess rule sets.
 ---
 
+<!-- =========================================================================
+     SECTION 6: ALL STATS
+     ========================================================================= -->
+
 ## 📊 GitHub Stats
 
 <!-- ROW 1: PRIMARY STATS & LANGUAGE BREAKDOWN -->
@@ -153,6 +157,9 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
   </a>
 </p>
 
+### 📜 Other Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🕊️ In Loving Memory of GM Daniel Naroditsky (1995–2025)
 
