@@ -59,7 +59,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 
 | Rank | Opening Name | Win Rate | Games | Rank | Opening Name | Win Rate | Games |
 | :--- | :--- | :---: | :---: | :--- | :--- | :---: | :---: |
-| 1 | **Stern (Sturm) Gambit** ⚔️ | **67.67%** | 965 | 16 | **Nakhmonson Gambit** | **53.52%** | 182 |
+| 1 | **Sturm Gambit** ⚔️ | **67.67%** | 965 | 16 | **Nakhmonson Gambit** | **53.52%** | 182 |
 | 2 | **Halasz Gambit** 🚀 | **65.34%** | 1,082 | 17 | **Urusov Gambit** | **53.27%** | 69 |
 | 3 | **Von Der Lasa Gambit** | **64.21%** | 167 | 18 | **Latvian Gambit** | **53.14%** | 888 |
 | 4 | **Scotch Gambit** | **61.08%** | 420 | 19 | **Goring Gambit** | **53.07%** | 109 |
