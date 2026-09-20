@@ -73,7 +73,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 | 12 | **Falkbeer Countergambit** | **55%** | 132 | 27 | **Muzio Gambit** | **52%** | 96 |
 | 13 | **Alien Gambit** 🛸 | **54%** | 164 | 28 | **Max Lange Attack** | **52%** | 444 |
 | 14 | **Benko Gambit** | **53%** | 139 | 29 | **Staunton Gambit** | **52%** | 65 |
-| 15 | **Evans Gambit** | **53%** | 87 | 30 | **Traxler Counterattack** 💥 | **51%** | 112 |
+| 15 | **Evans Gambit** | **53%** | 96 | 30 | **Traxler Counterattack** 💥 | **51%** | 112 |
 
 *Quick takeaway: Going for aggressive `g4` thrusts gets me a way better win percentage than settling into slow, standard setups like `d4` or `d4-d5` layouts!*
 
