@@ -19,7 +19,7 @@
      LIVE CHESS PLAYER WIDGET
      ========================================================================= -->
 <p align="center">
-  <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=Sturm_Gambit_f4_d5_c4&theme=dark" alt="Chess.com Stats" width="400"/>
+  <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=BadassKidintheBackend&theme=dark" alt="Chess.com Stats" width="400"/>
 </p>
 
 <!-- =========================================================================
@@ -55,7 +55,7 @@ Most of my code is just the result of raw **vibe-coding, troubleshooting on the 
      ========================================================================= -->
 ## ♟️ Chess Database: My Gambit Win-Rates
 
-Positional chess is boring. I can't stand dry, slow games, where I will get rot 40 moves later so my opening repertoire focuses on creating pure chaos and sharp, double-edged lines on the board. Here is how my top 30 favorite openings actually perform based on my game data:
+Positional chess is boring. I can't stand dry, slow games, where I will get rot 40 moves later, so my opening repertoire focuses on creating pure chaos and sharp, double-edged lines on the board. Here is how my top 30 favorite openings actually perform based on my game data:
 
 | Rank | Opening Name | Win Rate | Games | Rank | Opening Name | Win Rate | Games |
 | :--- | :--- | :---: | :---: | :--- | :--- | :---: | :---: |
