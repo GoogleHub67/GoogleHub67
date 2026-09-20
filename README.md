@@ -6,12 +6,12 @@
 - 🤔 I’m looking for help with Raspberry Pi GPIO pin mapping, motor actuation drivers, and custom circuit design schemas.
 - 💬 Ask me about chess or coding. Or math or physics (especially quantum!) or chemistry or geography. I'm happy to help!
 - 📫 How to reach me: 
-    - Mail: mailto:aaravpatel14.in@gmail.com 
-    - Chess.com: https://www.chess.com/username/Sturm_Gambit_f4_d5_c4
-    - Reddit: https://www.reddit.com/user/Remarkable_Elk_1077
-    - YouTube: https://www.youtube.com/@Aarav_Chess
-    - X: https://www.x.com/Tactic_Titan
-    - Internet Archive: https://archive.org/details/@aarav_patel605
+    - **Mail:** mailto:aaravpatel14.in@gmail.com 
+    - **Chess.com:** https://www.chess.com/username/BadassKidintheBackend
+    - **Reddit:** https://www.reddit.com/user/Remarkable_Elk_1077
+    - **YouTube:** https://www.youtube.com/@Aarav_Chess
+    - **X:** https://www.x.com/Tactic_Titan
+    - **Internet Archive:** https://archive.org/details/@aarav_patel605
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: A single YouTube video got me to write Brainfk code once in VS Code and run it just to see if it worked.
 
