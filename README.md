@@ -60,10 +60,10 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 | Rank | Opening Name | Win Rate | Games | Rank | Opening Name | Win Rate | Games |
 | :--- | :--- | :---: | :---: | :--- | :--- | :---: | :---: |
 | 1 | **Sturm Gambit** ⚔️ | **67%** | 965 | 16 | **Nakhmonson Gambit** | **53%** | 182 |
-| 2 | **Halasz Gambit** 🚀 | **65%** | 1,082 | 17 | **Urusov Gambit** | **53%** | 69 |
+| 2 | **Halasz Gambit** 🚀 | **65%** | 1,082 | 17 | **Urusov Gambit** | **53%** | 101 |
 | 3 | **Von Der Lasa Gambit** | **64%** | 167 | 18 | **Latvian Gambit** | **53%** | 888 |
 | 4 | **Scotch Gambit** | **61%** | 420 | 19 | **Goring Gambit** | **53%** | 109 |
-| 5 | **King’s Gambit** | **59%** | 100 | 20 | **Halloween Gambit** 🎃 | **53%** | 68 |
+| 5 | **King’s Gambit** | **59%** | 100 | 20 | **Halloween Gambit** 🎃 | **53%** | 99 |
 | 6 | **Vienna Gambit** | **57%** | 121 | 21 | **Colorado Gambit** | **52%** | 654 |
 | 7 | **Bishop’s Opening** | **56%** | 95 | 22 | **Stafford Gambit** | **52%** | 122 |
 | 8 | **Danish Gambit** | **56%** | 234 | 23 | **Schara-Henning Gambit** | **52%** | 76 |
