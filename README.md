@@ -59,21 +59,21 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 
 | Rank | Opening Name | Win Rate | Games | Rank | Opening Name | Win Rate | Games |
 | :--- | :--- | :---: | :---: | :--- | :--- | :---: | :---: |
-| 1 | **Sturm Gambit** ⚔️ | **67.67%** | 965 | 16 | **Nakhmonson Gambit** | **53.52%** | 182 |
-| 2 | **Halasz Gambit** 🚀 | **65.34%** | 1,082 | 17 | **Urusov Gambit** | **53.27%** | 69 |
-| 3 | **Von Der Lasa Gambit** | **64.21%** | 167 | 18 | **Latvian Gambit** | **53.14%** | 888 |
-| 4 | **Scotch Gambit** | **61.08%** | 420 | 19 | **Goring Gambit** | **53.07%** | 109 |
-| 5 | **King’s Gambit** | **59.76%** | 100 | 20 | **Halloween Gambit** 🎃 | **53.03%** | 68 |
-| 6 | **Vienna Gambit** | **57.77%** | 121 | 21 | **Colorado Gambit** | **52.99%** | 654 |
-| 7 | **Bishop’s Opening** | **56.99%** | 95 | 22 | **Stafford Gambit** | **52.91%** | 122 |
-| 8 | **Danish Gambit** | **56.94%** | 234 | 23 | **Schara-Henning Gambit** | **52.80%** | 76 |
-| 9 | **Ponziani Opening** | **56.45%** | 165 | 24 | **Wagner-Zucker Gambit** | **52.64%** | 97 |
-| 10 | **Smith-Morra Gambit** | **55.55%** | 196 | 25 | **Omega Gambit** | **52.55%** | 116 |
-| 11 | **Alapin Opening** | **55.30%** | 101 | 26 | **Elephant Gambit** | **52.38%** | 109 |
-| 12 | **Falkbeer Countergambit** | **55.19%** | 132 | 27 | **Muzio Gambit** | **52.22%** | 96 |
-| 13 | **Alien Gambit** 🛸 | **54.34%** | 164 | 28 | **Max Lange Attack** | **52.13%** | 444 |
-| 14 | **Benko Gambit** | **53.85%** | 139 | 29 | **Staunton Gambit** | **52.03%** | 65 |
-| 15 | **Evans Gambit** | **53.55%** | 87 | 30 | **Traxler Counterattack** 💥 | **51.76%** | 112 |
+| 1 | **Sturm Gambit** ⚔️ | **67%** | 965 | 16 | **Nakhmonson Gambit** | **53%** | 182 |
+| 2 | **Halasz Gambit** 🚀 | **65%** | 1,082 | 17 | **Urusov Gambit** | **53%** | 69 |
+| 3 | **Von Der Lasa Gambit** | **64%** | 167 | 18 | **Latvian Gambit** | **53%** | 888 |
+| 4 | **Scotch Gambit** | **61%** | 420 | 19 | **Goring Gambit** | **53%** | 109 |
+| 5 | **King’s Gambit** | **59%** | 100 | 20 | **Halloween Gambit** 🎃 | **53%** | 68 |
+| 6 | **Vienna Gambit** | **57%** | 121 | 21 | **Colorado Gambit** | **52%** | 654 |
+| 7 | **Bishop’s Opening** | **56%** | 95 | 22 | **Stafford Gambit** | **52%** | 122 |
+| 8 | **Danish Gambit** | **56%** | 234 | 23 | **Schara-Henning Gambit** | **52%** | 76 |
+| 9 | **Ponziani Opening** | **56%** | 165 | 24 | **Wagner-Zucker Gambit** | **52%** | 97 |
+| 10 | **Smith-Morra Gambit** | **55%** | 196 | 25 | **Omega Gambit** | **52%** | 116 |
+| 11 | **Alapin Opening** | **55%** | 101 | 26 | **Elephant Gambit** | **52%** | 109 |
+| 12 | **Falkbeer Countergambit** | **55%** | 132 | 27 | **Muzio Gambit** | **52%** | 96 |
+| 13 | **Alien Gambit** 🛸 | **54%** | 164 | 28 | **Max Lange Attack** | **52%** | 444 |
+| 14 | **Benko Gambit** | **53%** | 139 | 29 | **Staunton Gambit** | **52%** | 65 |
+| 15 | **Evans Gambit** | **53%** | 87 | 30 | **Traxler Counterattack** 💥 | **51%** | 112 |
 
 *Quick takeaway: Going for aggressive `g4` thrusts gets me a way better win percentage than settling into slow, standard setups like `d4` or `d4-d5` layouts!*
 
