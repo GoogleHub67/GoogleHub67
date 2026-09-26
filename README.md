@@ -57,23 +57,23 @@ Most of my code is just the result of raw **vibe-coding, troubleshooting on the 
 
 Positional chess is boring. I can't stand dry, slow games, where I will get rot 40 moves later, so my opening repertoire focuses on creating pure chaos and sharp, double-edged lines on the board. Here is how my top 30 favorite openings actually perform based on my game data:
 
-| Rank | Opening Name | Win Rate | Games | Rank | Opening Name | Win Rate | Games |
-| :--- | :--- | :---: | :---: | :--- | :--- | :---: | :---: |
-| 1 | **Sturm Gambit** ⚔️ | **67%** | 965 | 16 | **Nakhmonson Gambit** | **53%** | 182 |
-| 2 | **Halasz Gambit** 🚀 | **65%** | 1,082 | 17 | **Urusov Gambit** | **53%** | 101 |
-| 3 | **Von Der Lasa Gambit** | **64%** | 167 | 18 | **Latvian Gambit** | **53%** | 888 |
-| 4 | **Scotch Gambit** | **61%** | 420 | 19 | **Goring Gambit** | **53%** | 109 |
-| 5 | **King’s Gambit** | **59%** | 100 | 20 | **Halloween Gambit** 🎃 | **53%** | 99 |
-| 6 | **Vienna Gambit** | **57%** | 121 | 21 | **Colorado Gambit** | **52%** | 654 |
-| 7 | **Bishop’s Opening** | **56%** | 95 | 22 | **Stafford Gambit** | **52%** | 122 |
-| 8 | **Danish Gambit** | **56%** | 234 | 23 | **Schara-Henning Gambit** | **52%** | 76 |
-| 9 | **Ponziani Opening** | **56%** | 165 | 24 | **Wagner-Zucker Gambit** | **52%** | 97 |
-| 10 | **Smith-Morra Gambit** | **55%** | 196 | 25 | **Omega Gambit** | **52%** | 116 |
-| 11 | **Alapin Opening** | **55%** | 101 | 26 | **Elephant Gambit** | **52%** | 109 |
-| 12 | **Falkbeer Countergambit** | **55%** | 132 | 27 | **Muzio Gambit** | **52%** | 96 |
-| 13 | **Alien Gambit** 🛸 | **54%** | 164 | 28 | **Max Lange Attack** | **52%** | 444 |
-| 14 | **Benko Gambit** | **53%** | 139 | 29 | **Staunton Gambit** | **52%** | 65 |
-| 15 | **Evans Gambit** | **53%** | 96 | 30 | **Traxler Counterattack** 💥 | **51%** | 112 |
+| Rank | Opening Name | Win Rate | Rank | Opening Name | Win Rate |
+| :--- | :--- | :---: | :--- | :--- | :---: |
+| 1 | **Sturm Gambit** ⚔️ | **67%** | 16 | **Nakhmonson Gambit** | **53%** |
+| 2 | **Halasz Gambit** 🚀 | **65%** | 17 | **Urusov Gambit** | **53%** |
+| 3 | **Von Der Lasa Gambit** | **64%** | 18 | **Latvian Gambit** | **53%** |
+| 4 | **Scotch Gambit** | **61%** | 19 | **Goring Gambit** | **53%** |
+| 5 | **King’s Gambit** | **59%** | 20 | **Halloween Gambit** 🎃 | **53%** |
+| 6 | **Vienna Gambit** | **57%** | 21 | **Colorado Gambit** | **52%** |
+| 7 | **Bishop’s Opening** | **56%** | 22 | **Stafford Gambit** | **52%** |
+| 8 | **Danish Gambit** | **56%** | 23 | **Schara-Henning Gambit** | **52%** |
+| 9 | **Ponziani Opening** | **56%** | 24 | **Wagner-Zucker Gambit** | **52%** |
+| 10 | **Smith-Morra Gambit** | **55%** | 25 | **Omega Gambit** | **52%** |
+| 11 | **Alapin Opening** | **55%** | 26 | **Elephant Gambit** | **52%** |
+| 12 | **Falkbeer Countergambit** | **55%** | 27 | **Muzio Gambit** | **52%** |
+| 13 | **Alien Gambit** 🛸 | **54%** | 28 | **Max Lange Attack** | **52%** |
+| 14 | **Benko Gambit** | **53%** | 29 | **Staunton Gambit** | **52%** |
+| 15 | **Evans Gambit** | **53%** | 30 | **Traxler Counterattack** 💥 | **51%** |
 
 *Quick takeaway: Going for aggressive `g4` thrusts gets me a way better win percentage than settling into slow, standard setups like `d4` or `d4-d5` layouts!*
 
