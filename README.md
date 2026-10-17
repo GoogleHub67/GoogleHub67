@@ -84,7 +84,7 @@ This telemetry matrix loads official visual vector assets directly to monitor gl
       <b>🧠 LeetCode Data Engine</b>
       <br/><br/>
       <!-- High-bandwidth unified vector analytical layout tracker -->
-      <a href="https:/leetcode.com/problemset/all"><img src="https://img.shields.io/badge/LeetCode_Daily-CHALLENGE_ACTIVE-00FF00?style=for-the-badge&logo=leetcode&logoColor=ffa116" width="100%" alt="LeetCode Core System Badge"/></a>
+      <a href="https://leetcode.com/problemset/all"><img src="https://img.shields.io/badge/LeetCode_Daily-CHALLENGE_ACTIVE-00FF00?style=for-the-badge&logo=leetcode&logoColor=ffa116" width="100%" alt="LeetCode Core System Badge"/></a>
     </td>
   </tr>
 </table>
