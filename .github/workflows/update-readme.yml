@@ -40,10 +40,10 @@ jobs:
                   title = lc_data['question']['title']
                   num = lc_data['question']['questionFrontendId']
                   diff = lc_data['question']['difficulty'].upper()
-                  url = f"https:// leetcode.com{lc_data['link']}".replace("https:// ", "https://")
+                  url = f"https:// leetcode.com/{lc_data['link']}".replace("https:// ", "https://")
                   leetcode_string = f"[{num}. {title} ({diff})]({url})"
           except Exception:
-              leetcode_string = "[Access Current Problem Set Portal](https:// leetcode.com)".replace("https:// ", "https://")
+              leetcode_string = "[Access Current Problem Set Portal](https:// leetcode.com/problemset)".replace("https:// ", "https://")
 
           # 2. Query daily.dev Global News Manifest
           req_dd = urllib.request.Request("https:// api.daily.dev/rss/feed".replace("https:// ", "https://"), headers=browser_headers)
