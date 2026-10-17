@@ -27,12 +27,12 @@
 
 ```text
 ===========================================================================
-[SYSTEM STATE] ACTIVE | HOST: GOOGLEHUB67 | LOC: INDIA
+[SYSTEM STATE] ACTIVE | USER: GOOGLEHUB67 | LOC: INDIA 🇮🇳
 ===========================================================================
 * FIDE Rating: 1500 detected ♟️
 * Math Olympiad: Level 2 cleared 🏆
 * Target Trajectory: Software Engineering / Quantum Computing ⚛️
-* Current Process: Just a regular guy debugging code & touching grass...
+* Current Process: Architecting multi-threaded modules & debugging circuits...
 ===========================================================================
 ```
 
@@ -43,18 +43,141 @@
      ========================================================================= -->
 ## 🎯 About Me
 
-I'm **Aarav**, a student, competitive chess player, and self-taught programmer. I get genuinely excited about advanced Math, Physics, Chemistry, and Geography. In the future I want to work as a **Software Engineer** or a **Quantum Scientist**—mostly because messing around with qubits and quantum superposition sounds incredibly fun.
+I am a developer, competitive chess player, and technical builder focused on the intersection of software infrastructure, quantitative sciences, and embedded hardware arrays. Driven by a deep interest in complex logic systems, my technical focus is directed entirely toward **Software Engineering** and **Quantum Information Computing**. 
 
-Most of my code is just the result of raw **vibe-coding, troubleshooting on the fly**, and getting lost in late-night YouTube rabbit holes. (Like when I copied a Brainfk `Hello World` routine into PowerShell to see what would happen). I regularly watch **WittyAlien** and **GothamChess**, and I even talked with Thibault Duplessis's team online about Lichess's open-source `lila` framework!
+My engineering framework centers on rapid prototyping, continuous optimization, and practical system architecture—whether that involves deploying low-level hardware automation or researching particle state mechanics. Beyond core software development, I actively explore advanced spatial grid systems, coordinate methodologies, and modern microservice pipelines to build creative and highly optimized applications.
+
+> ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but 20 apology letters to survive the chaos, I still pull a 95% academic average. 
 
 ---
 
 <!-- =========================================================================
-     SECTION 3: REPERTOIRE ENGINE: TACTICAL GAMBITS
+     SECTION 3: TECH PROJECTS & HARDWARE CORE
      ========================================================================= -->
-## ♟️ Chess Database: My Gambit Win-Rates
+## 🛠️ Engineering Sandbox & Future Blueprints
 
-Positional chess is boring. I can't stand dry, slow games, where I will get rot 40 moves later, so my opening repertoire focuses on creating pure chaos and sharp, double-edged lines on the board. Here is how my top 30 favorite openings actually perform based on my game data:
+* **My Stack:** I write high-throughput scripts in Python, build experimental configurations in Scala, manage structural relational databases via DBeaver SQL, and optimize environments using PowerShell tooling (`pip` / `iex-irm` / `uv`).
+* **Automated Physical Chessboard:** I am architecting an automated, physical chess engine driven by a **Raspberry Pi (Zero W or 4)**. The system pulls live data over server APIs, actuates physical pieces under the board using micro-motors, and runs real-time hardware validation scripts to prevent illegal moves.
+* **Infinite Matrix Chess:** Fusing spatial coordinate structures from Math Olympiad with software engineering to write game engines that eliminate standard grid boundaries, translating traditional rule sets into infinite matrix grids.
+
+## 🛠️ Environment Configuration
+
+My complete local environment setups, hardware tracking arrays, and package dependencies are version-controlled and fully cataloged across modular manifests.
+
+🔗 **[Explore My Complete Environment & Dependencies](https://www.github.com/GoogleHub67/all-tools-i-use/blob/main/README.md)**
+
+*View real-time indexes for my core programming languages, desktop utility installations, and active library profiles.*
+
+---
+---
+
+<!-- =========================================================================
+     SECTION 4: OPERATIONAL MATRIX (DEEP SKILL ANALYTICS)
+     ========================================================================= -->
+## 🚀 Skills & Domain Expertise
+
+### 💻 Deep Tech, Automation & Robotics
+
+#### 🖥️ Advanced Software & Automation Pipelines
+* **High-Throughput Scripting & Pipelines:** Architecting automated scripts using Python, functional Scala frameworks, and comprehensive database structures.
+* **Data Flow Infrastructure:** Designing custom web-scraping workers, API connectors, and event-driven data flows to process live telemetric records.
+* **Environment Configuration:** Implementing local optimization utilities via PowerShell package ecosystems (`uv`, `pip`, `iex-irm`) to run clean, version-controlled setups.
+* **Algorithmic Development:** Experimenting with machine learning heuristics, pattern recognition models, and custom algorithmic rule-engines.
+
+#### 🔌 IoT Engineering & Embedded Systems
+* **Hardware Prototyping:** Interfacing microcontrollers like Arduino with microprocessors like the Raspberry Pi Zero W/4 to build automated physical arrays.
+* **Low-Level Microcode Mapping:** Engineering firmware scripts to map General Purpose Input/Output (GPIO) pin schemas for direct digital-to-analog interactions.
+* **Motor Actuation Systems:** Writing custom motor drivers to precisely control step-sequences, pulse-width modulation (PWM), and magnetic positioning under custom surfaces.
+* **Circuit Design Logic:** Designing electrical schematics that safely handle voltage distribution, logic level shifting, and physical sensory feedback loops.
+
+#### 🔧 Custom PC Architecture & Engineering
+* **System Blueprinting:** Planning complex desktop system configurations from individual structural component compatibility up to physical deployment.
+* **Power & Thermal Tracking:** Calculating system power-draw curves, voltage rail distributions, and continuous thermal envelopes for stable operations.
+* **Structural Layout Management:** Managing airflow design, static-pressure optimization, precision component seating, and structural cable paths.
+
+#### 🛠️ Hardware Diagnostics & Micro-Repair
+* **System Diagnostics:** Operating as a physical laptop and PC diagnostic technician handling precision hardware restoration and low-level component replacements.
+* **Fault Isolation:** Executing comprehensive logic-board fault analysis, isolation of shorted circuits, and mechanical troubleshooting of dynamic internal arrays.
+* **Firmware & OS Recovery:** Implementing advanced operating system imaging, registry diagnostics, storage sector restoration, and recovery of bricked firmware structures.
+
+### 🔬 Quantitative Sciences & Lit Formulation
+
+#### ♟️ Strategic Chess Mechanics & Systems
+* **Tactical Opening & Calculation Matrix:** High-volatility tactical calculations, processing sharp, double-edged asymmetric variations (1500 FIDE strength).
+* **Open-Source Engine Telemetry:** Tracking engine behaviors, profiling modular databases, and experimenting with open-source server integrations like Lichess's async `lila` backend framework.
+
+#### ⚛️ Quantum Information Theory
+* **Subatomic Evaluation:** Mathematically analyzing physical quantum phenomena focusing on quantum superposition states, wave-particle duality, and particle entanglement.
+* **Qubit State Manipulation:** Applying matrix transformations, quantum logic gate operations, and algorithmic noise suppression models to system matrices.
+* **Hardware Architecture Research:** Tracking experimental quantum computer architectural growth, focusing on how cryogenically cooled hardware systems run calculations.
+
+#### 🧪 Subatomic Chemistry & Electron Geometries
+* **Valence Transition Analysis:** Analyzing thermodynamic electron configurations, atomic orbital sub-shells (s, p, d, f), and energetic valence transitions.
+* **Bonding Dynamic Models:** Deconstructing the quantum mechanical behaviors of electrons to predict atomic reactivity, chemical bonding dynamics, and crystal lattice structures.
+* **Molecular Geometries:** Evaluating molecular orbital theory to map out electron cloud distributions and spatial covalent geometries.
+
+#### 📐 Olympiad-Level Mathematics
+* **Discrete Problem Solving:** Solving advanced number theory problems, structural combinatorics, and discrete geometry matrices seen in high-level Olympiad frameworks.
+* **Spatial Coordinate Mapping:** Utilizing coordinate grid mapping, modular arithmetic proofs, and spatial coordinate graphs to crack complex abstract puzzles.
+* **Algorithmic Math Translation:** Translating multi-dimensional geometric logic formulas into functional, boundaryless logic scripts inside programming languages.
+
+#### 📝 Technical & Research Writing
+* **Academic Formulation:** Authoring deeply structured academic research papers, logic logs, and technical whitepapers mapping out complex multi-disciplinary systems.
+* **Open-Source Documentation:** Formulating exact technical documentation, syntax manifests, and project README structures that follow enterprise open-source guidelines.
+
+### 📊 Venture Strategy & Tactical Systems
+
+#### 📈 Quantitative Finance & Market Systems
+* **Market Trend Modeling:** Modeling macro-economic trends, asset price movements, and statistical investment risk factors within equity environments.
+* **Portfolio Strategy Testing:** Back-testing algorithmic portfolio strategies by tracking capital allocation, historic index fluctuations, and technical indicators.
+* **Data Integration:** Structuring automated spreadsheet formulas and relational SQL databases to evaluate historical assets and compound data vectors.
+
+#### 💡 Startup Incubation & MVP Prototyping
+* **Product Architecture:** Mapping out agile minimum viable product (MVP) lifecycles by converting napkin sketches into deployment-ready software configurations.
+* **Scalability Blueprinting:** Formulating user-flow architectures, determining tech stack requirements, and calculating data scalability barriers.
+* **Resource Optimization:** Architecting market positioning plans that leverage open-source solutions to bypass heavy software development costs.
+
+### 🏏 Athletic Performance & Fandom
+
+#### 🏏 Competitive Cricket & Kinetic Strategy
+* **District-Level Athletic Selection:** Selected and competing within formal district cricket frameworks, demonstrating verified on-field performance metrics and strategic execution under tournament pressure.
+* **Biomechanical Execution:** Applying fluid dynamics and rotational mechanics to optimize power transfer and entry angles during high-impact stroke play.
+* **Real-time Trajectory Analytics:** Processing real-time aerodynamic variables (such as spin degradation, seam position, and pitch moisture variations) to execute defensive and offensive positioning.
+* **Strategic Alliances & Global Fandom:** Die-hard, proud supporter of **Team India (ICT)** 🇮🇳 and **Royal Challengers Bengaluru (RCB)** ❤️—tracking high-pressure match dynamics, field placements, and tactical pacing metrics.
+
+---
+
+<!-- =========================================================================
+     SECTION 5: ACADEMIC FOCUS & SUBJECT PROFICIENCY
+     ========================================================================= -->
+## 📚 Core Subjects & Academic Focus
+
+### 📐 Mathematics
+* **Logical & Spatial Mastery:** Advanced proficiency in parsing multi-dimensional coordinates, complex number theory puzzles, and abstract proofs derived from clearing Math Olympiad Level 2 milestones.
+* **Algorithmic Application:** Seamlessly converting discrete geometric structures and grid-system configurations into clean code logic models.
+
+### ⚛️ Physics
+* **Quantum Foundations:** Exceptional grounding in theoretical calculations tracking subatomic behaviors, particle entanglement states, and cryogenic qubit matrix environments.
+* **Kinetic Analytics:** Deconstructing dynamic physical metrics like the Magnus effect, force distribution curves, and velocity vectors to analyze projectile path adjustments in high-impact scenarios.
+
+### 🧪 Chemistry
+* **Subatomic Electron Architectures:** Specialized tracking of structural electron configurations ($s, p, d, f$ shells), chemical bonding systems, and molecular geometric layouts.
+* **System Predictability:** Calculating energetic valence transitions and subatomic movements to forecast atomic reactivity states and lattice structures.
+
+### 💻 Computer Science
+* **Infrastructure Engineering:** Strong capabilities building data routing pipelines, engineering custom microservices, automating local terminals using PowerShell package wrappers, and modeling pattern analytics.
+* **Embedded Control Systems:** Designing direct logic schematics to control physical devices via custom microcode, custom step drivers, and precise GPIO pin routing matrices.
+
+### 🌍 Geography
+* **Spatial System Analysis:** Advanced conceptual mapping of macro-environmental topologies, regional spatial distributions, and coordinate network paths.
+* **Data Integration:** Correlating geographic demographic data arrays with software automation models to evaluate macro metrics efficiently.
+
+<!-- =========================================================================
+     SECTION 6: REPERTOIRE ENGINE: TACTICAL GAMBITS
+     ========================================================================= -->
+## ♟️ Chess Telemetry: Gambit Win-Rates
+
+Positional chess is slow and uninspiring. My opening philosophy centers entirely on maximizing positional volatility, forced tactical calculations, and chaotic, double-edged lines. Here is how my top 30 favorite variations rank based on my live database metrics:
 
 | Rank | Opening Name | Win Rate | Rank | Opening Name | Win Rate |
 | :--- | :--- | :---: | :--- | :--- | :---: |
@@ -74,36 +197,12 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 | 14 | **Benko Gambit** | **53%** | 29 | **Staunton Gambit** | **52%** |
 | 15 | **Evans Gambit** | **53%** | 30 | **Traxler Counterattack** 💥 | **51%** |
 
-*Quick takeaway: Going for aggressive `g4` thrusts gets me a way better win percentage than settling into slow, standard setups like `d4` or `d4-d5` layouts!*
+*Quick takeaway: Forcing fast, asymmetrical `g4` thrusts yields a significantly higher victory probability compared to adapting to standard, passive `d4`/`d5` frameworks!*
 
 ---
 
 <!-- =========================================================================
-     SECTION 4: TECH STACK & TOOLS
-     ========================================================================= -->
-
-## 🛠️ Workstation Configuration
-
-My complete local environment setups, hardware tracking arrays, and package dependencies are version-controlled and fully cataloged across modular manifests.
-
-🔗 **[Explore My Complete Environment & Dependencies](https://www.github.com/GoogleHub67/all-tools-i-use/blob/main/README.md)**
-
-*View real-time indexes for my core programming languages, desktop utility installations, and active library profiles.*
-
----
-
-<!-- =========================================================================
-     SECTION 5: TECHNICAL MATRIX & HARDWARE FUTURE
-     ========================================================================= -->
-## 🛠️ Tech Projects & Future Plans
-
-* **What I use:** Python for most things, Scala when I'm experimenting, SQL via DBeaver for database schemas, JSON/YAML for configurations, and PowerShell for package management (`pip` / `iex-irm` / `uv`).
-* **The Hardware Board:** I'm planning an automated, physical chessboard driven by a **Raspberry Pi (Zero W or 4)**. It will pull live server data over APIs, use small hidden motors to move the pieces underneath, and have built-in rules to stop illegal physical moves.
-* **Infinite Boards:** I want to take the grid patterns I learned in Math Olympiad and use them to write chess engines that ignore standard boundaries, creating infinite matrix chess rule sets.
----
-
-<!-- =========================================================================
-     SECTION 6: ALL STATS
+     SECTION 7: ALL STATS
      ========================================================================= -->
 
 ## 📊 GitHub Stats
