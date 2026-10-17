@@ -23,12 +23,15 @@ jobs:
           import json
           import re
 
+          # Standard desktop browser identity to prevent API blocks
+          browser_headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
           # 1. Query LeetCode GraphQL Core Engine for Daily Problem
           leetcode_query = {"query": "query questionOfYourDay { activeDailyCodingChallengeQuestion { date link question { questionFrontendId title difficulty } } }"}
           req_lc_headers = browser_headers.copy()
           req_lc_headers["Content-Type"] = "application/json"
           
-          req = urllib.request.Request("https:// leetcode.com/problemset".replace("https:// ", "https://"), 
+          req = urllib.request.Request("https:// ://leetcode.com".replace("https:// ", "https://"), 
                                        data=json.dumps(leetcode_query).encode('utf-8'), 
                                        headers=req_lc_headers)
           try:
@@ -37,13 +40,13 @@ jobs:
                   title = lc_data['question']['title']
                   num = lc_data['question']['questionFrontendId']
                   diff = lc_data['question']['difficulty'].upper()
-                  url = f"https:// leetcode.com/{lc_data['link']}".replace("https:// ", "https://")
+                  url = f"https:// leetcode.com{lc_data['link']}".replace("https:// ", "https://")
                   leetcode_string = f"[{num}. {title} ({diff})]({url})"
           except Exception:
               leetcode_string = "[Access Current Problem Set Portal](https:// ://leetcode.com)".replace("https:// ", "https://")
 
           # 2. Query daily.dev Global News Manifest
-          req_dd = urllib.request.Request("https:// api.daily.dev/rss/feed".replace("https:// ", "https://"), headers={"User-Agent": "Mozilla/5.0"})
+          req_dd = urllib.request.Request("https:// api.daily.dev/rss/feed".replace("https:// ", "https://"), headers=browser_headers)
           try:
               with urllib.request.urlopen(req_dd) as response:
                   rss = response.read().decode('utf-8')
