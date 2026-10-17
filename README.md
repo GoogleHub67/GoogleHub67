@@ -19,7 +19,7 @@
      LIVE CHESS PLAYER WIDGET
      ========================================================================= -->
 <p align="center">
-  <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=BadassKidintheBackend&theme=dark" alt="Chess.com Stats" width="400"/>
+  <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=user-5655435344&theme=dark" alt="Chess.com Stats" width="400"/>
 </p>
 
 <!-- =========================================================================
