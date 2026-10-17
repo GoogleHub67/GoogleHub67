@@ -69,30 +69,33 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=LOADING+SYSTEM+1978...;HELLO+WORLD...;RUNNING+BRAINFK_COMPILER...;I+BUILD+COOL+SHIT." alt="Typing SVG" />
 </p>
 
-### 🚀 Technical Telemetry & Algorithmic Streams
-This matrix panel tracks my personal daily.dev community profile indicators alongside the global real-time algorithmic problem stream.
+### 🚀 Live Dev Stream & Algorithmic Problem of the Day
+These monitors automatically render active technical data vectors and puzzle questions dynamically on the fly.
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <b>📰 My daily.dev Devcard</b>
+      <b>📰 Hottest Tech Feed Headlines</b>
       <br/><br/>
-      <!-- Personal daily.dev Devcard Archetype Link -->
-      <a href="https://daily.dev"><img src="https://api.daily.dev/devcards/v2/this_is_a_username.png?type=default" width="100%" alt="daily.dev Devcard"/></a>
+      <!-- Active global developer headlines news feed image tracker -->
+      <a href="https://daily.dev"><img src="https://cards.daily.dev/trending.png" width="100%" alt="Tech Feed Live Headlines"/></a>
     </td>
     <td width="50%" align="center">
-      <b>🧠 LeetCode Daily Challenge</b>
+      <b>🧠 LeetCode Daily Challenge Tracker</b>
       <br/><br/>
-      <!-- Automated global daily logic/math problem tracker -->
-      <a href="https://leetcode.com/problemset/all/"><img src="https://leetcode-daily-problem-card.vercel.app/api?theme=tokyonight" width="100%" alt="LeetCode Daily Problem"/></a>
+      <!-- Active global LeetCode problem engine renderer -->
+      <a href="https://leetcode.com/problemset/all"><img src="https://leetcode.antonbrowser.com/api/daily/image" width="100%" alt="LeetCode Live Daily Question"/></a>
     </td>
   </tr>
 </table>
 
 ### ♟️ Crack the Lichess Daily Tactics Board
-Think you can find the winning sequence? This interactive puzzle updates directly from Lichess servers every 24 hours. Evaluate the matrix before making your move.
+Can you find the forced tactical sequence? This engine queries the live server database to render an active puzzle layout position block instantly. Evaluate the file positions carefully before executing a move.
+
 <p align="center">
-  <img src="https://lichess-puzzle-widget.vercel.app/api/puzzle?theme=dark" alt="Lichess Daily Puzzle" width="410"/>
+  <a href="https://lichess.org/training">
+    <img src="https://daily-chess-puzzle.vercel.app/api/puzzle.svg" alt="Lichess Live Tactical Environment" width="410"/>
+  </a>
 </p>
 
 ### 🎵 Sync into my Coding Jukebox Matrix
