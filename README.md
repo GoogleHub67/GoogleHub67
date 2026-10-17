@@ -14,8 +14,9 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: A single YouTube video got me to write Brainfk code once in VS Code and run it just to see if it worked.
 
+<!-- TYPING EFFECT BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.democodes.in?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Aarav+Patel;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Aarav+Patel;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <!-- =========================================================================
