@@ -78,7 +78,7 @@ This matrix panel tracks my personal daily.dev community profile indicators alon
       <b>📰 My daily.dev Devcard</b>
       <br/><br/>
       <!-- Personal daily.dev Devcard Archetype Link -->
-      <a href="https://daily.dev"><img src="https://api.daily.dev/devcards/v2/YOUR_DAILY_DEV_USERNAME.png?type=default" width="100%" alt="daily.dev Devcard"/></a>
+      <a href="https://daily.dev"><img src="https://api.daily.dev/devcards/v2/this_is_a_username.png?type=default" width="100%" alt="daily.dev Devcard"/></a>
     </td>
     <td width="50%" align="center">
       <b>🧠 LeetCode Daily Challenge</b>
