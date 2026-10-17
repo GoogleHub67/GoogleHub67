@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Lichess bot enhancements, game metrics database trackers, and coordinate-grid system configurations.
-- 🌱 I’m currently learning Python, SQL, Arduino, Scala and TypeScript.
+- 🌱 I’m currently learning Go and Kotlin.
 - 👯 I’m looking to collaborate on Open-source chess engine frameworks, microservices scripting toolsets, and big-data pipelines.
 - 🤔 I’m looking for help with Raspberry Pi GPIO pin mapping, motor actuation drivers, and custom circuit design schemas.
 - 💬 Ask me about chess or coding. Or math or physics (especially quantum!) or chemistry or geography. I'm happy to help!
