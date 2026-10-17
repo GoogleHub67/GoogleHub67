@@ -17,6 +17,7 @@ jobs:
           python-version: '3.10'
 
       - name: Execute Live Telemetry Data Scraper
+        shell: python  # 👈 THIS TELLS GITHUB TO RUN IT AS PYTHON, NOT BASH!
         run: |
           import urllib.request
           import json
