@@ -39,9 +39,38 @@
 <!-- =========================================================================
      SECTION 2: BIOGRAPHY & SYSTEM SUMMARY
      ========================================================================= -->
-## 🎯 About Me
 
-I am a developer, competitive chess player, and technical builder focused on the intersection of software infrastructure, quantitative sciences, and embedded hardware arrays. Driven by a deep interest in complex logic systems, my technical focus is directed entirely toward **Software Engineering** and **Quantum Information Computing**. 
+# 🙋‍♂️ Get to Know Me: The 90% honest Q&A?
+
+---
+
+## 📌 The Personal Stack
+
+> **Q: Who are you in a single sentence?**  
+> A: Too many things. Go to Section 4 to learn more.
+
+> **Q: How did you get into coding?**  
+> A: Long story, but because of Lichess bots and the curiosity to how they work.
+
+| Question | Answer |
+| :--- | :--- |
+| 🏷️ **Name / Nickname** | Aarav |
+| 🎂 **Age** | 13 |
+| 🏫 **Current Grade** | 9 |
+| 🌍 **Location** | 127.0.0.1 |
+| 🗣️ **Languages** | English |
+
+> **Other Stats**
+- 🎮 **Main Games:** Chess, Cyberpunk 2077, Geometry Dash, MineCraft
+- 📚 **Top Books:** Quantum Physics and Coding-related books from 2005
+- 🏠 **My Setup:** A nuclear reactor you will be shocked to see
+- 👤 **Favourite Personalities:** Linus Thorvalds, Alan Turning, and Dennis Wrenchtie (misspelled lol)
+
+</details>
+
+---
+
+I am Aarav, a developer, competitive chess player, and a technical builder focused on the intersection of software infrastructure, quantitative sciences, and embedded hardware arrays. Driven by a deep interest in complex logic systems, my technical focus is directed entirely toward **Software Engineering** and **Quantum Information Computing**. 
 
 My engineering framework centers on rapid prototyping, continuous optimization, and practical system architecture—whether that involves deploying low-level hardware automation or researching particle state mechanics. Beyond core software development, I actively explore advanced spatial grid systems, coordinate methodologies, and modern microservice pipelines to build creative and highly optimized applications.
 
