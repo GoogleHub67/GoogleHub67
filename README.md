@@ -202,6 +202,10 @@ My complete local environment setups, hardware tracking arrays, and package depe
 | Vocational Education (Financial Literacy) | Grade A
 | Art Education (Music / Theater / Dance) | Grade A
 
+> 💡 **System Index Context:** The developmental scales, competencies, and performance metrics listed in the evaluation matrix above follow standard growth metrics. The corresponding behavioral scales, assessment bands, and grading metrics can be analyzed in the system documentation.
+>
+> 🔗 **[View Curricular Grading Scale & Growth Legend](./assets/grading_scale_legend.png)**
+
 <!-- =========================================================================
      SECTION 6: REPERTOIRE ENGINE: TACTICAL GAMBITS
      ========================================================================= -->
