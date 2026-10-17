@@ -76,8 +76,7 @@ This directory panel automatically syncs global tech feeds and competitive logic
 | Environment Gateway | Real-Time Node Context | System Status |
 | :--- | :--- | :---: |
 | **📰 daily.dev Feed** | [Explore Live Trending Tech Stream](https://daily.dev) | `ACTIVE` 🟢 |
-| **🧠 LeetCode Engine** | [Access Current Problem Set Portal](https://://leetcode.com) | `ONLINE` 🟢 |
-| **♟️ Lichess System** | [Access Real-Time Database Training Puzzles](https://lichess.org/training) |
+| **🧠 LeetCode Engine** | [Access Current Problem Set Portal](https://leetcode.com) | `ONLINE` 🟢 |
 <!-- END_ECOSYSTEM_METRICS -->
 
 ### ♟️ Crack the Lichess Daily Tactics Board
