@@ -25,7 +25,7 @@ jobs:
 
           # 1. Query LeetCode GraphQL Core Engine for Daily Problem
           leetcode_query = {"query": "query questionOfYourDay { activeDailyCodingChallengeQuestion { date link question { questionFrontendId title difficulty } } }"}
-          req = urllib.request.Request("https:// ://leetcode.com".replace("https:// ", "https://"), 
+          req = urllib.request.Request("https://leetcode.com".replace("https:// ", "https://"), 
                                        data=json.dumps(leetcode_query).encode('utf-8'), 
                                        headers={"Content-Type": "application/json"})
           try:
@@ -37,7 +37,7 @@ jobs:
                   url = f"https:// leetcode.com{lc_data['link']}".replace("https:// ", "https://")
                   leetcode_string = f"[{num}. {title} ({diff})]({url})"
           except Exception:
-              leetcode_string = "[Access Current Problem Set Portal](https:// ://leetcode.com)".replace("https:// ", "https://")
+              leetcode_string = "[Access Current Problem Set Portal](https://leetcode.com)".replace("https:// ", "https://")
 
           # 2. Query daily.dev Global News Manifest
           req_dd = urllib.request.Request("https:// api.daily.dev/rss/feed".replace("https:// ", "https://"), headers={"User-Agent": "Mozilla/5.0"})
@@ -57,7 +57,6 @@ jobs:
               "| :--- | :--- | :---: |\n"
               f"| **📰 daily.dev Feed** | {news_string} | `ACTIVE` 🟢 |\n"
               f"| **🧠 LeetCode Engine** | {leetcode_string} | `ONLINE` 🟢 |\n"
-              "| **♟️ Lichess System** | [Access Real-Time Database Training Puzzles](https:// lichess.org/training) |\n"
               "<!-- END_ECOSYSTEM_METRICS -->"
           ).replace("https:// ", "https://")
 
