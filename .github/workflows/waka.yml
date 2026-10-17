@@ -17,8 +17,8 @@ jobs:
       - name: Update Readme with Metrics
         uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.WAKA_PAT }} # Uses your new PAT to fix the 403 error
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_EKY }} # Changed KEY to EKY
+          GH_TOKEN: ${{ secrets.WAKA_PAT }}
           SHOW_OS: "false"
           SHOW_PROJECTS: "false"
           SHOW_TIMEZONE: "false"
