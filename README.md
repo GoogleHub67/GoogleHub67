@@ -87,7 +87,7 @@ Positional chess is boring. I can't stand dry, slow games, where I will get rot 
 
 My complete local environment setups, hardware tracking arrays, and package dependencies are version-controlled and fully cataloged across modular manifests.
 
-### 🔗 **[Explore My Complete Environment & Dependencies Here ➜](github.com/GoogleHub67/all-tools-i-use/blob/main/README.md)**
+🔗 **[Explore My Complete Environment & Dependencies](https://www.github.com/GoogleHub67/all-tools-i-use/blob/main/README.md)**
 
 *View real-time indexes for my core programming languages, desktop utility installations, and active library profiles.*
 
