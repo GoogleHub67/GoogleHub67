@@ -176,7 +176,22 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **Spatial System Analysis:** Advanced conceptual mapping of macro-environmental topologies, regional spatial distributions, and coordinate network paths.
 * **Data Integration:** Correlating geographic demographic data arrays with software automation models to evaluate macro metrics efficiently.
 
+---
 
+## 📊 Academic Telemetry: Term Evaluation
+
+| Subject | Internal Assessment (20) | Half-Yearly Exam (80) | Total Marks (100) | Grade |
+| :--- | :---: | :---: | :---: | :---: |
+| **Maths** | 19.92 | 79.00 | **98.92** | A1 |
+| **Science** | 19.25 | 76.50 | **95.75** | A1 |
+| **Computer Science** | 20.00 | 72.00 | **92.00** | A1 |
+| **French** | 19.83 | 71.50 | **91.33** | A1 |
+| **Social Science** | 20.00 | 71.00 | **91.00** | A1 |
+| **English** | 19.83 | 64.50 | **84.33** | A2 |
+| **Hindi** | 15.92 | 63.00 | **78.92** | B1 |
+| **TOTAL** | **114.75** | **425.50** | **540.25 / 600** | **A2** |
+
+*Consolidated performance status: **90.04% Cumulative Aggregate***
 
 <!-- =========================================================================
      SECTION 6: REPERTOIRE ENGINE: TACTICAL GAMBITS
