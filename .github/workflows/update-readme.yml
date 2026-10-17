@@ -31,7 +31,7 @@ jobs:
           req_lc_headers = browser_headers.copy()
           req_lc_headers["Content-Type"] = "application/json"
           
-          req = urllib.request.Request("https:// ://leetcode.com".replace("https:// ", "https://"), 
+          req = urllib.request.Request("https:// leetcode.com/problemset".replace("https:// ", "https://"), 
                                        data=json.dumps(leetcode_query).encode('utf-8'), 
                                        headers=req_lc_headers)
           try:
@@ -43,7 +43,7 @@ jobs:
                   url = f"https:// leetcode.com{lc_data['link']}".replace("https:// ", "https://")
                   leetcode_string = f"[{num}. {title} ({diff})]({url})"
           except Exception:
-              leetcode_string = "[Access Current Problem Set Portal](https:// ://leetcode.com)".replace("https:// ", "https://")
+              leetcode_string = "[Access Current Problem Set Portal](https:// leetcode.com)".replace("https:// ", "https://")
 
           # 2. Query daily.dev Global News Manifest
           req_dd = urllib.request.Request("https:// api.daily.dev/rss/feed".replace("https:// ", "https://"), headers=browser_headers)
