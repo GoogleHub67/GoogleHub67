@@ -20,13 +20,6 @@
 </p>
 
 <!-- =========================================================================
-     LIVE CHESS PLAYER WIDGET
-     ========================================================================= -->
-<p align="center">
-  <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=user-5655435344&theme=dark" alt="Chess.com Stats" width="400"/>
-</p>
-
-<!-- =========================================================================
      SECTION 1: SYSTEM TERMINAL HEADER
      ========================================================================= -->
 
@@ -52,7 +45,11 @@ I am a developer, competitive chess player, and technical builder focused on the
 
 My engineering framework centers on rapid prototyping, continuous optimization, and practical system architecture—whether that involves deploying low-level hardware automation or researching particle state mechanics. Beyond core software development, I actively explore advanced spatial grid systems, coordinate methodologies, and modern microservice pipelines to build creative and highly optimized applications.
 
-> ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but 20 apology letters to survive the chaos, I still pull a 90% academic average. 
+> ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but 20 apology letters to survive the chaos, I still pull a 90% academic average.
+
+<p align="center">
+  <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=user-5655435344&theme=dark" alt="Chess.com Stats" width="400"/>
+</p>
 
 ---
 
@@ -106,14 +103,14 @@ Whatever you do, do not click the dropdown execution layer below unless you want
   <summary><b>Click here for a surprise! 🎉</b></summary>
   <br/>
   <p align="center">
-    <img src="assets/meme.gif" alt="Developer Surprise Meme" width="400"/>
+    <img src="assets/meme.webp" alt="Developer Surprise Meme" width="400"/>
   </p>
 </details>
 
 ---
 
 <!-- =========================================================================
-     SECTION 3: TECH PROJECTS & HARDWARE CORE
+     SECTION 4: TECH PROJECTS & HARDWARE CORE
      ========================================================================= -->
 ## 🛠️ Engineering Sandbox & Future Blueprints
 
@@ -132,7 +129,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 ---
 
 <!-- =========================================================================
-     SECTION 4: OPERATIONAL MATRIX (DEEP SKILL ANALYTICS)
+     SECTION 5: OPERATIONAL MATRIX (DEEP SKILL ANALYTICS)
      ========================================================================= -->
 ## 🚀 Skills & Domain Expertise
 
@@ -213,7 +210,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 ---
 
 <!-- =========================================================================
-     SECTION 5: ACADEMIC FOCUS & SUBJECT PROFICIENCY
+     SECTION 6: ACADEMIC FOCUS & SUBJECT PROFICIENCY
      ========================================================================= -->
 ## 📚 Core Subjects & Academic Focus
 
@@ -268,7 +265,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 > 🔗 **[View Curricular Grading Scale & Growth Legend](./assets/grading_scale_legend.jpg)**
 
 <!-- =========================================================================
-     SECTION 6: REPERTOIRE ENGINE: TACTICAL GAMBITS
+     SECTION 7: REPERTOIRE ENGINE: TACTICAL GAMBITS
      ========================================================================= -->
 ## ♟️ Chess Telemetry: Gambit Win-Rates
 
@@ -297,7 +294,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 ---
 
 <!-- =========================================================================
-     SECTION 7: ALL STATS
+     SECTION 8: ALL STATS
      ========================================================================= -->
 
 ## 📊 GitHub Stats
