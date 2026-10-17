@@ -14,6 +14,10 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: A single YouTube video got me to write Brainfk code once in VS Code and run it just to see if it worked.
 
+<p align="center">
+  <img src="https://readme-typing-svg.democodes.in?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Aarav+Patel;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
 <!-- =========================================================================
      LIVE CHESS PLAYER WIDGET
      ========================================================================= -->
@@ -270,7 +274,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 <!-- ROW 3: DETAILED SUMMARY CARDS -->
 ### 🗂 Profile Summary Cards
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoogleHub67&theme-tokyonight" alt="GoogleHub67's Summary Card" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Summary Card" width="100%" />
 </p>
 
 <!-- ROW 4: ACTIVITY GRAPH -->
