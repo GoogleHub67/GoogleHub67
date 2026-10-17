@@ -291,6 +291,11 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
   </a>
 </p>
 
+### 🐍 Contribution Snake Game
+<p align="center">
+  <img alt="GitHub Animated Contribution Snake" src="https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%">
+</p>
+
 ### 📜 Other Stats
 
 <!--START_SECTION:waka-->
