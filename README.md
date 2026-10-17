@@ -83,6 +83,11 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **Environment Configuration:** Implementing local optimization utilities via PowerShell package ecosystems (`uv`, `pip`, `iex-irm`) to run clean, version-controlled setups.
 * **Algorithmic Development:** Experimenting with machine learning heuristics, pattern recognition models, and custom algorithmic rule-engines.
 
+#### 🛡️ Cybersecurity & Defensive Engineering
+* **Data Sanitization & Redaction Logic:** Programmatically stripping identifying PII strings and sensitive metadata layers from unverified document formats using defensive byte-scraping frameworks (`pymupdf` / `fitz`).
+* **Open-Source Reconnaissance & Security:** Evaluating credential safety boundaries, identifying potential code-leak vulnerabilities, and configuring strict repository security masks to prevent automated scraping vectors.
+* **Local System Security Hardening:** Setting up safe development environments and testing scripts locally behind sandboxed environments before production deployments.
+
 #### 🔌 IoT Engineering & Embedded Systems
 * **Hardware Prototyping:** Interfacing microcontrollers like Arduino with microprocessors like the Raspberry Pi Zero W/4 to build automated physical arrays.
 * **Low-Level Microcode Mapping:** Engineering firmware scripts to map General Purpose Input/Output (GPIO) pin schemas for direct digital-to-analog interactions.
