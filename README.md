@@ -106,7 +106,7 @@ Choosing a song is easily the hardest engineering challenge here. This is the hi
 * System Vibe   : Pure Code Mode / Chill Paris Café Matrix ☕✨
 ===========================================================================
 ```
-👉 **[Click here to stream my current focus anthem on your device!]([PASTE _ YOUR _ YOUTUBE _ OR _ SPOTIFY _ SONG _ LINK _ HERE](https://www.youtube.com/watch?v=mNLJMTRvyj8))**
+👉 **[Click here to stream my current focus anthem on your device!](https://www.youtube.com/watch?v=mNLJMTRvyj8)**
 
 ### 📦 System Easter Egg
 Whatever you do, do not click the dropdown execution layer below unless you want a complete cognitive buffer disruption.
