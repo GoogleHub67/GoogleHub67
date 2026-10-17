@@ -7,7 +7,7 @@
 - 💬 Ask me about chess or coding. Or math or physics (especially quantum!) or chemistry or geography. I'm happy to help!
 - 📫 How to reach me: 
     - **Mail:** mailto:aaravpatel14.in@gmail.com 
-    - **Chess.com:** https://www.chess.com/username/BadassKidintheBackend
+    - **Chess.com:** https://www.chess.com/username/user-5655435344
     - **Reddit:** https://www.reddit.com/user/Remarkable_Elk_1077
     - **YouTube:** https://www.youtube.com/@Aarav_Chess
     - **X:** https://www.x.com/Tactic_Titan
