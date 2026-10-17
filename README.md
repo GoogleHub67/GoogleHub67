@@ -82,9 +82,9 @@ This directory panel automatically syncs global tech feeds and competitive logic
 ### ♟️ Crack the Lichess Daily Tactics Board
 Think you can find the winning sequence? The official board position updates daily. Evaluate the matrix before making your move.
 <p align="center">
-    <img src="https://lichess.org/assets/logo/letter-white.png" alt="Official Lichess Logo" width="120"/>
-    <br/>
+  <a href="https://lichess.org/training">
     <b>👉 Click here to solve today's official Lichess Daily Puzzle! 🧩</b>
+  </a>
 </p>
 
 ### 🎵 Sync into my Coding Jukebox Matrix
