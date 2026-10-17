@@ -246,7 +246,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 ## 📊 GitHub Stats
 
 <!-- ROW 1: PRIMARY STATS & LANGUAGE BREAKDOWN -->
-### 📊 Core Overview
+### 📈 Core Overview
 <table>
   <tr>
     <td width="50%" align="center">
@@ -277,13 +277,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Summary Card" width="100%" />
 </p>
 
-<!-- ROW 4: ACTIVITY GRAPH -->
-### 📈 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Activity Graph" width="100%" />
-</p>
-
-<!-- ROW 5: PROFILE TROPHIES -->
+<!-- ROW 4: PROFILE TROPHIES -->
 ### 🏆 Achievements & Trophies
 <p align="center">
   <a href="https://github.com">
@@ -291,6 +285,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
   </a>
 </p>
 
+<!-- ROW 5: SNAKE GAME -->
 ### 🐍 Contribution Snake Game
 <p align="center">
   <img alt="GitHub Animated Contribution Snake" src="https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%">
