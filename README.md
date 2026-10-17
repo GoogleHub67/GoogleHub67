@@ -204,7 +204,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 > 💡 **System Index Context:** The developmental scales, competencies, and performance metrics listed in the evaluation matrix above follow standard growth metrics. The corresponding behavioral scales, assessment bands, and grading metrics can be analyzed in the system documentation.
 >
-> 🔗 **[View Curricular Grading Scale & Growth Legend](./assets/grading_scale_legend.png)**
+> 🔗 **[View Curricular Grading Scale & Growth Legend](./assets/grading_scale_legend.jpg)**
 
 <!-- =========================================================================
      SECTION 6: REPERTOIRE ENGINE: TACTICAL GAMBITS
