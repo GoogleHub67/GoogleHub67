@@ -40,6 +40,16 @@
                         - Architecting automated Lichess database bots.
 ===========================================================================
 ```
+```text
+===========================================================================
+																ALL PORTS
+===========================================================================
+* PORT 21 [FTP]     --> Lichess Engine Sync Pipeline [ONLINE]
+* PORT 80 [HTTP]    --> Kotlin/Go Microservices Sandbox [LISTENING]
+* PORT 443 [HTTPS]  --> Quantum Telemetry Tracker Heuristics [STABLE]
+* PORT 8080 [LOCAL] --> Raspberry Pi GPIO Pin Actuation Arrays [ENGAGED]
+===========================================================================
+```
 
 <!-- =========================================================================
      SYSTEM NAVIGATION CONTROL INDEX
@@ -242,6 +252,7 @@ Choosing a song is easily the hardest engineering challenge here. This is the hi
 * Current Track : "Jazz In Paris"
 * Active Artist : "Media Right Productions"
 * System Vibe   : Pure Code Mode / Chill Paris Café Matrix ☕✨
+* Audio Stream  : █▄█▄█▄█▄█ 320kbps [BUFFERING LAYER: 100%]
 ===========================================================================
 ```
 👉 **[Click here to stream my current focus anthem on your device!](https://www.youtube.com/watch?v=mNLJMTRvyj8)**
@@ -265,6 +276,7 @@ Whatever you do, do not click the dropdown execution layer below unless you want
 
 > [!TIP]
 > **DEPENDENCY MANAGEMENT PRO-TIP:** I use PowerShell tooling to manage my programming environments. If you are still manually downloading dependencies and setting system path variables by clicking through Windows menus in 2026, please seek administrative server help immediately.
+> `[Environment]::SetEnvironmentVariable("SKILL_ISSUE", $true, "User")`
 * **My Stack:** I write high-throughput scripts in Python, build experimental configurations in Scala, manage structural relational databases via DBeaver SQL, and optimize environments using PowerShell tooling (`pip` / `iex-irm` / `uv`).
 * **Automated Physical Chessboard:** I am architecting an automated, physical chess engine driven by a **Raspberry Pi (Zero W or 4)**. The system pulls live data over server APIs, actuates physical pieces under the board using micro-motors, and runs real-time hardware validation scripts to prevent illegal moves.
 * **Infinite Matrix Chess:** Fusing spatial coordinate structures from Math Olympiad with software engineering to write game engines that eliminate standard grid boundaries, translating traditional rule sets into infinite matrix grids.
@@ -304,6 +316,17 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **Low-Level Microcode Mapping:** Engineering firmware scripts to map General Purpose Input/Output (GPIO) pin schemas for direct digital-to-analog interactions.
 * **Motor Actuation Systems:** Writing custom motor drivers to precisely control step-sequences, pulse-width modulation (PWM), and magnetic positioning under custom surfaces.
 * **Circuit Design Logic:** Designing electrical schematics that safely handle voltage distribution, logic level shifting, and physical sensory feedback loops.
+
+```text
+===========================================================================
+[EMBEDDED NODE CONFIG] DEVICE: RASPBERRY PI ZERO W / 4 | STATUS: PROTOTYPE
+===========================================================================
+* Bus Interfacing     : I2C / SPI Matrix Active 🔌
+* Pin Mapping Schema  : GPIO SysFS Mapping (Direct Digital-to-Analog)
+* Actuation Protocol  : Custom PWM Step-Sequencers / H-Bridge Motor Drivers
+* Server Connectivity : Lichess Async Engine Engine Sync (Lila REST API)
+===========================================================================
+```
 
 #### 🔧 Custom PC Architecture & Engineering
 * **System Blueprinting:** Planning complex desktop system configurations from individual structural component compatibility up to physical deployment.
