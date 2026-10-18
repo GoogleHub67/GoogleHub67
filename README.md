@@ -41,15 +41,16 @@
 
 ```text
 ┌── [INDEX GATEWAY] ────────────────────────────────────────────────────────
-├── 01. 🙋‍♂️ [Biographical Registry]  ──> #🙋‍♂️-get-to-know-me-the-90-honest-qa
-├── 02. 🕹️ [Interactive Modules]   ──> #️-fun-things-you-should-try
-├── 03. 🛠️ [Engineering Blueprint]  ──> #️-engineering-sandbox--future-blueprints
-├── 04. 🚀 [Skill Matrix Core]     ──> #-skills--domain-expertise
-├── 05. 📚 [Academic Telemetry]    ──> #-academic-telemetry-term-evaluation
-├── 06. ♟️ [Tactical Chess Logs]   ──> #️-chess-telemetry-gambit-win-rates
-└── 07. 📊 [GitHub Engine Stats]   ──> #-github-stats
+├── 01. 🙋‍♂️ [Biographical Registry]  ──> [Click to Jump Link](#get-to-know-me-the-90-honest-qa)
+├── 02. 🕹️ [Interactive Modules]   ──> [Click to Jump Link](#️-fun-things-you-should-try)
+├── 03. 🛠️ [Engineering Blueprint]  ──> [Click to Jump Link](#️-engineering-sandbox--future-blueprints)
+├── 04. 🚀 [Skill Matrix Core]     ──> [Click to Jump Link](#-skills--domain-expertise)
+├── 05. 📚 [Academic Telemetry]    ──> [Click to Jump Link](#-academic-telemetry-term-evaluation)
+├── 06. ♟️ [Tactical Chess Logs]   ──> [Click to Jump Link](#️-chess-telemetry-gambit-win-rates)
+└── 07. 📊 [GitHub Engine Stats]   ──> [Click to Jump Link](#-github-stats)
 ────────────────────────────────────────────────────────────────────────────
 ```
+
 
 ---
 
