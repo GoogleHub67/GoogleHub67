@@ -63,11 +63,9 @@
      SECTION 2: BIOGRAPHY & SYSTEM SUMMARY
      ========================================================================= -->
 
-# 🙋‍♂️ Get to Know Me: The 90% honest Q&A?
+## 🙋‍♂️ Get to Know Me: The 90% honest Q&A?
 
 ---
-
-## 📌 The Personal Stack
 
 > **Q: Who are you in a single sentence?**  
 > A: Too many things. Go to Section 4 to learn more.
@@ -170,7 +168,7 @@ Whatever you do, do not click the dropdown execution layer below unless you want
 * **Automated Physical Chessboard:** I am architecting an automated, physical chess engine driven by a **Raspberry Pi (Zero W or 4)**. The system pulls live data over server APIs, actuates physical pieces under the board using micro-motors, and runs real-time hardware validation scripts to prevent illegal moves.
 * **Infinite Matrix Chess:** Fusing spatial coordinate structures from Math Olympiad with software engineering to write game engines that eliminate standard grid boundaries, translating traditional rule sets into infinite matrix grids.
 
-## 🛠️ Environment Configuration
+### ⚙️ Environment Configuration
 
 My complete local environment setups, hardware tracking arrays, and package dependencies are version-controlled and fully cataloged across modular manifests.
 
