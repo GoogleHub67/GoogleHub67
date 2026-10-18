@@ -94,7 +94,7 @@
   
   _Disclaimer: This routing matrix tracks global geographical layout variations, high-density computing clusters, and historical chess hubs._
 
-| 🌏 Asia, Middle East, Latin Anmerica & Oceania (23) | 🌍 Europe, North Americas & Africa (25) |
+| 🌏 Asia, Middle East, Latin America & Oceania (23) | 🌍 Europe, North Americas & Africa (25) |
 | :--- | :--- |
 | 📍 Singapore | 📍 Reykjavik, Iceland |
 | 📍 Tokyo, Japan | 📍 Oslo, Norway |
