@@ -1,0 +1,58 @@
+name: Dispense Chess Wisdom
+
+on:
+  repository_dispatch:
+    types: [dispense_wisdom]
+  workflow_dispatch: # Allows you to manually trigger it from the Actions tab
+
+jobs:
+  telemetry_fetch:
+    name: Execute Gambit Telemetry Pipeline
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Initialize Mainframe Connection & Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Validate Database Integrity
+        run: |
+          if [ ! -f chess_tips.json ]; then
+            echo "::error::CRITICAL FAULT: chess_tips.json is missing from the repository root."
+            exit 1
+          fi
+          
+          # Check if JSON structure is valid syntax
+          if ! jq empty chess_tips.json 2>/dev/null; then
+            echo "::error::CRITICAL FAULT: chess_tips.json contains invalid syntax or bad formatting."
+            exit 1
+          fi
+
+      - name: Parse Telemetry Array & Extract Random Data Block
+        id: parse_data
+        run: |
+          # Fetch a completely randomized object row from the array matrix
+          RANDOM_ROW=$(jq -c '.[]' chess_tips.json | shuf -n 1)
+          
+          # Extract variables and fallback to defaults if properties are empty
+          RANK=$(echo "$RANDOM_ROW" | jq -r '.rank // "N/A"')
+          OPENING=$(echo "$RANDOM_ROW" | jq -r '.opening // "Unknown Payload"')
+          WIN_RATE=$(echo "$RANDOM_ROW" | jq -r '.win_rate // "??%"')
+          TELEMETRY=$(echo "$RANDOM_ROW" | jq -r '.telemetry // "No telemetric logs extracted."')
+          THREAT=$(echo "$RANDOM_ROW" | jq -r '.threat_level // "UNKNOWN ⚪"')
+
+          # Output to terminal logs with cyberpunk formatting
+          echo "==========================================================================="
+          echo "♟️  GOOGLEHUB67 TELEMETRY DISPATCH SYSTEM | STATUS: ACTIVE"
+          echo "==========================================================================="
+          echo "  [+] SECURITY/THREAT ASSESSMENT : $THREAT"
+          echo "  [+] TARGET OPENING REGISTERED  : $OPENING"
+          if [ "$RANK" != "N/A" ]; then
+            echo "  [+] DATABASE INDEX / RANK      : #$RANK out of 30"
+          fi
+          echo "  [+] SYSTEM REGISTERED WIN-RATE : $WIN_RATE"
+          echo "---------------------------------------------------------------------------"
+          echo "  [>] TELEMETRIC INSTRUCTION LOGS:"
+          echo "      $TELEMETRY"
+          echo "==========================================================================="
+          echo "STATUS: DATASET DEPLOYED SUCCESSFUL. BUFFER FLUSHED. STANDBY..."
+          echo "==========================================================================="
