@@ -67,6 +67,8 @@
 
 ---
 
+<details>
+
 > **Q: Who are you in a single sentence?**  
 > A: Too many things. Go to Section 4 to learn more.
 
@@ -86,6 +88,42 @@
 - 📚 **Top Books:** Quantum Physics and Coding-related books from 2005
 - 🏠 **My Setup:** A nuclear reactor you will be shocked to see
 - 👤 **Favourite Personalities:** Linus Thorvalds, Alan Turning, and Dennis Wrenchtie (misspelled lol)
+
+> **Global Trajectory: 48 Target Cities I Want to Visit**
+<details>
+  <summary><b>🌍 Click to expand the Global Target Navigation Array (48 Cities)...</b></summary>
+  <br/>
+  
+  _Disclaimer: This routing matrix tracks global geographical layout variations, high-density computing clusters, and historical chess hubs._
+
+| 🌏 Asia, Middle East & Oceania (23) | 🌍 Europe, Americas & Africa (25) |
+| :--- | :--- |
+| 📍 Singapore | 📍 Reykjavik, Iceland |
+| 📍 Tokyo, Japan | 📍 Oslo, Norway |
+| 📍 Seoul, South Korea | 📍 Copenhagen, Denmark |
+| 📍 Taipei, Taiwan | 📍 London, UK |
+| 📍 Shanghai, China | 📍 Dublin, Ireland |
+| 📍 Hong Kong | 📍 Geneva, Switzerland |
+| 📍 Melbourne, Australia | 📍 Zurich, Switzerland |
+| 📍 Auckland, New Zealand | 📍 Innsbruck, Austria |
+| 📍 Bangkok, Thailand | 📍 Grenoble, France |
+| 📍 Ho Chi Minh City, Vietnam | 📍 Wijk aan Zee, Netherlands ♟️ |
+| 📍 Hanoi, Vietnam | 📍 Veldhoven, Netherlands 💻 |
+| 📍 Muscat, Oman | 📍 Tallinn, Estonia |
+| 📍 Riyadh, Saudi Arabia | 📍 Riga, Latvia |
+| 📍 Dubai, United Arab Emirates | 📍 Warsaw, Poland |
+| 📍 Tel Aviv, Israel | 📍 Prague, Czech Republic |
+| 📍 Istanbul, Turkey | 📍 Bratislava, Slovakia |
+| 📍 Tbilisi, Georgia | 📍 Budapest, Hungary |
+| 📍 Yerevan, Armenia | 📍 Bucharest, Romania |
+| 📍 Toronto, Canada | 📍 Athens, Greece |
+| 📍 Panama City, Panama | 📍 Moscow, Russia ♟️ |
+| 📍 Paramaribo, Suriname | 📍 Minsk, Belarus |
+| 📍 Quito, Ecuador | 📍 Rabat, Morocco |
+| 📍 Managua, Nicaragua | 📍 Tunis, Tunisia |
+| | 📍 Buenos Aires, Argentina |
+| | 📍 Santiago, Chile |
+| | 📍 Lima, Peru |
 
 </details>
 
