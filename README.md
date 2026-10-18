@@ -160,9 +160,14 @@ My complete local environment setups, hardware tracking arrays, and package depe
 <!-- =========================================================================
      SECTION 5: OPERATIONAL MATRIX (DEEP SKILL ANALYTICS)
      ========================================================================= -->
+<!-- =========================================================================
+     SECTION 5: OPERATIONAL MATRIX (DEEP SKILL ANALYTICS)
+     ========================================================================= -->
 ## 🚀 Skills & Domain Expertise
 
-### 💻 Deep Tech, Automation & Robotics
+<details>
+  <summary><b>💻 Deep Tech, Automation & Robotics</b></summary>
+  <br/>
 
 #### 🖥️ Advanced Software & Automation Pipelines
 * **High-Throughput Scripting & Pipelines:** Architecting automated scripts using Python, functional Scala frameworks, and comprehensive database structures.
@@ -190,8 +195,11 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **System Diagnostics:** Operating as a physical laptop and PC diagnostic technician handling precision hardware restoration and low-level component replacements.
 * **Fault Isolation:** Executing comprehensive logic-board fault analysis, isolation of shorted circuits, and mechanical troubleshooting of dynamic internal arrays.
 * **Firmware & OS Recovery:** Implementing advanced operating system imaging, registry diagnostics, storage sector restoration, and recovery of bricked firmware structures.
+</details>
 
-### 🔬 Quantitative Sciences & Lit Formulation
+<details>
+  <summary><b>🔬 Quantitative Sciences & Lit Formulation</b></summary>
+  <br/>
 
 #### ♟️ Strategic Chess Mechanics & Systems
 * **Tactical Opening & Calculation Matrix:** High-volatility tactical calculations, processing sharp, double-edged asymmetric variations (1500 FIDE strength).
@@ -215,8 +223,11 @@ My complete local environment setups, hardware tracking arrays, and package depe
 #### 📝 Technical & Research Writing
 * **Academic Formulation:** Authoring deeply structured academic research papers, logic logs, and technical whitepapers mapping out complex multi-disciplinary systems.
 * **Open-Source Documentation:** Formulating exact technical documentation, syntax manifests, and project README structures that follow enterprise open-source guidelines.
+</details>
 
-### 📊 Venture Strategy & Tactical Systems
+<details>
+  <summary><b>📊 Venture Strategy & Tactical Systems</b></summary>
+  <br/>
 
 #### 📈 Quantitative Finance & Market Systems
 * **Market Trend Modeling:** Modeling macro-economic trends, asset price movements, and statistical investment risk factors within equity environments.
@@ -227,14 +238,18 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **Product Architecture:** Mapping out agile minimum viable product (MVP) lifecycles by converting napkin sketches into deployment-ready software configurations.
 * **Scalability Blueprinting:** Formulating user-flow architectures, determining tech stack requirements, and calculating data scalability barriers.
 * **Resource Optimization:** Architecting market positioning plans that leverage open-source solutions to bypass heavy software development costs.
+</details>
 
-### 🏏 Athletic Performance & Fandom
+<details>
+  <summary><b>🏏 Athletic Performance & Fandom</b></summary>
+  <br/>
 
 #### 🏏 Competitive Cricket & Kinetic Strategy
 * **District-Level Athletic Selection:** Selected and competing within formal district cricket frameworks, demonstrating verified on-field performance metrics and strategic execution under tournament pressure.
 * **Biomechanical Execution:** Applying fluid dynamics and rotational mechanics to optimize power transfer and entry angles during high-impact stroke play.
 * **Real-time Trajectory Analytics:** Processing real-time aerodynamic variables (such as spin degradation, seam position, and pitch moisture variations) to execute defensive and offensive positioning.
 * **Strategic Alliances & Global Fandom:** Die-hard, proud supporter of **Team India (ICT)** 🇮🇳 and **Royal Challengers Bengaluru (RCB)** ❤️—tracking high-pressure match dynamics, field placements, and tactical pacing metrics.
+</details>
 
 ---
 
