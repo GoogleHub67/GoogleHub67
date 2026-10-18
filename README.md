@@ -517,15 +517,11 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 <!-- SUB-ROW 1: CORE PROFILE TRACKERS -->
 #### 📈 Core Profile Trackers
 ![Followers](https://img.shields.io/github/followers/GoogleHub67?style=flat-looking)
-![Following](https://img.shields.io/github/following/GoogleHub67?style=flat-looking)
-![Repositories](https://img.shields.io/github/directory-listing/GoogleHub67?style=flat-looking)
 
 <!-- SUB-ROW 2: ENGAGEMENT & NETWORKING -->
 #### 🌐 Engagement and Networking
 ![Stars](https://img.shields.io/github/stars/GoogleHub67?style=flat-looking)
-![Forks](https://img.shields.io/github/forks/GoogleHub67?style=flat-looking)
 ![Sponsors](https://img.shields.io/github/sponsors/GoogleHub67?style=flat-looking)
-![Orgs](https://img.shields.io/github/orgs/GoogleHub67?style=flat-looking)
 
 <!-- ROW 2: PRIMARY STATS & LANGUAGE BREAKDOWN -->
 ### 📈 Core Overview
@@ -544,6 +540,9 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 ### 🔥 Momentum & Edge Metrics
 <table>
   <tr>
+    <td width="50%" align="center">
+    <img src= "https://github-readme-stats.vercel.app/api/pin?username=GoogleHub67&repo=GoogleHub67&theme=radial" alt="GoogleHub67's Forks Stats" width="100%" />
+    </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Streak Stats" width="100%" />
     </td>
