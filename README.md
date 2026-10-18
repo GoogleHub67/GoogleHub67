@@ -154,6 +154,42 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=LOADING+SYSTEM+1978...;HELLO+WORLD...;RUNNING+BRAINFK_COMPILER...;I+BUILD+COOL+SHIT." alt="Typing SVG" />
 </p>
 
+```text
+===========================================================================
+[MAIN_TERMINAL] RUNNING INTERNAL CODE DATASETS...
+===========================================================================
+>> LOADING COMPILER LAYER... [SUCCESS]
+>> CORE DECRYPT ENGINE PACKET TARGET: brainfk_interpreter.exe
+>> STATUS: INJECTING ASYMMETRIC PAYLOAD METRICS...
+
+[MATRIX MEMORY PAYLOAD STRING]:
++++++++ [ > ++++++++++ < - ] > +++++ . < +++++++ [ > --- < - ] > -. 
+< ++++++++ [ > +++++++ < - ] > ++ . < +++++++ [ > ------ < - ] > --- . 
++++++++ .
+
+>> INFO: Run this array block inside your development console terminal.
+===========================================================================
+```
+
+### ♟️ Lichess Autonomous Bot Telemetry Node
+My automated engine executes logic configurations independently from my personal account. The live nodes track operational metrics for **`makechessbetter`**:
+
+<p align="center">
+  <a href="https://lichess.org/@/MakeChessBetter">
+    <img src="https://img.shields.io/badge/Lichess%20Bot-ONLINE-brightgreen?style=flat&logo=lichess&logoColor=white" alt="Bot Status Tracker"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lichess.org/@/MakeChessBetter">
+    <img src="https://lichess-shield.vercel.app/api?username=makechessbetter&format=blitz" alt="Bot Blitz Rating"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://lichess.org/@/MakeChessBetter">
+    <img src="https://lichess-shield.vercel.app/api?username=makechessbetter&format=rapid" alt="Bot Rapid Rating"/>
+  </a>
+</p>
+
 ### 🚀 Technical Telemetry & Algorithmic Streams
 This directory panel automatically syncs global tech feeds and competitive logic paths via internal repository automated workflows.
 
