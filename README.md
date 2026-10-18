@@ -665,7 +665,7 @@ May his soul rest in eternal peace. The chess community will forever remember hi
      ========================================================================= -->
 
 > [!TIP]
-> **SYSTEM COMPILATION COMPLETE:** If you actually scrolled through all 656 lines of this 37.5 KB data dump and read this far down, thank you for taking your time. Your dedication to reading text screens is highly optimal, and your attention span is officially superior to 99% of the internet. You may now safely log out of the mainframe.
+> **SYSTEM COMPILATION COMPLETE:** If you actually scrolled through all ~700 lines of this ~40 KB data dump and read this far down, thank you for taking your time. Your dedication to reading text screens is highly optimal, and your attention span is officially superior to 99% of the internet. You may now safely log out of the mainframe.
 
 > [!WARNING]
 > **POSIX COMPLIANCE NOTE FOR CASUALS:** If you are digging through this repository's source code and wondering why there is a blank line left at the absolute end of the file, it is because Git and POSIX standard compilers are notoriously stupid and throw runtime tantrums when a file lacks a trailing newline (`\n`). If you did not already know that a missing end-of-file newline breaks data line-parsing logic, congratulations—you are just as clueless as the system architecture you are using. To be fair, my past self used to omit this line all the time because I completely lacked the brains to realize why my diff branches were breaking. And yes, I actually hit Enter to create it this time, because otherwise I'd be the stupid one here.
