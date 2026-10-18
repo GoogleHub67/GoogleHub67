@@ -23,6 +23,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Aarav+Patel;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+```text
+   ______                  __     __  __      __    __________
+  / ____/___  ____  ____ _/ /__  / / / /_  __/ /_  / ___/__  /
+ / / __/ __ \/ __ \/ __ `/ / _ \/ /_/ / / / / __ \/ __ \  / / 
+/ /_/ / /_/ / /_/ / /_/ / /  __/ __  / /_/ / /_/ / /_/ / / /  
+\____/\____/\____/\__, /_/\___/_/ /_/\__,_/_.___/\____/ /_/   
+                 /____/                                       
+
+```
+         
 <!-- =========================================================================
      SECTION 1: SYSTEM TERMINAL HEADER
      ========================================================================= -->
@@ -42,12 +52,22 @@
 ```
 ```text
 ===========================================================================
-																ALL PORTS
+                               ALL PORTS
 ===========================================================================
 * PORT 21 [FTP]     --> Lichess Engine Sync Pipeline [ONLINE]
 * PORT 80 [HTTP]    --> Kotlin/Go Microservices Sandbox [LISTENING]
 * PORT 443 [HTTPS]  --> Quantum Telemetry Tracker Heuristics [STABLE]
 * PORT 8080 [LOCAL] --> Raspberry Pi GPIO Pin Actuation Arrays [ENGAGED]
+===========================================================================
+```
+```text
+===========================================================================
+[MAIN ENGINE LOG] DYNAMIC THREAD BALANCING 
+===========================================================================
+* Lichess AI Worker Core 01 : [██████████████████░░] 88% (Async Polling)
+* Telemetry Engine Core 02  : [██████████░░░░░░░░░░] 52% (Database Write)
+* Physics Array Core 03     : [██████████████░░░░░░] 74% (Qubit Matrix)
+* GPIO Actuator Core 04     : [████░░░░░░░░░░░░░░░░] 20% (Step Drivers)
 ===========================================================================
 ```
 
@@ -706,6 +726,13 @@ May his soul rest in eternal peace. The chess community will forever remember hi
 > [!TIP]
 > **SYSTEM COMPILATION COMPLETE:** If you actually scrolled through all ~700 lines of this ~40 KB data dump and read this far down, thank you for taking your time. Your dedication to reading text screens is highly optimal, and your attention span is officially superior to 99% of the internet. You may now safely log out of the mainframe.
 
+```text
+[FINAL_DIAGNOSTICS] -------------------------------------------------------
+>> RYZEN 5 7600 CORE STATUS   : OK [6 ACTIVE THREADS ENGAGED]
+>> RTX 3060 VRAM ALLOCATION   : OK [12GB HARDWARE CACHE INITIALIZED]
+>> INLINE BRAINFK INTERPRETER : OK [0 RUNTIME OVERFLOWS ENCOUNTERED]
+---------------------------------------------------------------------------
+```
 ```text
 ===========================================================================
 [MAIN_TERMINAL] EXECUTE: LOGOUT --FORCE
