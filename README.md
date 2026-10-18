@@ -49,6 +49,7 @@
 ├── 06. ♟️ [Tactical Chess Logs]   ──> #️-chess-telemetry-gambit-win-rates
 └── 07. 📊 [GitHub Engine Stats]   ──> #-github-stats
 ────────────────────────────────────────────────────────────────────────────
+```
 
 ---
 
