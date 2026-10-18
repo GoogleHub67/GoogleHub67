@@ -172,7 +172,7 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 ```
 
 ### ♟️ Lichess Autonomous Bot Telemetry Node
-My automated engine executes logic configurations independently from my personal account. The live nodes track operational metrics for **`makechessbetter`**:
+My automated engine executes logic configurations independently from my personal account. The live nodes track operational metrics for **`MakeChessBetter`**:
 
 <p align="center">
   <a href="https://lichess.org/@/MakeChessBetter">
@@ -187,6 +187,18 @@ My automated engine executes logic configurations independently from my personal
   &nbsp;&nbsp;
   <a href="https://lichess.org/@/MakeChessBetter">
     <img src="https://lichess-shield.vercel.app/api?username=makechessbetter&format=rapid" alt="Bot Rapid Rating"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://lichess.org/@/MakeChessBetter">
+    <img src="https://lichess-shield.vercel.app/api?username=makechessbetter&format=bullet" alt="Bot Bullet Rating"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://lichess.org/@/MakeChessBetter">
+    <img src="https://lichess-shield.vercel.app/api?username=makechessbetter&format=correspondence" alt="Bot Correspondence Rating"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://lichess.org/@/MakeChessBetter">
+    <img src="https://lichess-shield.vercel.app/api?username=makechessbetter&format=classical" alt="Bot Classical Rating"/>
   </a>
 </p>
 
