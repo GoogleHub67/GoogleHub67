@@ -49,26 +49,6 @@
                         - Architecting automated Lichess database bots.
 ===========================================================================
 ```
-```text
-===========================================================================
-                               ALL PORTS
-===========================================================================
-* PORT 21 [FTP]     --> Lichess Engine Sync Pipeline [ONLINE]
-* PORT 80 [HTTP]    --> Kotlin/Go Microservices Sandbox [LISTENING]
-* PORT 443 [HTTPS]  --> Quantum Telemetry Tracker Heuristics [STABLE]
-* PORT 8080 [LOCAL] --> Raspberry Pi GPIO Pin Actuation Arrays [ENGAGED]
-===========================================================================
-```
-```text
-===========================================================================
-[MAIN ENGINE LOG] DYNAMIC THREAD BALANCING 
-===========================================================================
-* Lichess AI Worker Core 01 : [██████████████████░░] 88% (Async Polling)
-* Telemetry Engine Core 02  : [██████████░░░░░░░░░░] 52% (Database Write)
-* Physics Array Core 03     : [██████████████░░░░░░] 74% (Qubit Matrix)
-* GPIO Actuator Core 04     : [████░░░░░░░░░░░░░░░░] 20% (Step Drivers)
-===========================================================================
-```
 
 <!-- =========================================================================
      SYSTEM NAVIGATION CONTROL INDEX
@@ -299,6 +279,28 @@ Whatever you do, do not click the dropdown execution layer below unless you want
 * **My Stack:** I write high-throughput scripts in Python, build experimental configurations in Scala, manage structural relational databases via DBeaver SQL, and optimize environments using PowerShell tooling (`pip` / `iex-irm` / `uv`).
 * **Automated Physical Chessboard:** I am architecting an automated, physical chess engine driven by a **Raspberry Pi (Zero W or 4)**. The system pulls live data over server APIs, actuates physical pieces under the board using micro-motors, and runs real-time hardware validation scripts to prevent illegal moves.
 * **Infinite Matrix Chess:** Fusing spatial coordinate structures from Math Olympiad with software engineering to write game engines that eliminate standard grid boundaries, translating traditional rule sets into infinite matrix grids.
+
+```text
+===========================================================================
+                               ALL PORTS
+===========================================================================
+* PORT 21 [FTP]     --> Lichess Engine Sync Pipeline [ONLINE]
+* PORT 80 [HTTP]    --> Kotlin/Go Microservices Sandbox [LISTENING]
+* PORT 443 [HTTPS]  --> Quantum Telemetry Tracker Heuristics [STABLE]
+* PORT 8080 [LOCAL] --> Raspberry Pi GPIO Pin Actuation Arrays [ENGAGED]
+===========================================================================
+```
+
+```text
+===========================================================================
+[MAIN ENGINE LOG] DYNAMIC THREAD BALANCING 
+===========================================================================
+* Lichess AI Worker Core 01 : [██████████████████░░] 88% (Async Polling)
+* Telemetry Engine Core 02  : [██████████░░░░░░░░░░] 52% (Database Write)
+* Physics Array Core 03     : [██████████████░░░░░░] 74% (Qubit Matrix)
+* GPIO Actuator Core 04     : [████░░░░░░░░░░░░░░░░] 20% (Step Drivers)
+===========================================================================
+```
 
 ### ⚙️ Environment Configuration
 
@@ -732,6 +734,7 @@ May his soul rest in eternal peace. The chess community will forever remember hi
 >> INLINE BRAINFK INTERPRETER : OK [0 RUNTIME OVERFLOWS ENCOUNTERED]
 ---------------------------------------------------------------------------
 ```
+
 ```text
 ===========================================================================
 [MAIN_TERMINAL] EXECUTE: LOGOUT --FORCE
