@@ -432,6 +432,12 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
   <img alt="GitHub Animated Contribution Snake" src="https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%">
 </p>
 
+<!-- ROW 6: GITCITY CONTRIBUTION METRICS -->
+### 🏙️ Global Mainframe Grid Metrics (GitCity Cyberpunk Skyline)
+<p align="center">
+  <img src="https://gitcity.natrajx.in/api/svg?username=GoogleHub67" alt="GoogleHub67's GitCity Skyline" width="100%"/>
+</p>
+
 ### 📜 Other Stats
 
 <!--START_SECTION:waka-->
