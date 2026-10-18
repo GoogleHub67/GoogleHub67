@@ -40,7 +40,7 @@
 
 ## 🗺️ System Navigation Map
 
-```markdown
+```
 ┌── [INDEX GATEWAY]
 ├── 01. 🙋‍♂️ [Biographical Registry] ──> [Click to Jump](#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa)  
 ├── 02. 🕹️ [Interactive Modules]   ──> [Click to Jump](#%EF%B8%8F-fun-things-you-should-try)  
