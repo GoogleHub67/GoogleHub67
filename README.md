@@ -23,13 +23,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Aarav+Patel;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+```text
    ______                  __     __  __      __    __________
   / ____/___  ____  ____ _/ /__  / / / /_  __/ /_  / ___/__  /
  / / __/ __ \/ __ \/ __ `/ / _ \/ /_/ / / / / __ \/ __ \  / / 
 / /_/ / /_/ / /_/ / /_/ / /  __/ __  / /_/ / /_/ / /_/ / / /  
 \____/\____/\____/\__, /_/\___/_/ /_/\__,_/_.___/\____/ /_/   
                  /____/                                       
-
+```
          
 <!-- =========================================================================
      SECTION 1: SYSTEM TERMINAL HEADER
