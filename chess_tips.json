@@ -91,7 +91,7 @@
     "threat_level": "CRITICAL 🟥"
   },
   {
-    "rank": 14
+    "rank": 14,
     "opening": "Laroche Gambit (Van Geet Complex) 🛡️",
     "win_rate": "54%",
     "telemetry": "1.Nc3 b5!? A hyper-shady flank exploit specifically designed to annoy and evict White's developed c3 knight. Triggers immediate asymmetry on move one, overloading standard center-control script algorithms.",
@@ -217,28 +217,28 @@
     "threat_level": "MAXIMUM CHAOS 💀"
   },
   {
-    "rank": 32
+    "rank": 32,
     "opening": "Ross Gambit (Reti/Zukertort Complex) 🐴",
     "win_rate": "50%",
     "telemetry": "1.Nf3 e5!? A highly dubious, lightning-fast psychological payload for Black. Surrenders the e-pawn instantly to disrupt White's automated Zukertort configurations. If White gets overconfident, deploy the chaotic 'Walrus Variation' to force catastrophic engine mismatches.",
     "threat_level": "ELEVATED 🟨"
   },
   {
-    "rank": 33
+    "rank": 33,
     "opening": "Rousseau Gambit 🎹",
     "win_rate": "50%",
     "telemetry": "1.e4 e5 2.Nf3 Nc6 3.Bc4 f5!? The ultimate back-alley brawl hidden inside clean Italian Game architecture. Completely blind-sides players relying on standard positional symmetry, forcing deep tactical calculations or quick structural ruin.",
     "threat_level": "HIGH 🟧"
   },
   {
-    "rank": 34
+    "rank": 34,
     "opening": "Tennison Gambit 📡",
     "win_rate": "48%",
     "telemetry": "1.Nf3 d5 2.e4!? Intentionally leaking central pawn infrastructure to open up deep geometric infiltration lanes for White's pieces. High tactical overhead; if Black falls for the downstream mapping traps, their framework gets torn down in under 10 moves.",
     "threat_level": "CRITICAL 🟥"
   },
   {
-    "rank": 35
+    "rank": 35,
     "opening": "Duras Gambit 💥",
     "win_rate": "47%",
     "telemetry": "1.f4 e5 2.fxe5 d6!? High-risk payload designed to blast open the king's defensive firewall right out of the opening compiler stage. Zero regard for structural longevity; pure tactical adrenaline.",
