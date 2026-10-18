@@ -285,7 +285,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 ## 🚀 Skills & Domain Expertise
 
 <details>
-  <summary><b><h3>💻 Deep Tech, Automation & Robotics</h3>/b></summary>
+  <summary><b><h3>💻 Deep Tech, Automation & Robotics</h3></b></summary>
   <br/>
 
 #### 🖥️ Advanced Software & Automation Pipelines
