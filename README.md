@@ -285,7 +285,8 @@ My complete local environment setups, hardware tracking arrays, and package depe
 ## 🚀 Skills & Domain Expertise
 
 <details>
-  <summary><b><h3>💻 Deep Tech, Automation & Robotics</h3></b></summary>
+    <summary><h3>💻 Deep Tech, Automation & Robotics</h3></summary>
+<br>
 
 #### 🖥️ Advanced Software & Automation Pipelines
 * **High-Throughput Scripting & Pipelines:** Architecting automated scripts using Python, functional Scala frameworks, and comprehensive database structures.
