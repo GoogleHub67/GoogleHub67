@@ -37,17 +37,24 @@
 <!-- =========================================================================
      SYSTEM NAVIGATION CONTROL INDEX
      ========================================================================= -->
-
 ## 🗺️ System Navigation Map
 
-┌── [INDEX GATEWAY]
-├── 01. 🙋‍♂️ [Biographical Registry] ──> [Click to Jump](#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa)  
-├── 02. 🕹️ [Interactive Modules]   ──> [Click to Jump](#%EF%B8%8F-fun-things-you-should-try)  
-├── 03. 🛠️ [Engineering Blueprint] ──> [Click to Jump](#%EF%B8%8F-engineering-sandbox--future-blueprints)  
-├── 04. 🚀 [Skill Matrix Core]     ──> [Click to Jump](#-skills--domain-expertise)  
-├── 05. 📚 [Academic Telemetry]    ──> [Click to Jump](#-core-subjects--academic-focus)  
-├── 06. ♟️ [Tactical Chess Logs]   ──> [Click to Jump](#%EF%B8%8F-chess-telemetry-gambit-win-rates)  
-└── 07. 📊 [GitHub Engine Stats]   ──> [Click to Jump](#-github-stats)  
+<table>
+  <tr>
+    <td>
+      <pre>
+┌── [INDEX GATEWAY] ────────────────────────────────────────────────────────
+├── 01. 🙋‍♂️ [Biographical Registry] ──> <a href="#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa"><b>[EXECUTE RUN]</b></a>
+├── 02. 🕹️ [Interactive Modules]   ──> <a href="#%EF%B8%8F-fun-things-you-should-try"><b>[EXECUTE RUN]</b></a>
+├── 03. 🛠️ [Engineering Blueprint] ──> <a href="#%EF%B8%8F-engineering-sandbox--future-blueprints"><b>[EXECUTE RUN]</b></a>
+├── 04. 🚀 [Skill Matrix Core]     ──> <a href="#-skills--domain-expertise"><b>[EXECUTE RUN]</b></a>
+├── 05. 📚 [Academic Telemetry]    ──> <a href="#-core-subjects--academic-focus"><b>[EXECUTE RUN]</b></a>
+├── 06. ♟️ [Tactical Chess Logs]   ──> <a href="#%EF%B8%8F-chess-telemetry-gambit-win-rates"><b>[EXECUTE RUN]</b></a>
+└── 07. 📊 [GitHub Engine Stats]   ──> <a href="#-github-stats"><b>[EXECUTE RUN]</b></a>
+────────────────────────────────────────────────────────────────────────────</pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
