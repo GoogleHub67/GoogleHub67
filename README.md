@@ -518,7 +518,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 <details>
   <summary><b> Uncover my top 30 OTB win rates right here 👇 </b></summary>
   <br/>
-    
+[ ■ □ ■ □ ■ □ ■ □ ] ⚡ TELEMETRY SEPARATOR LAYER ⚡ [ □ ■ □ ■ □ ■ □ ■ ]    
 | Rank | Opening Name | Win Rate | Rank | Opening Name | Win Rate |
 | :--- | :--- | :---: | :--- | :--- | :---: |
 | 1 | **Sturm Gambit** ⚔️ | **67%** | 16 | **Nakhmonson Gambit** | **53%** |
