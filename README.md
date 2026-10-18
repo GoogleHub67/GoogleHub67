@@ -99,7 +99,6 @@
   <summary><b>🌍 Click to expand the Global Target Navigation Array (48 Cities)...</b></summary>
   <br/>
   
-> [!NOTE]
 > **GEOGRAPHICAL ARRAY CONTEXT:** Yes, this tracks 48 cities. No, I am not currently on a global tour funded by venture capital. This matrix merely catalogs high-density computing clusters I plan to visit once I am legally old enough to rent a hotel room without a parent's signature.
 
 | 🌏 Asia, Middle East, Latin America & Oceania (23) | 🌍 Europe, North Americas & Africa (25) |
