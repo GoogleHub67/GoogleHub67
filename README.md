@@ -285,34 +285,33 @@ My complete local environment setups, hardware tracking arrays, and package depe
 ## 🚀 Skills & Domain Expertise
 
 <details>
-  <summary><b>💻 Deep Tech, Automation & Robotics</b></summary>
+  <summary><b><h3>💻 Deep Tech, Automation & Robotics</h3>/b></summary>
   <br/>
 
-### 🖥️ Advanced Software & Automation Pipelines
+#### 🖥️ Advanced Software & Automation Pipelines
 * **High-Throughput Scripting & Pipelines:** Architecting automated scripts using Python, functional Scala frameworks, and comprehensive database structures.
 * **Data Flow Infrastructure:** Designing custom web-scraping workers, API connectors, and event-driven data flows to process live telemetric records.
 * **Environment Configuration:** Implementing local optimization utilities via PowerShell package ecosystems (`uv`, `pip`, `iex-irm`) to run clean, version-controlled setups.
 * **Algorithmic Development:** Experimenting with machine learning heuristics, pattern recognition models, and custom algorithmic rule-engines.
 
-### 🛡️ Cybersecurity & Defensive Engineering
-> [!IMPORTANT]
+#### 🛡️ Cybersecurity & Defensive Engineering
 > **SECURITY PROTOCOL NOTICE:** My engineering sandbox involves writing custom byte-scraping utilities to purge PII strings from unverified documents. If your enterprise pipeline leaks user credentials into public repositories, do not worry—automated scraping bots will find them within 45 seconds anyway, saving you the trouble of running an audit.
 * **Data Sanitization & Redaction Logic:** Programmatically stripping identifying PII strings and sensitive metadata layers from unverified document formats using defensive byte-scraping frameworks (`pymupdf` / `fitz`).
 * **Open-Source Reconnaissance & Security:** Evaluating credential safety boundaries, identifying potential code-leak vulnerabilities, and configuring strict repository security masks to prevent automated scraping vectors.
 * **Local System Security Hardening:** Setting up safe development environments and testing scripts locally behind sandboxed environments before production deployments.
 
-### 🔌 IoT Engineering & Embedded Systems
+#### 🔌 IoT Engineering & Embedded Systems
 * **Hardware Prototyping:** Interfacing microcontrollers like Arduino with microprocessors like the Raspberry Pi Zero W/4 to build automated physical arrays.
 * **Low-Level Microcode Mapping:** Engineering firmware scripts to map General Purpose Input/Output (GPIO) pin schemas for direct digital-to-analog interactions.
 * **Motor Actuation Systems:** Writing custom motor drivers to precisely control step-sequences, pulse-width modulation (PWM), and magnetic positioning under custom surfaces.
 * **Circuit Design Logic:** Designing electrical schematics that safely handle voltage distribution, logic level shifting, and physical sensory feedback loops.
 
-### 🔧 Custom PC Architecture & Engineering
+#### 🔧 Custom PC Architecture & Engineering
 * **System Blueprinting:** Planning complex desktop system configurations from individual structural component compatibility up to physical deployment.
 * **Power & Thermal Tracking:** Calculating system power-draw curves, voltage rail distributions, and continuous thermal envelopes for stable operations.
 * **Structural Layout Management:** Managing airflow design, static-pressure optimization, precision component seating, and structural cable paths.
 
-#### 🏙️ Custom PC Architecture: "Nuclear Reactor" Telemetry
+##### 🏙️ Custom PC Architecture: "Nuclear Reactor" Telemetry
 
 | Component | Hardware Specification | Active Profile | Idle Temp | Load Temp | Peak Power |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -328,60 +327,60 @@ My complete local environment setups, hardware tracking arrays, and package depe
 > 📊 **System Thermal Envelope:** Operating at a stable baseline. The Corsair 4000D Airflow structural chassis ensures optimal ambient air intake, handling thermal distribution seamlessly. Total continuous power draw under heavy multi-threaded chess engine rendering cycles peaks at approximately **285W**, comfortably maintaining a **56.1% efficiency margin** on the power delivery network.
 
 
-### 🛠️ Hardware Diagnostics & Micro-Repair
+#### 🛠️ Hardware Diagnostics & Micro-Repair
 * **System Diagnostics:** Operating as a physical laptop and PC diagnostic technician handling precision hardware restoration and low-level component replacements.
 * **Fault Isolation:** Executing comprehensive logic-board fault analysis, isolation of shorted circuits, and mechanical troubleshooting of dynamic internal arrays.
 * **Firmware & OS Recovery:** Implementing advanced operating system imaging, registry diagnostics, storage sector restoration, and recovery of bricked firmware structures.
 </details>
 
 <details>
-  <summary><b>🔬 Quantitative Sciences & Lit Formulation</b></summary>
+  <summary><b><h3>🔬 Quantitative Sciences & Lit Formulation</h3></b></summary>
   <br/>
 
-### ♟️ Strategic Chess Mechanics & Systems
+#### ♟️ Strategic Chess Mechanics & Systems
 * **Tactical Opening & Calculation Matrix:** High-volatility tactical calculations, processing sharp, double-edged asymmetric variations (1500 FIDE strength).
 * **Open-Source Engine Telemetry:** Tracking engine behaviors, profiling modular databases, and experimenting with open-source server integrations like Lichess's async `lila` backend framework.
 
-### ⚛️ Quantum Information Theory
+#### ⚛️ Quantum Information Theory
 * **Subatomic Evaluation:** Mathematically analyzing physical quantum phenomena focusing on quantum superposition states, wave-particle duality, and particle entanglement.
 * **Qubit State Manipulation:** Applying matrix transformations, quantum logic gate operations, and algorithmic noise suppression models to system matrices.
 * **Hardware Architecture Research:** Tracking experimental quantum computer architectural growth, focusing on how cryogenically cooled hardware systems run calculations.
 
-### 🧪 Subatomic Chemistry & Electron Geometries
+#### 🧪 Subatomic Chemistry & Electron Geometries
 * **Valence Transition Analysis:** Analyzing thermodynamic electron configurations, atomic orbital sub-shells (s, p, d, f), and energetic valence transitions.
 * **Bonding Dynamic Models:** Deconstructing the quantum mechanical behaviors of electrons to predict atomic reactivity, chemical bonding dynamics, and crystal lattice structures.
 * **Molecular Geometries:** Evaluating molecular orbital theory to map out electron cloud distributions and spatial covalent geometries.
 
-### 📐 Olympiad-Level Mathematics
+#### 📐 Olympiad-Level Mathematics
 * **Discrete Problem Solving:** Solving advanced number theory problems, structural combinatorics, and discrete geometry matrices seen in high-level Olympiad frameworks.
 * **Spatial Coordinate Mapping:** Utilizing coordinate grid mapping, modular arithmetic proofs, and spatial coordinate graphs to crack complex abstract puzzles.
 * **Algorithmic Math Translation:** Translating multi-dimensional geometric logic formulas into functional, boundaryless logic scripts inside programming languages.
 
-### 📝 Technical & Research Writing
+#### 📝 Technical & Research Writing
 * **Academic Formulation:** Authoring deeply structured academic research papers, logic logs, and technical whitepapers mapping out complex multi-disciplinary systems.
 * **Open-Source Documentation:** Formulating exact technical documentation, syntax manifests, and project README structures that follow enterprise open-source guidelines.
 </details>
 
 <details>
-  <summary><b>📊 Venture Strategy & Tactical Systems</b></summary>
+  <summary><b><h3>📊 Venture Strategy & Tactical Systems</h3></b></summary>
   <br/>
 
-### 📈 Quantitative Finance & Market Systems
+#### 📈 Quantitative Finance & Market Systems
 * **Market Trend Modeling:** Modeling macro-economic trends, asset price movements, and statistical investment risk factors within equity environments.
 * **Portfolio Strategy Testing:** Back-testing algorithmic portfolio strategies by tracking capital allocation, historic index fluctuations, and technical indicators.
 * **Data Integration:** Structuring automated spreadsheet formulas and relational SQL databases to evaluate historical assets and compound data vectors.
 
-### 💡 Startup Incubation & MVP Prototyping
+#### 💡 Startup Incubation & MVP Prototyping
 * **Product Architecture:** Mapping out agile minimum viable product (MVP) lifecycles by converting napkin sketches into deployment-ready software configurations.
 * **Scalability Blueprinting:** Formulating user-flow architectures, determining tech stack requirements, and calculating data scalability barriers.
 * **Resource Optimization:** Architecting market positioning plans that leverage open-source solutions to bypass heavy software development costs.
 </details>
 
 <details>
-  <summary><b>🏏 Athletic Performance & Fandom</b></summary>
+  <summary><b><h3>🏏 Athletic Performance & Fandom</h3></b></summary>
   <br/>
 
-### 🏏 Competitive Cricket & Kinetic Strategy
+#### 🏏 Competitive Cricket & Kinetic Strategy
 * **District-Level Athletic Selection:** Selected and competing within formal district cricket frameworks, demonstrating verified on-field performance metrics and strategic execution under tournament pressure.
 * **Biomechanical Execution:** Applying fluid dynamics and rotational mechanics to optimize power transfer and entry angles during high-impact stroke play.
 * **Real-time Trajectory Analytics:** Processing real-time aerodynamic variables (such as spin degradation, seam position, and pitch moisture variations) to execute defensive and offensive positioning.
