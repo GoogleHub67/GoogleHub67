@@ -41,15 +41,14 @@
 ## 🗺️ System Navigation Map
 
 ```markdown
-<code>┌── [INDEX GATEWAY] ────────────────────────────────────────────────────────</code>  
-<code>├── 01. 🙋‍♂️ [Biographical Registry]  ──></code> [Click to Jump](#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa)  
-<code>├── 02. 🕹️ [Interactive Modules]   ──></code> [Click to Jump](#%EF%B8%8F-fun-things-you-should-try)  
-<code>├── 03. 🛠️ [Engineering Blueprint]  ──></code> [Click to Jump](#%EF%B8%8F-engineering-sandbox--future-blueprints)  
-<code>├── 04. 🚀 [Skill Matrix Core]     ──></code> [Click to Jump](#-skills--domain-expertise)  
-<code>├── 05. 📚 [Academic Telemetry]    ──></code> [Click to Jump](#-core-subjects--academic-focus)  
-<code>├── 06. ♟️ [Tactical Chess Logs]   ──></code> [Click to Jump](#%EF%B8%8F-chess-telemetry-gambit-win-rates)  
-<code>└── 07. 📊 [GitHub Engine Stats]   ──></code> [Click to Jump](#-github-stats)  
-<code>────────────────────────────────────────────────────────────────────────────</code>
+┌── [INDEX GATEWAY]
+├── 01. 🙋‍♂️ [Biographical Registry] ──> [Click to Jump](#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa)  
+├── 02. 🕹️ [Interactive Modules]   ──> [Click to Jump](#%EF%B8%8F-fun-things-you-should-try)  
+├── 03. 🛠️ [Engineering Blueprint] ──> [Click to Jump](#%EF%B8%8F-engineering-sandbox--future-blueprints)  
+├── 04. 🚀 [Skill Matrix Core]     ──> [Click to Jump](#-skills--domain-expertise)  
+├── 05. 📚 [Academic Telemetry]    ──> [Click to Jump](#-core-subjects--academic-focus)  
+├── 06. ♟️ [Tactical Chess Logs]   ──> [Click to Jump](#%EF%B8%8F-chess-telemetry-gambit-win-rates)  
+└── 07. 📊 [GitHub Engine Stats]   ──> [Click to Jump](#-github-stats)  
 ```
 
 ---
