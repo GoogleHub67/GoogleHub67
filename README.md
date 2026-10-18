@@ -511,8 +511,10 @@ My complete local environment setups, hardware tracking arrays, and package depe
 <!-- =========================================================================
      SECTION 8: REPERTOIRE ENGINE: TACTICAL GAMBITS
      ========================================================================= -->
-
-[ ■ □ ■ □ ■ □ ■ □ ] ⚡ TELEMETRY SEPARATOR LAYER ⚡ [ □ ■ □ ■ □ ■ □ ■ ]  
+     
+```text
+[ ■ □ ■ □ ■ □ ■ □ ] ⚡ TELEMETRY SEPARATOR LAYER ⚡ [ □ ■ □ ■ □ ■ □ ■ ]
+```
 
 ## ♟️ Chess Telemetry: Gambit Win-Rates
 
