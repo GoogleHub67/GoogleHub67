@@ -511,6 +511,9 @@ My complete local environment setups, hardware tracking arrays, and package depe
 <!-- =========================================================================
      SECTION 8: REPERTOIRE ENGINE: TACTICAL GAMBITS
      ========================================================================= -->
+
+[ ■ □ ■ □ ■ □ ■ □ ] ⚡ TELEMETRY SEPARATOR LAYER ⚡ [ □ ■ □ ■ □ ■ □ ■ ]  
+
 ## ♟️ Chess Telemetry: Gambit Win-Rates
 
 Positional chess is slow and uninspiring. My opening philosophy centers entirely on maximizing positional volatility, forced tactical calculations, and chaotic, double-edged lines. Here is how my top 30 favorite variations rank based on my live database metrics:
@@ -518,7 +521,6 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 <details>
   <summary><b> Uncover my top 30 OTB win rates right here 👇 </b></summary>
   <br/>
-[ ■ □ ■ □ ■ □ ■ □ ] ⚡ TELEMETRY SEPARATOR LAYER ⚡ [ □ ■ □ ■ □ ■ □ ■ ]  
 
 | Rank | Opening Name | Win Rate | Rank | Opening Name | Win Rate |
 | :--- | :--- | :---: | :--- | :--- | :---: |
