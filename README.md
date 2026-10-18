@@ -67,8 +67,6 @@
 
 ---
 
-<details>
-
 > **Q: Who are you in a single sentence?**  
 > A: Too many things. Go to Section 4 to learn more.
 
@@ -124,7 +122,6 @@
 | | 📍 Buenos Aires, Argentina |
 | | 📍 Santiago, Chile |
 | | 📍 Lima, Peru |
-
 </details>
 
 ---
