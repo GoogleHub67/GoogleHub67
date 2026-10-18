@@ -37,8 +37,10 @@
 <!-- =========================================================================
      SYSTEM NAVIGATION CONTROL INDEX
      ========================================================================= -->
+
 ## 🗺️ System Navigation Map
 
+```markdown
 <code>┌── [INDEX GATEWAY] ────────────────────────────────────────────────────────</code>  
 <code>├── 01. 🙋‍♂️ [Biographical Registry]  ──></code> [Click to Jump](#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa)  
 <code>├── 02. 🕹️ [Interactive Modules]   ──></code> [Click to Jump](#%EF%B8%8F-fun-things-you-should-try)  
@@ -48,6 +50,7 @@
 <code>├── 06. ♟️ [Tactical Chess Logs]   ──></code> [Click to Jump](#%EF%B8%8F-chess-telemetry-gambit-win-rates)  
 <code>└── 07. 📊 [GitHub Engine Stats]   ──></code> [Click to Jump](#-github-stats)  
 <code>────────────────────────────────────────────────────────────────────────────</code>
+```
 
 ---
 
