@@ -1,0 +1,247 @@
+[
+  {
+    "rank": 1,
+    "opening": "Sturm Gambit ⚔",
+    "win_rate": "67%",
+    "telemetry": "Forcing immediate, double-edged g4 positional thrusts. High-volatility calculation matrix required. Completely obliterates dry d4/d5 frameworks.",
+    "threat_level": "CRITICAL 🟥"
+  },
+  {
+    "rank": 2,
+    "opening": "Halasz Gambit 🚀",
+    "win_rate": "65%",
+    "telemetry": "Center pawn sacrifice on move 3. Induces immediate systemic panic in passive defenders. Accelerates kingside assault vectors.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 3,
+    "opening": "Von Der Lasa Gambit",
+    "win_rate": "64%",
+    "telemetry": "Asymmetric positional deployment designed to exploit early tactical blindspots. Overclocks processing queues for both players.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 4,
+    "opening": "Scotch Gambit",
+    "win_rate": "61%",
+    "telemetry": "Sacrificing d4/e4 pawn structures to force immediate open lines and massive piece activity. Total central development overdrive.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 5,
+    "opening": "King's Gambit",
+    "win_rate": "59%",
+    "telemetry": "1.e4 e5 2.f4. The classic mainframe override. Sacrificing the f-pawn to dismantle black's center control and crack open the f-file.",
+    "threat_level": "CRITICAL 🟥"
+  },
+  {
+    "rank": 6,
+    "opening": "Vienna Gambit",
+    "win_rate": "57%",
+    "telemetry": "A sneaky payload delivery system. Develops the knight to c3 first to mask the volatile f4 strike until black drops their guard.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 7,
+    "opening": "Bishop's Opening",
+    "win_rate": "56%",
+    "telemetry": "Rapidly targeting the vulnerable f7 node on move 2. Creates sharp geometric attacking lines before black can stabilize their network.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 8,
+    "opening": "Danish Gambit",
+    "win_rate": "56%",
+    "telemetry": "Sacrifices two full pawns immediately for total tactical board dominance. Bishops slice through the coordinate grid like hot lasers.",
+    "threat_level": "MAXIMUM CHAOS 💀"
+  },
+  {
+    "rank": 9,
+    "opening": "Ponziani Opening",
+    "win_rate": "56%",
+    "telemetry": "Building a massive dual-pawn mainframe center on move 3. Highly volatile if black attempts to disrupt the initialization phase.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 10,
+    "opening": "Smith-Morra Gambit",
+    "win_rate": "55%",
+    "telemetry": "The ultimate anti-Sicilian security patch. Sacrifices a c-pawn to generate immediate, high-throughput attacking files against the enemy king.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 11,
+    "opening": "Alapin Opening",
+    "win_rate": "55%",
+    "telemetry": "Injects a solid c3 barrier to bypass complex Sicilian theoretical code. Forces black into unfamiliar processing territory.",
+    "threat_level": "MODERATE 🟩"
+  },
+  {
+    "rank": 12,
+    "opening": "Falkbeer Countergambit",
+    "win_rate": "55%",
+    "telemetry": "Fighting fire with fire. Reprograms the King's Gambit by striking back in the center on move 2, leaving no room for passive defense.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 13,
+    "opening": "Alien Gambit 🛸",
+    "win_rate": "54%",
+    "telemetry": "Sacrifice minor piece on f7 to disrupt cognitive buffers. Draws the enemy king into a boundaryless coordinate grid layout.",
+    "threat_level": "CRITICAL 🟥"
+  },
+  {
+    "rank": 14
+    "opening": "Laroche Gambit (Van Geet Complex) 🛡️",
+    "win_rate": "54%",
+    "telemetry": "1.Nc3 b5!? A hyper-shady flank exploit specifically designed to annoy and evict White's developed c3 knight. Triggers immediate asymmetry on move one, overloading standard center-control script algorithms.",
+    "threat_level": "MODERATE 🟩"
+  },
+  {
+    "rank": 15,
+    "opening": "Benko Gambit",
+    "win_rate": "53%",
+    "telemetry": "Deep positional asset allocation. Sacrifices queenside pawns for permanent, long-range telemetric pressure down the a and b files.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 16,
+    "opening": "Evans Gambit",
+    "win_rate": "53%",
+    "telemetry": "Sacrifices the b-pawn to accelerate central pawn expansion. Completely blindsides traditional, slow Italian game compilers.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 17,
+    "opening": "Nakhmonson Gambit",
+    "win_rate": "53%",
+    "telemetry": "Double minor piece sacrifice vector. Pure calculation overdrive. If opponent's local firewall fails to find precise engine defense, checkmate is imminent.",
+    "threat_level": "CRITICAL 🟥"
+  },
+  {
+    "rank": 18,
+    "opening": "Urusov Gambit",
+    "win_rate": "53%",
+    "telemetry": "Blends Bishop's Opening and lines of the Max Lange Attack. High tactical overhead that weaponizes the open e-file against uncastled kings.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 19,
+    "opening": "Latvian Gambit",
+    "win_rate": "53%",
+    "telemetry": "1.e4 e5 2.Nf3 f5!? High-risk asymmetric payload. Violates core standard safety protocols instantly to trigger a localized tactical explosion.",
+    "threat_level": "MAXIMUM CHAOS 💀"
+  },
+  {
+    "rank": 20,
+    "opening": "Goring Gambit",
+    "win_rate": "53%",
+    "telemetry": "A sister exploit to the Danish Gambit. Floods the central matrix with active pieces at the cost of minimal material infrastructure.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 21,
+    "opening": "Halloween Gambit 🎃",
+    "win_rate": "53%",
+    "telemetry": "4.Nxe5! Severe psychological payload delivery. Structural compression of enemy knight coordination offsets material deficit.",
+    "threat_level": "MAXIMUM CHAOS 💀"
+  },
+  {
+    "rank": 22,
+    "opening": "Colorado Gambit",
+    "win_rate": "52%",
+    "telemetry": "An unusual counter-strike option. Deploys an unexpected f5 lever to disrupt white's standard e4 opening sequence algorithms.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 23,
+    "opening": "Stafford Gambit",
+    "win_rate": "52%",
+    "telemetry": "Highly predatory line. Intentionally surrenders a center pawn to wire the board with invisible, explosive tactical trapwires.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 24,
+    "opening": "Schara-Henning Gambit",
+    "win_rate": "52%",
+    "telemetry": "Unorthodox defense pipeline against the Queen's Gambit. Sacrifices d5 to launch an immediate, aggressive queenside counter-offensive.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 25,
+    "opening": "Wagner-Zucker Gambit",
+    "win_rate": "52%",
+    "telemetry": "Rare theoretical mutation. Erases traditional center frameworks to initialize sharp, chaotic piece skirmishes across the board.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 26,
+    "opening": "Omega Gambit",
+    "win_rate": "52%",
+    "telemetry": "Scraps standard d4 theoretical constraints. Sacrifices early infrastructure to bypass black's defensive database configurations.",
+    "threat_level": "MODERATE 🟩"
+  },
+  {
+    "rank": 27,
+    "opening": "Elephant Gambit",
+    "win_rate": "52%",
+    "telemetry": "An aggressive, vintage center-counter strike. Strikes back with d5 immediately, daring white's computing cluster to resolve the spatial tension.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 28,
+    "opening": "Muzio Gambit",
+    "win_rate": "52%",
+    "telemetry": "The ultimate King's Gambit mutation. Sacrifices an entire knight on move 5 to execute an unstoppable, direct brute-force attack on the f7 node.",
+    "threat_level": "CRITICAL 🟥"
+  },
+  {
+    "rank": 29,
+    "opening": "Max Lange Attack",
+    "win_rate": "52%",
+    "telemetry": "A chaotic hurricane of pinning lines and tactical crossfire. Both kings are frequently locked out of safe firewalls simultaneously.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 30,
+    "opening": "Staunton Gambit",
+    "win_rate": "52%",
+    "telemetry": "Weaponized exploit against the Dutch Defense. Instantly sacrifices an e-pawn to forcefully break open black's king shelter.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 31,
+    "opening": "Traxler Counterattack 💥",
+    "win_rate": "51%",
+    "telemetry": "The ultimate anti-compiler patch. Ignore the attack on f7 and launch a counter-payload directly at their king. Complete disregard for material safety protocols.",
+    "threat_level": "MAXIMUM CHAOS 💀"
+  }
+  {
+    "rank": 32
+    "opening": "Ross Gambit (Reti/Zukertort Complex) 🐴",
+    "win_rate": "50%",
+    "telemetry": "1.Nf3 e5!? A highly dubious, lightning-fast psychological payload for Black. Surrenders the e-pawn instantly to disrupt White's automated Zukertort configurations. If White gets overconfident, deploy the chaotic 'Walrus Variation' to force catastrophic engine mismatches.",
+    "threat_level": "ELEVATED 🟨"
+  },
+  {
+    "rank": 33
+    "opening": "Rousseau Gambit 🎹",
+    "win_rate": "50%",
+    "telemetry": "1.e4 e5 2.Nf3 Nc6 3.Bc4 f5!? The ultimate back-alley brawl hidden inside clean Italian Game architecture. Completely blind-sides players relying on standard positional symmetry, forcing deep tactical calculations or quick structural ruin.",
+    "threat_level": "HIGH 🟧"
+  },
+  {
+    "rank": 34
+    "opening": "Tennison Gambit 📡",
+    "win_rate": "48%",
+    "telemetry": "1.Nf3 d5 2.e4!? Intentionally leaking central pawn infrastructure to open up deep geometric infiltration lanes for White's pieces. High tactical overhead; if Black falls for the downstream mapping traps, their framework gets torn down in under 10 moves.",
+    "threat_level": "CRITICAL 🟥"
+  },
+  {
+    "rank": 35
+    "opening": "Duras Gambit 💥",
+    "win_rate": "47%",
+    "telemetry": "1.f4 e5 2.fxe5 d6!? High-risk payload designed to blast open the king's defensive firewall right out of the opening compiler stage. Zero regard for structural longevity; pure tactical adrenaline.",
+    "threat_level": "MAXIMUM CHAOS 💀"
+  }
+]
