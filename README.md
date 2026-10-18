@@ -81,7 +81,7 @@
 | 🌍 **Location** | 127.0.0.1 |
 | 🗣️ **Languages** | English |
 
-> **Other Stats**
+**Other Stats**
 - 🎮 **Main Games:** Chess, Cyberpunk 2077, Geometry Dash, MineCraft
 - 📚 **Top Books:** Quantum Physics and Coding-related books from 2005
 - 🏠 **My Setup:** A nuclear reactor you will be shocked to see
