@@ -40,7 +40,6 @@
 
 ## 🗺️ System Navigation Map
 
-```
 ┌── [INDEX GATEWAY]
 ├── 01. 🙋‍♂️ [Biographical Registry] ──> [Click to Jump](#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa)  
 ├── 02. 🕹️ [Interactive Modules]   ──> [Click to Jump](#%EF%B8%8F-fun-things-you-should-try)  
@@ -49,7 +48,6 @@
 ├── 05. 📚 [Academic Telemetry]    ──> [Click to Jump](#-core-subjects--academic-focus)  
 ├── 06. ♟️ [Tactical Chess Logs]   ──> [Click to Jump](#%EF%B8%8F-chess-telemetry-gambit-win-rates)  
 └── 07. 📊 [GitHub Engine Stats]   ──> [Click to Jump](#-github-stats)  
-```
 
 ---
 
