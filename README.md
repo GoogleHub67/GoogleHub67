@@ -175,6 +175,12 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 ===========================================================================
 ```
 
+### ♟️ Automated Chess Mainframe
+
+[![Dispense Chess Wisdom](https://img.shields.io/badge/System_Action-Dispense_Chess_Wisdom-FF5733?style=for-the-badge&logo=github)](https://github.com/GoogleHub67/GoogleHub67/actions/workflows/chess_wisdom.yml)
+
+*Click the mainframe badge above, hit the **"Run workflow"** dropdown panel, and check the active action execution logs to pull a completely randomized, volatile gambit matrix from your telemetry array file.*
+
 ### ♟️ Lichess Autonomous Bot Telemetry Node
 My automated engine executes logic configurations independently from my personal account. The live nodes track operational metrics for **`MakeChessBetter`**:
 
