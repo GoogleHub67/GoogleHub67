@@ -333,7 +333,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 </details>
 
 <details>
-  <summary><b><h3>🔬 Quantitative Sciences & Lit Formulation</h3></b></summary>
+  <summary><h3>🔬 Quantitative Sciences & Lit Formulation</h3></summary>
 
 #### ♟️ Strategic Chess Mechanics & Systems
 * **Tactical Opening & Calculation Matrix:** High-volatility tactical calculations, processing sharp, double-edged asymmetric variations (1500 FIDE strength).
@@ -360,7 +360,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 </details>
 
 <details>
-  <summary><b><h3>📊 Venture Strategy & Tactical Systems</h3></b></summary>
+  <summary><h3>📊 Venture Strategy & Tactical Systems</h3></summary>
 
 #### 📈 Quantitative Finance & Market Systems
 * **Market Trend Modeling:** Modeling macro-economic trends, asset price movements, and statistical investment risk factors within equity environments.
@@ -374,7 +374,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 </details>
 
 <details>
-  <summary><b><h3>🏏 Athletic Performance & Fandom</h3></b></summary>
+  <summary><h3>🏏 Athletic Performance & Fandom</h3></summary>
 
 #### 🏏 Competitive Cricket & Kinetic Strategy
 * **District-Level Athletic Selection:** Selected and competing within formal district cricket frameworks, demonstrating verified on-field performance metrics and strategic execution under tournament pressure.
