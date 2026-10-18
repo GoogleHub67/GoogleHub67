@@ -511,7 +511,23 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 
 ## 📊 GitHub Stats
 
-<!-- ROW 1: PRIMARY STATS & LANGUAGE BREAKDOWN -->
+<!-- ROW 1: SHIELDS.IO CUSTOM ENGINE METRICS -->
+### 📊 Custom Shields.io Engine Metrics
+
+<!-- SUB-ROW 1: CORE PROFILE TRACKERS -->
+#### 📈 Core Profile Trackers
+![Followers](https://img.shields.io/github/followers/GoogleHub67?style=flat-looking)
+![Following](https://img.shields.io/github/following/GoogleHub67?style=flat-looking)
+![Repositories](https://img.shields.io/github/directory-listing/GoogleHub67?style=flat-looking)
+
+<!-- SUB-ROW 2: ENGAGEMENT & NETWORKING -->
+#### 🌐 Engagement and Networking
+![Stars](https://img.shields.io/github/stars/GoogleHub67?style=flat-looking)
+![Forks](https://img.shields.io/github/forks/GoogleHub67?style=flat-looking)
+![Sponsors](https://img.shields.io/github/sponsors/GoogleHub67?style=flat-looking)
+![Orgs](https://img.shields.io/github/orgs/GoogleHub67?style=flat-looking)
+
+<!-- ROW 2: PRIMARY STATS & LANGUAGE BREAKDOWN -->
 ### 📈 Core Overview
 <table>
   <tr>
@@ -524,7 +540,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
   </tr>
 </table>
 
-<!-- ROW 2: CONTRIB STREAKS & CUSTOM WORKER ANALYTICS -->
+<!-- ROW 3: CONTRIB STREAKS & CUSTOM WORKER ANALYTICS -->
 ### 🔥 Momentum & Edge Metrics
 <table>
   <tr>
@@ -537,13 +553,13 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
   </tr>
 </table>
 
-<!-- ROW 3: DETAILED SUMMARY CARDS -->
+<!-- ROW 4: DETAILED SUMMARY CARDS -->
 ### 🗂 Profile Summary Cards
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Summary Card" width="100%" />
 </p>
 
-<!-- ROW 4: PROFILE TROPHIES -->
+<!-- ROW 5: PROFILE TROPHIES -->
 ### 🏆 Achievements & Trophies
 <p align="center">
   <a href="https://github.com">
@@ -551,18 +567,19 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
   </a>
 </p>
 
-<!-- ROW 5: SNAKE GAME -->
+<!-- ROW 6: SNAKE GAME -->
 ### 🐍 Contribution Snake Game
 <p align="center">
   <img alt="GitHub Animated Contribution Snake" src="https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%">
 </p>
 
-<!-- ROW 6: GITCITY CONTRIBUTION METRICS -->
+<!-- ROW 7: GITCITY CONTRIBUTION METRICS -->
 ### 🏙️ Global Mainframe Grid Metrics (GitCity Cyberpunk Skyline)
 <p align="center">
   <img src="https://gitcity.natrajx.in/api/svg?username=GoogleHub67" alt="GoogleHub67's GitCity Skyline" width="100%"/>
 </p>
 
+<!-- ROW 8: OTHER STATS -->
 ### 📜 Other Stats
 
 <!--START_SECTION:waka-->
