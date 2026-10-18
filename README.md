@@ -531,3 +531,20 @@ Like millions of players around the world, I was deeply moved by the unexpected 
 May his soul rest in eternal peace. The chess community will forever remember his humor, his unparalleled passion, and the endless inspiration he brought to the board every single day. 
 
 *Rest in Peace, Danya. The games continue in your honor.* ♟️❤️
+
+---
+
+<!-- =========================================================================
+     TERMINAL SHUTDOWN SEQUENCE
+     ========================================================================= -->
+```text
+===========================================================================
+[MAIN_TERMINAL] EXECUTE: LOGOUT --FORCE
+===========================================================================
+* Initializing safe connection cutoff protocols... [SUCCESS]
+* Flushing execution buffers and local caching states... [CLEARED]
+* Local Telemetry Hub Status: STANDBY 🌙 | PORT: 127.0.0.1
+===========================================================================
+STATUS: TERMINAL LOGGING OFF... HAVE A GOOD DAY, EXPLORER. 👋
+===========================================================================
+```
