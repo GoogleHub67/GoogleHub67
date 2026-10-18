@@ -182,9 +182,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 <!-- =========================================================================
      SECTION 5: OPERATIONAL MATRIX (DEEP SKILL ANALYTICS)
      ========================================================================= -->
-<!-- =========================================================================
-     SECTION 5: OPERATIONAL MATRIX (DEEP SKILL ANALYTICS)
-     ========================================================================= -->
 ## 🚀 Skills & Domain Expertise
 
 <details>
@@ -276,33 +273,58 @@ My complete local environment setups, hardware tracking arrays, and package depe
 ---
 
 <!-- =========================================================================
-     SECTION 6: ACADEMIC FOCUS & SUBJECT PROFICIENCY
+     SECTION 6: SUBJECT PROFICIENCY
      ========================================================================= -->
-## 📚 Core Subjects & Academic Focus
+## 📚 Core Subjects
 
-### 📐 Mathematics
+<details>
+  <summary><b>📐 Mathematics</b></summary>
+  <br/>
+
 * **Logical & Spatial Mastery:** Advanced proficiency in parsing multi-dimensional coordinates, complex number theory puzzles, and abstract proofs derived from clearing Math Olympiad Level 2 milestones.
 * **Algorithmic Application:** Seamlessly converting discrete geometric structures and grid-system configurations into clean code logic models.
+</details>
 
-### ⚛️ Physics
+<details>
+  <summary><b>⚛️ Physics</b></summary>
+  <br/>
+
 * **Quantum Foundations:** Exceptional grounding in theoretical calculations tracking subatomic behaviors, particle entanglement states, and cryogenic qubit matrix environments.
 * **Kinetic Analytics:** Deconstructing dynamic physical metrics like the Magnus effect, force distribution curves, and velocity vectors to analyze projectile path adjustments in high-impact scenarios.
+</details>
 
-### 🧪 Chemistry
+<details>
+  <summary><b>🧪 Chemistry</b></summary>
+  <br/>
+
 * **Subatomic Electron Architectures:** Specialized tracking of structural electron configurations ($s, p, d, f$ shells), chemical bonding systems, and molecular geometric layouts.
 * **System Predictability:** Calculating energetic valence transitions and subatomic movements to forecast atomic reactivity states and lattice structures.
+</details>
 
-### 💻 Computer Science
+<details>
+  <summary><b>💻 Computer Science</b></summary>
+  <br/>
+
 * **Infrastructure Engineering:** Strong capabilities building data routing pipelines, engineering custom microservices, automating local terminals using PowerShell package wrappers, and modeling pattern analytics.
 * **Embedded Control Systems:** Designing direct logic schematics to control physical devices via custom microcode, custom step drivers, and precise GPIO pin routing matrices.
+</details>
 
-### 🌍 Geography
+<details>
+  <summary><b>🌍 Geography</b></summary>
+  <br/>
+
 * **Spatial System Analysis:** Advanced conceptual mapping of macro-environmental topologies, regional spatial distributions, and coordinate network paths.
 * **Data Integration:** Correlating geographic demographic data arrays with software automation models to evaluate macro metrics efficiently.
+</details>
 
 ---
 
-## 📊 Academic Telemetry: Term Evaluation
+<!-- =========================================================================
+     SECTION 7 : ACADEMIC FOCUS AND CO-SCHOLASTIC PERFORMANCE
+     ========================================================================= -->
+
+## 📑 My Report Card
+### 📊 Academic Telemetry: Term-1 Evaluation
 
 | Subject | Internal Assessment (20) | Half-Yearly Exam (80) | Total Marks (100) | Grade |
 | :--- | :---: | :---: | :---: | :---: |
@@ -317,7 +339,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 *Consolidated performance status: **90.04% Cumulative Aggregate***
 
-## 🎯 Co-Scholastic Performance
+### 🎯 Co-Scholastic Performance
 
 | Extracurricular Subject | Grade |
 | :--- | :---: |
@@ -331,7 +353,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 > 🔗 **[View Curricular Grading Scale & Growth Legend](./assets/grading_scale_legend.jpg)**
 
 <!-- =========================================================================
-     SECTION 7: REPERTOIRE ENGINE: TACTICAL GAMBITS
+     SECTION 8: REPERTOIRE ENGINE: TACTICAL GAMBITS
      ========================================================================= -->
 ## ♟️ Chess Telemetry: Gambit Win-Rates
 
@@ -360,7 +382,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 ---
 
 <!-- =========================================================================
-     SECTION 8: ALL STATS
+     SECTION 9: ALL GITHUB STATS
      ========================================================================= -->
 
 ## 📊 GitHub Stats
