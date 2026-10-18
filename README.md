@@ -40,12 +40,12 @@
 ## 🗺️ System Navigation Map
 
 <code>┌── [INDEX GATEWAY] ────────────────────────────────────────────────────────</code>  
-<code>├── 01. 🙋‍♂️ [Biographical Registry]  ──></code> [Click to Jump](#🙋‍♂️-get-to-know-me-the-90-honest-qa)  
-<code>├── 02. 🕹️ [Interactive Modules]   ──></code> [Click to Jump](#🕹️-fun-things-you-should-try)  
-<code>├── 03. 🛠️ [Engineering Blueprint]  ──></code> [Click to Jump](#🛠️-engineering-sandbox--future-blueprints)  
-<code>├── 04. 🚀 [Skill Matrix Core]     ──></code> [Click to Jump](#🚀-skills--domain-expertise)  
-<code>├── 05. 📚 [Academic Telemetry]    ──></code> [Click to Jump](#📚-academic-telemetry-term-evaluation)  
-<code>├── 06. ♟️ [Tactical Chess Logs]   ──></code> [Click to Jump](#-chess-telemetry-gambit-win-rates)  
+<code>├── 01. 🙋‍♂️ [Biographical Registry]  ──></code> [Click to Jump](#%E2%80%8D%EF%B8%8F-get-to-know-me-the-90-honest-qa)  
+<code>├── 02. 🕹️ [Interactive Modules]   ──></code> [Click to Jump](#%EF%B8%8F-fun-things-you-should-try)  
+<code>├── 03. 🛠️ [Engineering Blueprint]  ──></code> [Click to Jump](#%EF%B8%8F-engineering-sandbox--future-blueprints)  
+<code>├── 04. 🚀 [Skill Matrix Core]     ──></code> [Click to Jump](#-skills--domain-expertise)  
+<code>├── 05. 📚 [Academic Telemetry]    ──></code> [Click to Jump](#-core-subjects--academic-focus)  
+<code>├── 06. ♟️ [Tactical Chess Logs]   ──></code> [Click to Jump](#%EF%B8%8F-chess-telemetry-gambit-win-rates)  
 <code>└── 07. 📊 [GitHub Engine Stats]   ──></code> [Click to Jump](#-github-stats)  
 <code>────────────────────────────────────────────────────────────────────────────</code>
 
