@@ -286,7 +286,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 <details>
   <summary><b><h3>💻 Deep Tech, Automation & Robotics</h3></b></summary>
-  <br/>
 
 #### 🖥️ Advanced Software & Automation Pipelines
 * **High-Throughput Scripting & Pipelines:** Architecting automated scripts using Python, functional Scala frameworks, and comprehensive database structures.
@@ -326,7 +325,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 > 📊 **System Thermal Envelope:** Operating at a stable baseline. The Corsair 4000D Airflow structural chassis ensures optimal ambient air intake, handling thermal distribution seamlessly. Total continuous power draw under heavy multi-threaded chess engine rendering cycles peaks at approximately **285W**, comfortably maintaining a **56.1% efficiency margin** on the power delivery network.
 
-
 #### 🛠️ Hardware Diagnostics & Micro-Repair
 * **System Diagnostics:** Operating as a physical laptop and PC diagnostic technician handling precision hardware restoration and low-level component replacements.
 * **Fault Isolation:** Executing comprehensive logic-board fault analysis, isolation of shorted circuits, and mechanical troubleshooting of dynamic internal arrays.
@@ -335,7 +333,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 <details>
   <summary><b><h3>🔬 Quantitative Sciences & Lit Formulation</h3></b></summary>
-  <br/>
 
 #### ♟️ Strategic Chess Mechanics & Systems
 * **Tactical Opening & Calculation Matrix:** High-volatility tactical calculations, processing sharp, double-edged asymmetric variations (1500 FIDE strength).
@@ -363,7 +360,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 <details>
   <summary><b><h3>📊 Venture Strategy & Tactical Systems</h3></b></summary>
-  <br/>
 
 #### 📈 Quantitative Finance & Market Systems
 * **Market Trend Modeling:** Modeling macro-economic trends, asset price movements, and statistical investment risk factors within equity environments.
@@ -378,7 +374,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 <details>
   <summary><b><h3>🏏 Athletic Performance & Fandom</h3></b></summary>
-  <br/>
 
 #### 🏏 Competitive Cricket & Kinetic Strategy
 * **District-Level Athletic Selection:** Selected and competing within formal district cricket frameworks, demonstrating verified on-field performance metrics and strategic execution under tournament pressure.
