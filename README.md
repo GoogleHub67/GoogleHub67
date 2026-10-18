@@ -286,8 +286,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 <details>
     <summary><h3>💻 Deep Tech, Automation & Robotics</h3></summary>
-<br>
-
+    
 #### 🖥️ Advanced Software & Automation Pipelines
 * **High-Throughput Scripting & Pipelines:** Architecting automated scripts using Python, functional Scala frameworks, and comprehensive database structures.
 * **Data Flow Infrastructure:** Designing custom web-scraping workers, API connectors, and event-driven data flows to process live telemetric records.
