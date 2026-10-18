@@ -88,7 +88,7 @@
 - 🎮 **Main Games:** Chess, Cyberpunk 2077, Geometry Dash, MineCraft
 - 📚 **Top Books:** Quantum Physics and Coding-related books from 2005
 - 🏠 **My Setup:** A nuclear reactor you will be shocked to see
-- 👤 **Favourite Personalities:** Linus Thorvalds, Alan Turning, and Dennis Wrenchtie (misspelled lol)
+- 👤 **Favourite Personalities:** Linus Torvalds, Alan Turing, and Dennis Ritchie 
 
 > **Global Trajectory: 48 Target Cities I Want to Visit**
 <details>
