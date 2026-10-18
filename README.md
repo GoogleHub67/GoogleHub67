@@ -34,6 +34,22 @@
 ===========================================================================
 ```
 
+<!-- =========================================================================
+     SYSTEM NAVIGATION CONTROL INDEX
+     ========================================================================= -->
+## 🗺️ System Navigation Map
+
+```text
+┌── [INDEX GATEWAY] ────────────────────────────────────────────────────────
+├── 01. 🙋‍♂️ [Biographical Registry]  ──> #🙋‍♂️-get-to-know-me-the-90-honest-qa
+├── 02. 🕹️ [Interactive Modules]   ──> #️-fun-things-you-should-try
+├── 03. 🛠️ [Engineering Blueprint]  ──> #️-engineering-sandbox--future-blueprints
+├── 04. 🚀 [Skill Matrix Core]     ──> #-skills--domain-expertise
+├── 05. 📚 [Academic Telemetry]    ──> #-academic-telemetry-term-evaluation
+├── 06. ♟️ [Tactical Chess Logs]   ──> #️-chess-telemetry-gambit-win-rates
+└── 07. 📊 [GitHub Engine Stats]   ──> #-github-stats
+────────────────────────────────────────────────────────────────────────────
+
 ---
 
 <!-- =========================================================================
