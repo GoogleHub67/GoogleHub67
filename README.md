@@ -48,9 +48,10 @@
 ├── 02. 🕹️ [Interactive Modules]   ──> <a href="#%EF%B8%8F-fun-things-you-should-try"><b>[EXECUTE RUN]</b></a>
 ├── 03. 🛠️ [Engineering Blueprint] ──> <a href="#%EF%B8%8F-engineering-sandbox--future-blueprints"><b>[EXECUTE RUN]</b></a>
 ├── 04. 🚀 [Skill Matrix Core]     ──> <a href="#-skills--domain-expertise"><b>[EXECUTE RUN]</b></a>
-├── 05. 📚 [Academic Telemetry]    ──> <a href="#-core-subjects--academic-focus"><b>[EXECUTE RUN]</b></a>
-├── 06. ♟️ [Tactical Chess Logs]   ──> <a href="#%EF%B8%8F-chess-telemetry-gambit-win-rates"><b>[EXECUTE RUN]</b></a>
-└── 07. 📊 [GitHub Engine Stats]   ──> <a href="#-github-stats"><b>[EXECUTE RUN]</b></a>
+├── 05. 📚 [Core Subjects]         ──> <a href="#-core-subjects--academic-focus"><b>[EXECUTE RUN]</b></a>
+├── 06. 📑 [My Report Card]        ──> <a href="#-my-report-card"><b>[EXECUTE RUN]</b></a>
+├── 07. ♟️ [Tactical Chess Logs]   ──> <a href="#%EF%B8%8F-chess-telemetry-gambit-win-rates"><b>[EXECUTE RUN]</b></a>
+└── 08. 📊 [GitHub Engine Stats]   ──> <a href="#-github-stats"><b>[EXECUTE RUN]</b></a>
 ────────────────────────────────────────────────────────────────────────────</pre>
     </td>
   </tr>
