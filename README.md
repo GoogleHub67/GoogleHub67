@@ -135,6 +135,7 @@ My engineering framework centers on rapid prototyping, continuous optimization, 
 
 > ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but 20 apology letters to survive the chaos, I still pull a 90% academic average.
 
+>> DYNAMIC TELEMETRY SYNC: My live personal rating profile from the Chess.com database engines:
 <p align="center">
   <img src="https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=user-5655435344&theme=dark" alt="Chess.com Stats" width="400"/>
 </p>
