@@ -513,7 +513,7 @@ My complete local environment setups, hardware tracking arrays, and package depe
      ========================================================================= -->
      
 ```text
-[ ■ □ ■ □ ■ □ ■ □ ] ⚡ TELEMETRY SEPARATOR LAYER ⚡ [ □ ■ □ ■ □ ■ □ ■ ]
+[ ■ □ ■ □ ■ □ ■ □ ] ──── TELEMETRY SEPARATOR LAYER ──── [ □ ■ □ ■ □ ■ □ ■ ]
 ```
 
 ## ♟️ Chess Telemetry: Gambit Win-Rates
