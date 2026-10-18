@@ -27,10 +27,13 @@
 ===========================================================================
 [SYSTEM STATE] ACTIVE | USER: GOOGLEHUB67 | LOC: INDIA 🇮🇳
 ===========================================================================
-* FIDE Rating: 1500 detected ♟️
-* Math Olympiad: Level 2 cleared 🏆
-* Target Trajectory: Software Engineering / Quantum Computing ⚛️
-* Current Process: Architecting multi-threaded modules & debugging circuits...
+* Core Identity       : Aarav Patel | 13-Year-Old Developer & Chess Player
+* Core Milestones     : 1500 FIDE Strength ♟️ | Math Olympiad Level 2 🏆
+* Target Trajectory   : Software Engineering / Quantum Information Computing ⚛️
+* Primary Ecosystems  : Python scripts, Arduino circuit boards, Scala configs.
+* Dynamic Operations  : - Deploying automated Raspberry Pi physical chessboards.
+                        - Tracking volatile chess gambit telemetry pipelines.
+                        - Architecting automated Lichess database bots.
 ===========================================================================
 ```
 
