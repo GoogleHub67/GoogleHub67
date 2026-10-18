@@ -474,6 +474,10 @@ My complete local environment setups, hardware tracking arrays, and package depe
 
 Positional chess is slow and uninspiring. My opening philosophy centers entirely on maximizing positional volatility, forced tactical calculations, and chaotic, double-edged lines. Here is how my top 30 favorite variations rank based on my live database metrics:
 
+<details>
+  <summary><b> Uncover my top 30 OTB win rates right here 👇 </b></summary>
+  <br/>
+    
 | Rank | Opening Name | Win Rate | Rank | Opening Name | Win Rate |
 | :--- | :--- | :---: | :--- | :--- | :---: |
 | 1 | **Sturm Gambit** ⚔️ | **67%** | 16 | **Nakhmonson Gambit** | **53%** |
@@ -491,6 +495,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 | 13 | **Alien Gambit** 🛸 | **54%** | 28 | **Max Lange Attack** | **52%** |
 | 14 | **Benko Gambit** | **53%** | 29 | **Staunton Gambit** | **52%** |
 | 15 | **Evans Gambit** | **53%** | 30 | **Traxler Counterattack** 💥 | **51%** |
+</details>
 
 > [!CAUTION]
 > **TACTICAL MATRIX WARNING:** Forcing immediate, double-edged `g4` positional thrusts yields a massive win-rate compared to grinding out agonizingly passive `d4`/`d5` frameworks. If you prefer playing safe, dry endgames where nothing happens for 4 hours, there are plenty of checkers applications available on the web.
