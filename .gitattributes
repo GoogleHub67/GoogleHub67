@@ -1,0 +1,7 @@
+# 1. Enable tracking for project files globally
+*.md linguist-detectable=true linguist-documentation=false
+*.json linguist-detectable=true
+
+# 2. Explicitly force GitHub workflows to stay hidden (Safety net)
+.github/workflows/*.yml linguist-detectable=false linguist-vendored=true
+.github/workflows/*.yaml linguist-detectable=false linguist-vendored=true
