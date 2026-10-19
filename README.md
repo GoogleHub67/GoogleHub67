@@ -107,7 +107,7 @@
 - 🎮 **Main Games:** Chess, Cyberpunk 2077, Geometry Dash, MineCraft
 - 📚 **Top Books:** Quantum Physics and Coding-related books from 2005
 - 🏠 **My Setup:** A nuclear reactor you will be shocked to see
-- 👤 **Favourite Personalities:** Linus Torvalds, Alan Turing, and Dennis Ritchie 
+- 👤 **Favourite Personalities:** Linus Torvalds, Claude Shannon, Alan Turing, and Dennis Ritchie 
 
 > **Global Trajectory: 48 Target Cities I Want to Visit**
 <details>
@@ -154,19 +154,6 @@ My engineering framework centers on rapid prototyping, continuous optimization, 
 
 > [!WARNING]
 > ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but three apology letters to survive the chaos, I still pull a 90% academic average.
-
-## 🏫 Academic Risk Mitigation Framework (ARMF)
-
-```text
-===========================================================================
-[PIPELINE STATUS] CRITICAL AVOIDANCE ENGAGED | REBOOTING DIPLOMACY NODE
-===========================================================================
-* Active Threat    : Principal/Headmistress Proximity Sensor (Radius: 15m) 🚨
-* Kinetic Vector   : Plastic-reinforced cricket bat structural testing 🏏
-* Mitigation Asset : Dynamic Apology Letter Generation Script (v4.2-patch)
-* Current Strategy : Maintaining 90%+ API aggregate to mask localized chaos
-===========================================================================
-```
 
 ### 📑 Automated Document Pipeline Performance Metrics
 
@@ -370,28 +357,6 @@ echo 'export SKILL_ISSUE="true"' >> ~/."$(basename "$SHELL")"rc && source ~/."$(
 * **Automated Physical Chessboard:** I am architecting an automated, physical chess engine driven by a **Raspberry Pi (Zero W or 4)**. The system pulls live data over server APIs, actuates physical pieces under the board using micro-motors, and runs real-time hardware validation scripts to prevent illegal moves.
 * **Infinite Matrix Chess:** Fusing spatial coordinate structures from Math Olympiad with software engineering to write game engines that eliminate standard grid boundaries, translating traditional rule sets into infinite matrix grids.
 
-```text
-===========================================================================
-                               ALL PORTS
-===========================================================================
-* PORT 21 [FTP]     --> Lichess Engine Sync Pipeline [ONLINE]
-* PORT 80 [HTTP]    --> Kotlin/Go Microservices Sandbox [LISTENING]
-* PORT 443 [HTTPS]  --> Quantum Telemetry Tracker Heuristics [STABLE]
-* PORT 8080 [LOCAL] --> Raspberry Pi GPIO Pin Actuation Arrays [ENGAGED]
-===========================================================================
-```
-
-```text
-===========================================================================
-[MAIN ENGINE LOG] DYNAMIC THREAD BALANCING 
-===========================================================================
-* Lichess AI Worker Core 01 : [██████████████████░░] 88% (Async Polling)
-* Telemetry Engine Core 02  : [██████████░░░░░░░░░░] 52% (Database Write)
-* Physics Array Core 03     : [██████████████░░░░░░] 74% (Qubit Matrix)
-* GPIO Actuator Core 04     : [████░░░░░░░░░░░░░░░░] 20% (Step Drivers)
-===========================================================================
-```
-
 ### ⚙️ Environment Configuration
 
 My complete local environment setups, hardware tracking arrays, and package dependencies are version-controlled and fully cataloged across modular manifests.
@@ -427,17 +392,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **Low-Level Microcode Mapping:** Engineering firmware scripts to map General Purpose Input/Output (GPIO) pin schemas for direct digital-to-analog interactions.
 * **Motor Actuation Systems:** Writing custom motor drivers to precisely control step-sequences, pulse-width modulation (PWM), and magnetic positioning under custom surfaces.
 * **Circuit Design Logic:** Designing electrical schematics that safely handle voltage distribution, logic level shifting, and physical sensory feedback loops.
-
-```text
-===========================================================================
-[EMBEDDED NODE CONFIG] DEVICE: RASPBERRY PI ZERO W / 4 | STATUS: PROTOTYPE
-===========================================================================
-* Bus Interfacing     : I2C / SPI Matrix Active 🔌
-* Pin Mapping Schema  : GPIO SysFS Mapping (Direct Digital-to-Analog)
-* Actuation Protocol  : Custom PWM Step-Sequencers / H-Bridge Motor Drivers
-* Server Connectivity : Lichess Async Engine Engine Sync (Lila REST API)
-===========================================================================
-```
 
 #### 🔧 Custom PC Architecture & Engineering
 * **System Blueprinting:** Planning complex desktop system configurations from individual structural component compatibility up to physical deployment.
@@ -518,25 +472,6 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **Biomechanical Execution:** Applying fluid dynamics and rotational mechanics to optimize power transfer and entry angles during high-impact stroke play.
 * **Real-time Trajectory Analytics:** Processing real-time aerodynamic variables (such as spin degradation, seam position, and pitch moisture variations) to execute defensive and offensive positioning.
 * **Strategic Alliances & Global Fandom:** Die-hard, proud supporter of **Team India (ICT)** 🇮🇳 and **Royal Challengers Bengaluru (RCB)** ❤️—tracking high-pressure match dynamics, field placements, and tactical pacing metrics.
-
-##### 🏏 Biomechanical & Quantum Projectile Heuristics
-
-```text
-===========================================================================
-[KINETIC TELEMETRY] DEPLOYED | PROTOCOL: MAXIMUM_POWER_TRANSFER
-===========================================================================
-* Engine Core   : Math Olympiad Coordinate Grid Alignment (Boundaryless)
-* Aero Profile  : Real-time Magnus Effect & Boundary Layer Turbulence Trackers
-* Target Vector : Deep mid-wicket orbital launch path
-$$
-\psi(x,t) = \sqrt{\frac{2}{L}}\sin\left(\frac{n\pi x}{L}\right)e^{-iE_{n}t/\hbar} \quad \longrightarrow \quad \text{[CRICKET BALL STOCHASTIC PROBABILITY MATRIX]}
-$$
-===========================================================================
-```
-
-*   **Rotational Degradation Mechanics:** Tracking dynamic spin matrices to calculate exactly how much local pitch moisture will panic the bowler.
-*   **Plastic Structural Upgrades:** Fine-tuning the center-of-mass on standard textbook bats using low-density polymers to maximize kinetic energy dispersion.
-*   **Atmospheric Calibration Network:** Measuring real-time humidity fluctuations near the staff room to adjust stroke play trajectories away from expensive glass windows.
 </details>
 
 ---
@@ -809,8 +744,6 @@ Batchfile                2 repos             ██░░░░░░░░░�
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/assets/bar_graph.png)
@@ -844,14 +777,6 @@ May his soul rest in eternal peace. The chess community will forever remember hi
 
 > [!TIP]
 > **SYSTEM COMPILATION COMPLETE:** If you actually scrolled through all ~800 lines of this ~46 KB data dump and read this far down, thank you for taking your time. Your dedication to reading text screens is highly optimal, and your attention span is officially superior to 99.9% of the internet. You may now safely log out of the mainframe.
-
-```text
-[FINAL_DIAGNOSTICS] -------------------------------------------------------
->> RYZEN 5 7600 CORE STATUS   : OK [6 ACTIVE THREADS ENGAGED]
->> RTX 3060 VRAM ALLOCATION   : OK [12GB HARDWARE CACHE INITIALIZED]
->> INLINE BRAINFK INTERPRETER : OK [0 RUNTIME OVERFLOWS ENCOUNTERED]
----------------------------------------------------------------------------
-```
 
 ```text
 ===========================================================================
