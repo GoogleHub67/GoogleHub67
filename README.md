@@ -157,6 +157,7 @@ My engineering framework centers on rapid prototyping, continuous optimization, 
 
 ## 🏫 Academic Risk Mitigation Framework (ARMF)
 
+```text
 ===========================================================================
 [PIPELINE STATUS] CRITICAL AVOIDANCE ENGAGED | REBOOTING DIPLOMACY NODE
 ===========================================================================
@@ -165,6 +166,7 @@ My engineering framework centers on rapid prototyping, continuous optimization, 
 * Mitigation Asset : Dynamic Apology Letter Generation Script (v4.2-patch)
 * Current Strategy : Maintaining 90%+ API aggregate to mask localized chaos
 ===========================================================================
+```
 
 ### 📑 Automated Document Pipeline Performance Metrics
 
