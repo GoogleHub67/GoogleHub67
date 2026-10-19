@@ -1,3 +1,9 @@
+> [!WARNING]
+> ### 🚫 CRITICAL COMPATIBILITY NOTICE FOR GUI DEPENDENT ENTITIES
+> This repository uses advanced terminal layout architecture and raw POSIX-compliant logic workflows. If your primary method of navigating software engineering projects involves moving a cursor to click a shiny green button, your local cognitive buffer may experience immediate fragmentation. 
+>
+> Proceeding past this banner without an active command-line interface running in your background environment automatically flags your profile as `SKILL_ISSUE=true`. Consider yourself monitored.
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on Lichess bot enhancements, game metrics database trackers, and coordinate-grid system configurations.
@@ -147,7 +153,28 @@ I am Aarav, a developer, competitive chess player, and a technical builder focus
 My engineering framework centers on rapid prototyping, continuous optimization, and practical system architecture—whether that involves deploying low-level hardware automation or researching particle state mechanics. Beyond core software development, I actively explore advanced spatial grid systems, coordinate methodologies, and modern microservice pipelines to build creative and highly optimized applications.
 
 > [!WARNING]
-> ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but 20 apology letters to survive the chaos, I still pull a 90% academic average.
+> ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but three apology letters to survive the chaos, I still pull a 90% academic average.
+
+## 🏫 Academic Risk Mitigation Framework (ARMF)
+
+===========================================================================
+[PIPELINE STATUS] CRITICAL AVOIDANCE ENGAGED | REBOOTING DIPLOMACY NODE
+===========================================================================
+* Active Threat    : Principal/Headmistress Proximity Sensor (Radius: 15m) 🚨
+* Kinetic Vector   : Plastic-reinforced cricket bat structural testing 🏏
+* Mitigation Asset : Dynamic Apology Letter Generation Script (v4.2-patch)
+* Current Strategy : Maintaining 90%+ API aggregate to mask localized chaos
+===========================================================================
+
+### 📑 Automated Document Pipeline Performance Metrics
+
+| Incident Vector | Severity Layer | Generation Latency | Protocol Output |
+| :--- | :--- | :--- | :--- |
+| **Classroom Window Deflection** | High | 120ms | `apology_template_v2_structural.pdf` |
+| **Corridor Velocity Overflow** | Medium | 45ms | `apology_template_v1_accidental.pdf` |
+| **Headmistress Desk Encroachment**| Critical | 12ms | `emergency_parental_signature_spoof.sh` |
+
+*Note: All demerit payloads are signed with custom cryptographic keys to bypass manual administrative review layers before the end of the school period.*
 
 > [!NOTE]
 > **DYNAMIC TELEMETRY SYNC:** My live personal rating profile from the Chess.com database engines:
@@ -474,6 +501,25 @@ My complete local environment setups, hardware tracking arrays, and package depe
 * **Biomechanical Execution:** Applying fluid dynamics and rotational mechanics to optimize power transfer and entry angles during high-impact stroke play.
 * **Real-time Trajectory Analytics:** Processing real-time aerodynamic variables (such as spin degradation, seam position, and pitch moisture variations) to execute defensive and offensive positioning.
 * **Strategic Alliances & Global Fandom:** Die-hard, proud supporter of **Team India (ICT)** 🇮🇳 and **Royal Challengers Bengaluru (RCB)** ❤️—tracking high-pressure match dynamics, field placements, and tactical pacing metrics.
+
+##### 🏏 Biomechanical & Quantum Projectile Heuristics
+
+```text
+===========================================================================
+[KINETIC TELEMETRY] DEPLOYED | PROTOCOL: MAXIMUM_POWER_TRANSFER
+===========================================================================
+* Engine Core   : Math Olympiad Coordinate Grid Alignment (Boundaryless)
+* Aero Profile  : Real-time Magnus Effect & Boundary Layer Turbulence Trackers
+* Target Vector : Deep mid-wicket orbital launch path
+$$
+\psi(x,t) = \sqrt{\frac{2}{L}}\sin\left(\frac{n\pi x}{L}\right)e^{-iE_{n}t/\hbar} \quad \longrightarrow \quad \text{[CRICKET BALL STOCHASTIC PROBABILITY MATRIX]}
+$$
+===========================================================================
+```
+
+*   **Rotational Degradation Mechanics:** Tracking dynamic spin matrices to calculate exactly how much local pitch moisture will panic the bowler.
+*   **Plastic Structural Upgrades:** Fine-tuning the center-of-mass on standard textbook bats using low-density polymers to maximize kinetic energy dispersion.
+*   **Atmospheric Calibration Network:** Measuring real-time humidity fluctuations near the staff room to adjust stroke play trajectories away from expensive glass windows.
 </details>
 
 ---
