@@ -5,3 +5,8 @@
 # 2. Explicitly force GitHub workflows to stay hidden (Safety net)
 .github/workflows/*.yml linguist-detectable=false linguist-vendored=true
 .github/workflows/*.yaml linguist-detectable=false linguist-vendored=true
+
+# 3. Asset and Image Optimization (Treat as binary, hide from diffs)
+assets/**/*.webp binary -diff
+assets/**/*.png binary -diff
+assets/**/*.jpg binary -diff
