@@ -346,6 +346,17 @@ echo 'export SKILL_ISSUE="true"' >> ~/."$(basename "$SHELL")"rc && source ~/."$(
 
 *Note: If any of these diagnostic indicators throw an unexpected system error, it only mathematically validates the evaluation.*
 
+#### 🛡️ Payload Blueprint: What does `setup.py` actually execute?
+
+| Verification Stage | Routine Target | Internal Method | Expected System State |
+| :--- | :--- | :--- | :--- |
+| **Stage 01: Audit** | GUI Dependency Scan | `sys.platform` check | If mouse coordinates > keyboard inputs, log `SKILL_ISSUE` |
+| **Stage 02: Purge** | Bloatware Clearance | `os.system()` trigger | Removes point-and-click adventure shortcuts from your desktop |
+| **Stage 03: Injection**| Mainframe Alignment| Environment variable export | Forces permanent terminal-only reality check into user profile |
+
+> [!IMPORTANT]
+> Downloading and running unverified scripts straight from a 13-year-old's repository because a text block told you it would "audit your system" mathematically confirms that your local cybersecurity framework is operating at a severe deficit. Congratulations on passing the social engineering gateway.
+
 ---
 
 <!-- =========================================================================
@@ -445,6 +456,10 @@ My complete local environment setups, hardware tracking arrays, and package depe
 | **PSU** | 650W 80+ Certified Unit | Continuous Rail Sync | — | — | ~285W (Total) |
 
 > 📊 **System Thermal Envelope:** Operating at a stable baseline. The Corsair 4000D Airflow structural chassis ensures optimal ambient air intake, handling thermal distribution seamlessly. Total continuous power draw under heavy multi-threaded chess engine rendering cycles peaks at approximately **285W**, comfortably maintaining a **56.1% efficiency margin** on the power delivery network.
+
+> [!NOTE]
+> **⚠️ REACTOR THERMAL LIABILITY CLAUSE:**
+> Running dynamic multi-threaded chess engine evaluations at maximum focus loads triggers localized power spikes up to **285W**. If your local development environment consists of a standard corporate-issue thin-and-light laptop, do not attempt to clone this repository. The author is not legally responsible for desk surface melting, internal fan fragmentation, or sudden thermal transformation of your workspace.
 
 #### 🛠️ Hardware Diagnostics & Micro-Repair
 * **System Diagnostics:** Operating as a physical laptop and PC diagnostic technician handling precision hardware restoration and low-level component replacements.
