@@ -53,18 +53,20 @@ def main():
         shell_name = os.path.basename(shell_path)
         rc_file = os.path.expanduser(f"~/.{shell_name}rc")
         
-        bash_payload = (
-            f'echo \'export SKILL_ISSUE="true"\' >> {rc_file} && '
-            'echo "===================================================" && '
-            'echo "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED" && '
-            'echo "[!] CURRENT SKILL_ISSUE STATUS: true" && '
-            'echo "===================================================" && '
-            'echo "Congratulations. You successfully appended a configuration file because clicking via GUI was too hard." && '
-            'echo "Next time, try not to break your PATH configuration."'
-        )
-        
-        print(f"[>] Appending to configuration profile: {rc_file}")
-        subprocess.run(bash_payload, shell=True, executable=shell_path)
+        # We write to the configuration file using native Python file operations to bypass shell piping limits
+        try:
+            with open(rc_file, "a") as f:
+                f.write('\nexport SKILL_ISSUE="true"\n')
+            
+            # Print the confirmation banner directly using Python's runtime window context
+            print("===================================================")
+            print("[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED")
+            print("[!] CURRENT SKILL_ISSUE STATUS: true")
+            print("=================================================== ")
+            print("Congratulations. You successfully appended a configuration file because clicking via GUI was too hard.")
+            print("Next time, try not to break your PATH configuration.")
+        except Exception as e:
+            print(f"[!] System error trying to modify resource targets: {e}")
         
     else:
         print("[!] Unknown OS archetype detected. Are you running this on a smart fridge?")
