@@ -204,7 +204,6 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 ```
 
 ### ♟️ Automated Chess Mainframe
-### ♟️ Automated Chess Mainframe
 
 [![Dispense Chess Wisdom](https://img.shields.io/badge/System_Action-Dispense_Chess_Wisdom-FF5733?style=plastic&logo=github)](https://github.com/GoogleHub67/GoogleHub67/actions/workflows/chess_wisdom.yml)
 
@@ -218,16 +217,16 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 2. **Navigate** to your repository's top tab layout and click on **Settings** -> **Actions** -> **General**.
 3. **Scroll down** to the **Workflow permissions** block and select **Read and write permissions** to allow the runtime bot to update files.
 4. **Verify tracking anchors:** Ensure your `README.md` file contains this exact initialization block where you want the automated output to render:
-   ```markdown
+   ```text
    <!-- CHESS_WISDOM_START -->
+   <!-- CHESS_WISDOM_END -->
+   ```
 ### ♟ Telemetry Broadcast: Gambit of the Day
 > **[GAMBIT_145]Halibut Gambit**
 > * **Moves:** \`1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Nc6 5.f4\`
 > * **Tactical Profile:** *\Polish Opening modification dropping multiple flank files to establish absolute tactical scanning lines to f7.*
 > * **System Status:** \`MAXIMUM_VOLATILITY\`
 
-<!-- CHESS_WISDOM_END -->
-   ```
 5. **Override schedule:** Head over to your repository's main **Actions** tab -> Select `Dispense Chess Wisdom` from the sidebar pipeline list.
 6. **Trigger pipeline:** Click the **Run workflow** dropdown on the right side, select your target branch, and click the green execution button.
 7. **Complete sync:** Return to your profile `README.md` dashboard array and watch the automated telemetry broadcast materialize in real-time.
