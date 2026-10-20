@@ -474,7 +474,7 @@
     "defining_moves": "1.d4 Nf6 2.c4 e6 3.g4",
     "tactical_profile": "Ultra-aggressive, calculation-heavy blitz vector. White sacrifices a flank pawn out of nowhere on move three to immediately blow open kingside attacking lanes against standard setups.",
     "system_status": "MAXIMUM_VOLATILITY"
-  }
+  },
   {
     "id": "GAMBIT_069",
     "name": "Soller Gambit",
