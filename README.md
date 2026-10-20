@@ -153,6 +153,11 @@ I am Aarav, a developer, competitive chess player, and a technical builder focus
 
 My engineering framework centers on rapid prototyping, continuous optimization, and practical system architecture—whether that involves deploying low-level hardware automation or researching particle state mechanics. Beyond core software development, I actively explore advanced spatial grid systems, coordinate methodologies, and modern microservice pipelines to build creative and highly optimized applications.
 
+> [!NOTE]
+> **📡 INBOUND Q&A NODE ACTIVE**
+> The global question-and-answer cluster is currently listening for incoming data payloads. If you want to query the mainframe regarding engineering pipelines, volatile gambit telemetry, or custom hardware actuation grids:
+> 👉 **[Join my AMA here!](https://github.com/GoogleHub67/GoogleHub67/discussions/1)**
+
 > [!WARNING]
 > ⚠️ **System Notice / Classroom Log:** If you ever step into my classroom, you'll instantly see the total lack of discipline. I am playing cricket at every possible moment, modifying our textbook bats using plastic structural upgrades, and racking up 300 runs a week while operating exactly 15 steps away from the headmistress's desk. Yet, despite burning through nothing but three apology letters to survive the chaos, I still pull a 90% academic average.
 
