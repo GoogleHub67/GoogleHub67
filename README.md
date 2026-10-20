@@ -204,16 +204,30 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 ```
 
 ### ♟️ Automated Chess Mainframe
+### ♟️ Automated Chess Mainframe
 
 [![Dispense Chess Wisdom](https://img.shields.io/badge/System_Action-Dispense_Chess_Wisdom-FF5733?style=plastic&logo=github)](https://github.com/GoogleHub67/GoogleHub67/actions/workflows/chess_wisdom.yml)
 
+> **[SYSTEM MODULE STATUS: OPERATIONAL]**
+> This module functions as a dynamic theoretical sandbox engine. A background cron automation job automatically triggers every 24 hours to extract a random, hyper-volatile parent opening sequence from our local database matrix (`chess_tips.json`). The raw telemetry buffer is processed through a streaming formatting pipeline and injected directly down into the display panel below on autopilot. 
+> 
+> Want to bypass the system schedule and force a manual override execution? You can instantly trigger a standalone server pipeline instantiation by running the manual workflow step sequences below.
+
 **Execution Steps:**
-1. **Fork** this repository to your own account.
-2. **Navigate** to `Actions` -> Select `Dispense Chess Wisdom` from the left sidebar -> Click the **Run workflow** dropdown menu.
-3. **Trigger the pipeline:**
-   * Select the target branch and click the green **Run workflow** button.
-   * Open the active action execution logs inside the **Execute Gambit Telemetry Pipeline** job.
-   * Pull your randomized, volatile gambit matrix directly from the telemetry array file output.
+1. **Fork** this repository directly to your personal GitHub account.
+2. **Navigate** to your repository's top tab layout and click on **Settings** -> **Actions** -> **General**.
+3. **Scroll down** to the **Workflow permissions** block and select **Read and write permissions** to allow the runtime bot to update files.
+4. **Verify tracking anchors:** Ensure your `README.md` file contains this exact initialization block where you want the automated output to render:
+   ```markdown
+   <!-- CHESS_WISDOM_START -->
+   <!-- CHESS_WISDOM_END -->
+   ```
+5. **Override schedule:** Head over to your repository's main **Actions** tab -> Select `Dispense Chess Wisdom` from the sidebar pipeline list.
+6. **Trigger pipeline:** Click the **Run workflow** dropdown on the right side, select your target branch, and click the green execution button.
+7. **Complete sync:** Return to your profile `README.md` dashboard array and watch the automated telemetry broadcast materialize in real-time.
+
+<!-- CHESS_WISDOM_START -->
+<!-- CHESS_WISDOM_END -->
 
 ### ♟️ Lichess Autonomous Bot Telemetry Node
 My automated engine executes logic configurations independently from my personal account. The live nodes track operational metrics for **`MakeChessBetter`**:
