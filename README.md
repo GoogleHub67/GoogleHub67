@@ -223,10 +223,10 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_038]Blumenfeld Countergambit**
-> * **Moves:** \`1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5\`
-> * **Tactical Profile:** *\Aggressive queenside pawn storm designed to seize absolute kinetic control of the board.*
-> * **System Status:** \`CRITICAL_ATTACK_VECTOR\`
+> **[GAMBIT_073]Manhattan Gambit**
+> * **Moves:** `1.d4 d5 2.Bf4 c5 3.e4`
+> * **Tactical Profile:** *Asymmetric central blow disrupting Queen's Pawn systems with early vertical action pipelines.*
+> * **System Status:** `ENGINE_APPROVED`
 
 <!-- CHESS_WISDOM_END -->
 
