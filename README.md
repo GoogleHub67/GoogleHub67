@@ -293,6 +293,44 @@ Choosing a song is easily the hardest engineering challenge here. This is the hi
 ```
 👉 **[Click here to stream my current focus anthem on your device!](https://www.youtube.com/watch?v=mNLJMTRvyj8)**
 
+### 🔐 Hidden Text Puzzle
+
+#### 🔤 Data String:
+```text
+4D 29 74 22 7A 76 22 7A 74 67 79 7B
+```
+
+##### 💡 Hint:
+> **The underlying message includes standard ASCII-128 text characters (letters and symbols), not just raw numbers, so do not confuse the translation.** 
+> 
+> If you can successfully decode this sequence in a sensible Latin English way, do not post the answer in the repository issues. Find my **Mail** address listed in the contact section of my profile above, and email me your answer with the subject line: `DECRYPT_SUCCESS`.
+
+### 🔐 Binary Logic Grid Puzzle
+
+#### 🔢 System Matrix:
+The grid below represents an 11×8 matrix containing a hidden message. Every row contains an 8-bit binary character string. You must use logical deduction to fill in the blank spaces. 
+
+|         | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| **R1**  | 0  |    | 0  |    |    | 1  | 1  | 1  |
+| **R2**  |    | 1  |    | 0  | 1  |    |    | 1  |
+| **R3**  | 0  | 1  | 1  |    | 1  | 1  | 1  |    |
+| **R4**  |    | 1  |    | 0  |    | 1  |    | 1  |
+| **R5**  | 0  | 1  | 1  | 0  | 1  |    | 0  |    |
+| **R6**  | 0  |    | 1  |    | 0  | 1  |    | 1  |
+| **R7**  | 0  | 1  |    | 0  | 1  |    | 0  |    |
+| **R8**  |    | 1  | 1  | 1  |    | 1  |    | 1  |
+| **R9**  | 0  | 1  | 1  |    | 0  |    | 1  | 0  |
+| **R10** |    | 0  | 1  | 1  | 0  | 1  | 1  |    |
+| **R11** | 0  |    | 1  | 1  | 0  |    | 1  | 1  |
+
+##### 💡 Hint:
+> **The underlying matrix includes standard ASCII-128 text characters (letters and numbers), not just raw digits, so do not confuse the translation.**
+> 
+> Solve the missing spaces in the matrix grid horizontally across each Row to find the 8-bit binary configurations. 
+> 
+> If you can successfully fill the grid and decrypt the text, do not post the answer in the repository issues. Find my **Mail** address listed in the contact section of my profile above, and email me your answer with the subject line: `DECRYPT_SUCCESS`.
+
 ### 📦 System Easter Egg
 Whatever you do, do not click the dropdown execution layer below unless you want a complete cognitive buffer disruption.
 <details>
