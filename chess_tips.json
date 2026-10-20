@@ -246,1142 +246,807 @@
   },
   {
     "id": "GAMBIT_036",
-    "name": "Sturm Gambit (Accepted Line)",
-    "defining_moves": "1.d4 d5 2.g4",
-    "tactical_profile": "Ultra Volatile Kingside Thrust with dynamic line acceptance.",
+    "name": "Albin Countergambit",
+    "defining_moves": "1.d4 d5 2.c4 e5",
+    "tactical_profile": "Immediate central counterstrike attempting to wedge a pawn onto d3 to disrupt development.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_037",
-    "name": "Halasz Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.f4",
-    "tactical_profile": "Chaotic Central Space Sacrifice with dynamic line acceptance.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_038",
-    "name": "Von Der Lasa Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3",
-    "tactical_profile": "Retro Classical Piece Sacrifice Matrix with dynamic line acceptance.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_039",
-    "name": "Scotch Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4",
-    "tactical_profile": "High-Velocity Development Engine with dynamic line acceptance.",
+    "name": "Benoni Gambit",
+    "defining_moves": "1.d4 c5 2.d5 e6 3.Nc3 exd5 4.Nxd5",
+    "tactical_profile": "High-velocity spatial scramble trading central control for wide open piece runways.",
     "system_status": "ENGINE_APPROVED"
   },
   {
-    "id": "GAMBIT_040",
-    "name": "King's Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.f4",
-    "tactical_profile": "Traditional Structural Hyper-Chaos with dynamic line acceptance.",
+    "id": "GAMBIT_038",
+    "name": "Blumenfeld Countergambit",
+    "defining_moves": "1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5",
+    "tactical_profile": "Aggressive queenside pawn storm designed to seize absolute kinetic control of the board.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
+    "id": "GAMBIT_039",
+    "name": "Groz Gambit",
+    "defining_moves": "1.g4 d5 2.Bg2 Bxg4 3.c4",
+    "tactical_profile": "Hyper-chaotic flank push aiming to pull the enemy monarch straight into structural ruins.",
     "system_status": "VERIFIED_CHAOS"
   },
   {
+    "id": "GAMBIT_040",
+    "name": "Borg Gambit",
+    "defining_moves": "1.e4 g5",
+    "tactical_profile": "Inverted black-side flank assault targeting early kingside space at the cost of immediate structural protection.",
+    "system_status": "MAXIMUM_VOLATILITY"
+  },
+  {
     "id": "GAMBIT_041",
-    "name": "Vienna Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nc3 Nf6 3.f4",
-    "tactical_profile": "Flank Disruption Central Pipeline with dynamic line acceptance.",
+    "name": "Latvian Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 f5",
+    "tactical_profile": "High-friction counteroffensive striking the base of the white central structural engine.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_042",
-    "name": "Bishop's Opening (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Bc4",
-    "tactical_profile": "Early Diagonal Targeted Attack Vector with dynamic line acceptance.",
+    "name": "Elephant Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 d5",
+    "tactical_profile": "Sudden central space explosion ignoring pawn protection for immediate asymmetrical open-file attacking paths.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_043",
-    "name": "Danish Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.c3",
-    "tactical_profile": "Double Pawn Liquidation Runway with dynamic line acceptance.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Calabrese Gambit",
+    "defining_moves": "1.e4 e5 2.Bc4 f5",
+    "tactical_profile": "Early structural disruption module forcing asymmetric spatial calculation loops in the opening.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_044",
-    "name": "Ponziani Opening (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.c3",
-    "tactical_profile": "Delayed Center Contestation Protocol with dynamic line acceptance.",
+    "name": "Rousseau Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 f5",
+    "tactical_profile": "Kingside flank explosion targeting white's active diagonal vectors before castling infrastructure deploys.",
     "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_045",
-    "name": "Smith-Morra Gambit (Accepted Line)",
-    "defining_moves": "1.e4 c5 2.d4 cxd4 3.c3",
-    "tactical_profile": "Anti-Sicilian Structural Incineration Vector with dynamic line acceptance.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Blackburne Shilling Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4",
+    "tactical_profile": "High-risk tactical social engineering vector setting a sudden execution trap under the guise of an invalid blunder.",
+    "system_status": "MAXIMUM_VOLATILITY"
   },
   {
     "id": "GAMBIT_046",
-    "name": "Alapin Opening (Accepted Line)",
-    "defining_moves": "1.e4 c5 2.c3",
-    "tactical_profile": "Positional Anti-Scraping Structural Base with dynamic line acceptance.",
-    "system_status": "HIGH_VOLATILITY"
+    "name": "Jerome Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7+",
+    "tactical_profile": "Absolute system incineration. White liquidates pieces on f7 strictly to induce immediate mental buffer fragmentation.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_047",
-    "name": "Falkbeer Countergambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.f4 d5",
-    "tactical_profile": "Aggressive Central Blockage Inversion with dynamic line acceptance.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
+    "name": "Italian Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d4",
+    "tactical_profile": "High-velocity development pipeline shredding the center to achieve optimal diagonal tracking matrices.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_048",
-    "name": "Alien Gambit (Accepted Line)",
-    "defining_moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.Nxf7",
-    "tactical_profile": "Hyper-Chaotic Subatomic Structural Destruction with dynamic line acceptance.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Goring Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3",
+    "tactical_profile": "Aggressive pawn liquidation engine aiming to secure a permanent development delta against black's structure.",
+    "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_049",
-    "name": "Benko Gambit (Accepted Line)",
-    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 b5",
-    "tactical_profile": "Queenside Flank Asymmetric Matrix with dynamic line acceptance.",
-    "system_status": "ENGINE_APPROVED"
+    "name": "Halloween Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5",
+    "tactical_profile": "Subatomic tactical detonation. White deletes a full piece to drive black knights into frantic internal tracking loops.",
+    "system_status": "MAXIMUM_VOLATILITY"
   },
   {
     "id": "GAMBIT_050",
-    "name": "Evans Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
-    "tactical_profile": "Classic Tactical Mainframe Sacrifice with dynamic line acceptance.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Belgrade Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5",
+    "tactical_profile": "Complex central grid displacement sacrificing stability to mount continuous coordinate vectors against the enemy king.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_051",
-    "name": "Nakhmonson Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Nc3",
-    "tactical_profile": "Tactical Engine Overload Disruption Module with dynamic line acceptance.",
-    "system_status": "HIGH_VOLATILITY"
+    "name": "Cochrane Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nxf7",
+    "tactical_profile": "Anti-Petrov system destruction utility. White strips black's monarch protection matrix before terminal deployment begins.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_052",
-    "name": "Urusov Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3",
-    "tactical_profile": "Rapid Open-File Development Sequence with dynamic line acceptance.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
+    "name": "Boden-Kieseritzky Gambit",
+    "defining_moves": "1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3",
+    "tactical_profile": "Dynamic open-file development sequence aiming for high-density tactical overlaps across the f7 quadrant.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_053",
-    "name": "Latvian Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 f5",
-    "tactical_profile": "Immediate Black Flank Volatility Vector with dynamic line acceptance.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_054",
-    "name": "Goring Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3",
-    "tactical_profile": "Aggressive Center Control Open Core with dynamic line acceptance.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_055",
-    "name": "Halloween Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5",
-    "tactical_profile": "Knight Deletion Psych-Out Pipeline with dynamic line acceptance.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_056",
-    "name": "Colorado Gambit (Accepted Line)",
-    "defining_moves": "1.e4 nc6 2.Nf3 f5",
-    "tactical_profile": "Asymmetric Left-Flank Counter Strike with dynamic line acceptance.",
+    "name": "Urusov Gambit",
+    "defining_moves": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3",
+    "tactical_profile": "High-throughput development framework prioritizing vertical and diagonal lane access over basic pawn units.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
-    "id": "GAMBIT_057",
-    "name": "Stafford Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6",
-    "tactical_profile": "Theoretical Volatility Engine Trap Core with dynamic line acceptance.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_058",
-    "name": "Schara-Henning Gambit (Accepted Line)",
-    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4",
-    "tactical_profile": "Symmetrical Center Exploding Variation with dynamic line acceptance.",
+    "id": "GAMBIT_054",
+    "name": "Frankenstein-Dracula Gambit",
+    "defining_moves": "1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Nc6 6.Nb5 g6 7.Qf3 f5 8.Qd5 Qe7 9.Nxc7+",
+    "tactical_profile": "Extreme structural overload vector where both platforms engage in mutual, hyper-complex hardware liquidation pathways.",
     "system_status": "MAXIMUM_VOLATILITY"
   },
   {
-    "id": "GAMBIT_059",
-    "name": "Wagner-Zucker Gambit (Accepted Line)",
-    "defining_moves": "1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4",
-    "tactical_profile": "Early Pin Exploitation Matrix with dynamic line acceptance.",
+    "id": "GAMBIT_055",
+    "name": "Max Lange Attack",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5",
+    "tactical_profile": "Dynamic central vanguard movement targeting defensive knights to force intense processing overload.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
+    "id": "GAMBIT_056",
+    "name": "Schliemann-Jaenisch Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 f5",
+    "tactical_profile": "High-friction flank counteroffensive designed to immediately disrupt white's Spanish structural grip.",
     "system_status": "ENGINE_APPROVED"
   },
   {
-    "id": "GAMBIT_060",
-    "name": "Omega Gambit (Accepted Line)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3",
-    "tactical_profile": "Pure Black-Diemer Inversion Protocol with dynamic line acceptance.",
+    "id": "GAMBIT_057",
+    "name": "Marshall Attack",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5",
+    "tactical_profile": "Deep endgame engine optimization. Black drops material to gain long-term tracking superiority over white's back rank.",
+    "system_status": "HIGH_VOLATILITY"
+  },
+  {
+    "id": "GAMBIT_058",
+    "name": "Wing Gambit",
+    "defining_moves": "1.e4 c5 2.b4",
+    "tactical_profile": "Anti-Sicilian flank disruption vector sacrificing spatial security to cleanly redirect white's center pawn pipeline.",
     "system_status": "VERIFIED_CHAOS"
   },
   {
+    "id": "GAMBIT_059",
+    "name": "Grand Prix Gambit",
+    "defining_moves": "1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bc4 e6 6.f5",
+    "tactical_profile": "Aggressive flank structural penetration sequence locking down immediate tracking lanes toward the enemy baseline.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
+    "id": "GAMBIT_060",
+    "name": "Smith-Morra Gambit",
+    "defining_moves": "1.e4 c5 2.d4 cxd4 3.c3",
+    "tactical_profile": "Comprehensive structural destruction matrix designed to completely erase black's Sicilian counterplay.",
+    "system_status": "ENGINE_APPROVED"
+  },
+  {
     "id": "GAMBIT_061",
-    "name": "Elephant Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 d5",
-    "tactical_profile": "Sudden Underbelly Central Thrust with dynamic line acceptance.",
+    "name": "Kasparov Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6 11.f3 Nc7 12.a4 b6 13.Nc4 Ba6 14.Bg5",
+    "tactical_profile": "Elite positional sacrifice framework aimed at creating spatial restriction clusters in the midgame pipeline.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_062",
-    "name": "Muzio Gambit (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O",
-    "tactical_profile": "Extreme Piece Deletion Kingside Breakthrough with dynamic line acceptance.",
+    "name": "Milner-Barry Gambit",
+    "defining_moves": "1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.cxd4 Bd7 8.O-O Nxd4",
+    "tactical_profile": "French Defense structural trade dropping center pawns to buy dynamic cross-board tactical velocity.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_063",
-    "name": "Max Lange Attack (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5",
-    "tactical_profile": "Tactical Tsunami Transition Sequence with dynamic line acceptance.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Winawer Countergambit",
+    "defining_moves": "1.d4 d5 2.c4 c6 3.Nc3 e5",
+    "tactical_profile": "Sudden central space challenge tracking quick piece deployment pathways inside Slav configurations.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_064",
-    "name": "Staunton Gambit (Accepted Line)",
+    "name": "Staunton Gambit",
     "defining_moves": "1.d4 f5 2.e4",
-    "tactical_profile": "Anti-Dutch Structural Breakdown Pipeline with dynamic line acceptance.",
-    "system_status": "ENGINE_APPROVED"
+    "tactical_profile": "Anti-Dutch structural liquidation module opening vertical operations straight down the central lines.",
+    "system_status": "MAXIMUM_VOLATILITY"
   },
   {
     "id": "GAMBIT_065",
-    "name": "Traxler Counterattack (Accepted Line)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5",
-    "tactical_profile": "Nuclear Counter-Attack Vector on f2 with dynamic line acceptance.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Birmingham Gambit",
+    "defining_moves": "1.b4 c5",
+    "tactical_profile": "Immediate flank pawn challenge inside the Polish Opening framework, sacrificing a side unit to crack open the b-file for sudden, long-range tactical scans.",
+    "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_066",
-    "name": "Blackmar-Diemer Gambit (Accepted Line)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3",
-    "tactical_profile": "Central Pipeline Pawn Liquidation Grid with dynamic line acceptance.",
+    "name": "Hubsch Gambit",
+    "defining_moves": "1.d4 Nf6 2.Nc3 d5 3.e4 Nxe4 4.Nxe4 dxe4",
+    "tactical_profile": "Fast structural inversion layout designed to create asymmetric open vectors across the board.",
     "system_status": "HIGH_VOLATILITY"
-  }
+  },
   {
     "id": "GAMBIT_067",
-    "name": "Budapest Gambit (Accepted Line)",
-    "defining_moves": "1.d4 Nf6 2.c4 e5",
-    "tactical_profile": "Early Tactical Structural Asymmetry with dynamic line acceptance.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
+    "name": "Gedult Gambit",
+    "defining_moves": "1.f4 d5 2.f5",
+    "tactical_profile": "Hyper-unorthodox vanguard push prioritizing strange spatial geometry over material logic grids.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_068",
-    "name": "Englund Gambit (Accepted Line)",
-    "defining_moves": "1.d4 e5",
-    "tactical_profile": "Immediate Engine Disruption System with dynamic line acceptance.",
+    "name": "Devin Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 e6 3.g4",
+    "tactical_profile": "Ultra-aggressive, calculation-heavy blitz vector. White sacrifices a flank pawn out of nowhere on move three to immediately blow open kingside attacking lanes against standard setups.",
     "system_status": "MAXIMUM_VOLATILITY"
-  },
+  }
   {
     "id": "GAMBIT_069",
-    "name": "From's Gambit (Accepted Line)",
-    "defining_moves": "1.f4 e5",
-    "tactical_profile": "Anti-Bird Counter Structural Blast with dynamic line acceptance.",
-    "system_status": "ENGINE_APPROVED"
+    "name": "Soller Gambit",
+    "defining_moves": "1.d4 e5 2.dxe5 f6",
+    "tactical_profile": "Fast flank deployment protocol aiming to exchange development speed for foundational space metrics.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_070",
-    "name": "Tennison Gambit (Accepted Line)",
-    "defining_moves": "1.Nf3 d5 2.e4",
-    "tactical_profile": "Hyper-Volatile Reti Inversion Matrix with dynamic line acceptance.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Charousek Gambit",
+    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.Bg5",
+    "tactical_profile": "Highly aggressive pin deployment protocol seeking rapid tactical target acquisition inside open lane files.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_071",
-    "name": "Sturm Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 d5 2.g4",
-    "tactical_profile": "Ultra Volatile Kingside Thrust adapted into a closed positional structure.",
-    "system_status": "HIGH_VOLATILITY"
+    "name": "Lisitsin Gambit",
+    "defining_moves": "1.Nf3 f5 2.e4",
+    "tactical_profile": "Anti-Dutch weapon targeting the weakened e6/f7 diagonals before black can castle.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_072",
-    "name": "Halasz Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.f4",
-    "tactical_profile": "Chaotic Central Space Sacrifice adapted into a closed positional structure.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
+    "name": "Krejcik Gambit",
+    "defining_moves": "1.d4 f5 2.g4",
+    "tactical_profile": "Hyper-radical kingside thrust shredding structural sanity to force immediate open-file combat.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_073",
-    "name": "Von Der Lasa Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3",
-    "tactical_profile": "Retro Classical Piece Sacrifice Matrix adapted into a closed positional structure.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Manhattan Gambit",
+    "defining_moves": "1.d4 d5 2.Bf4 c5 3.e4",
+    "tactical_profile": "Asymmetric central blow disrupting Queen's Pawn systems with early vertical action pipelines.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_074",
-    "name": "Scotch Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4",
-    "tactical_profile": "High-Velocity Development Engine adapted into a closed positional structure.",
-    "system_status": "ENGINE_APPROVED"
+    "name": "Milner-Barry Gambit",
+    "defining_moves": "1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.cxd4 Bd7 8.O-O Nxd4",
+    "tactical_profile": "French Defense material drop prioritizing rapid piece deployment over structural pawn maintenance.",
+    "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_075",
-    "name": "King's Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.f4",
-    "tactical_profile": "Traditional Structural Hyper-Chaos adapted into a closed positional structure.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_076",
-    "name": "Vienna Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nc3 Nf6 3.f4",
-    "tactical_profile": "Flank Disruption Central Pipeline adapted into a closed positional structure.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_077",
-    "name": "Bishop's Opening (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Bc4",
-    "tactical_profile": "Early Diagonal Targeted Attack Vector adapted into a closed positional structure.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_078",
-    "name": "Danish Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.c3",
-    "tactical_profile": "Double Pawn Liquidation Runway adapted into a closed positional structure.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_079",
-    "name": "Ponziani Opening (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.c3",
-    "tactical_profile": "Delayed Center Contestation Protocol adapted into a closed positional structure.",
+    "name": "Morphy Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5",
+    "tactical_profile": "Classic hyper-dynamic central line optimization applying high pressure to pinned black coordinates.",
     "system_status": "ENGINE_APPROVED"
   },
   {
-    "id": "GAMBIT_080",
-    "name": "Smith-Morra Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 c5 2.d4 cxd4 3.c3",
-    "tactical_profile": "Anti-Sicilian Structural Incineration Vector adapted into a closed positional structure.",
-    "system_status": "VERIFIED_CHAOS"
+    "id": "GAMBIT_076",
+    "name": "Gunderam Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 f6 3.d4",
+    "tactical_profile": "Aggressive punishment sequence designed to instantly expose structural deficits in fragile openings.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
-    "id": "GAMBIT_081",
-    "name": "Alapin Opening (Declined Matrix)",
-    "defining_moves": "1.e4 c5 2.c3",
-    "tactical_profile": "Positional Anti-Scraping Structural Base adapted into a closed positional structure.",
+    "id": "GAMBIT_077",
+    "name": "Durao Gambit",
+    "defining_moves": "1.d4 Nf6 2.e4 Nxe4",
+    "tactical_profile": "Sudden central transposition framework catching standard Indian Defense setups off guard.",
+    "system_status": "MAXIMUM_VOLATILITY"
+  },
+  {
+    "id": "GAMBIT_078",
+    "name": "Pirc Wing Gambit",
+    "defining_moves": "1.e4 d6 2.Nf3 Nf6 3.e5 dxe5 4.Nxe5 Nbd7 5.Nf3 g6 6.b4",
+    "tactical_profile": "Unorthodox flank push aiming to clamp queenside territory before active piece development configurations begin.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
+    "id": "GAMBIT_079",
+    "name": "Spassky Gambit",
+    "defining_moves": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d6",
+    "tactical_profile": "High-friction King's Gambit branch pushing kinetic calculations straight into terminal velocity overdrive.",
+    "system_status": "VERIFIED_CHAOS"
+  },
+  {
+    "id": "GAMBIT_080",
+    "name": "Zilbermints Gambit",
+    "defining_moves": "1.d4 Nf6 2.Bg5 Ne4 3.Bf4 c5 4.f3 Qa5+ 5.c3 Nf6 6.d5 Qb6 7.e4",
+    "tactical_profile": "Highly volatile challenge inside Trompowsky grids sacrificing material to disrupt coordination arrays.",
+    "system_status": "MAXIMUM_VOLATILITY"
+  },
+  {
+    "id": "GAMBIT_081",
+    "name": "Wade Gambit",
+    "defining_moves": "1.d4 d6 2.Nf3 Bg4 3.c4 Nd7 4.e4 e5 5.d5 f5",
+    "tactical_profile": "Early diagonal pin layout generating immediate asymmetric friction lines across the central column.",
+    "system_status": "ENGINE_APPROVED"
+  },
+  {
     "id": "GAMBIT_082",
-    "name": "Falkbeer Countergambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.f4 d5",
-    "tactical_profile": "Aggressive Central Blockage Inversion adapted into a closed positional structure.",
+    "name": "Mlotkowski Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 b5",
+    "tactical_profile": "Evans Gambit counter-explosion. Black throws a pawn right back to hijack structural momentum.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_083",
-    "name": "Alien Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.Nxf7",
-    "tactical_profile": "Hyper-Chaotic Subatomic Structural Destruction adapted into a closed positional structure.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Cunningham Gambit",
+    "defining_moves": "1.e4 e5 2.f4 exf4 3.Nf3 Be7",
+    "tactical_profile": "Classical piece positioning vector aiming for immediate kingside diagonal checks to break structural king loops.",
+    "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_084",
-    "name": "Benko Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 b5",
-    "tactical_profile": "Queenside Flank Asymmetric Matrix adapted into a closed positional structure.",
+    "name": "Giuoco Piano Pierce Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d4",
+    "tactical_profile": "Tactical lightning strike bypassing slow setup protocols to break open vertical channels early.",
     "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_085",
-    "name": "Evans Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
-    "tactical_profile": "Classic Tactical Mainframe Sacrifice adapted into a closed positional structure.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_086",
-    "name": "Nakhmonson Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Nc3",
-    "tactical_profile": "Tactical Engine Overload Disruption Module adapted into a closed positional structure.",
+    "name": "MacDonald Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O Nf6",
+    "tactical_profile": "Deep classical tracking layout abandoning structural static defense for active field mobility frameworks.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
+    "id": "GAMBIT_086",
+    "name": "Ponziani Countergambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.c3 f5",
+    "tactical_profile": "Black flank strike directly shattering white's slower center configuration pipeline on move 3.",
+    "system_status": "VERIFIED_CHAOS"
+  },
+  {
     "id": "GAMBIT_087",
-    "name": "Urusov Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3",
-    "tactical_profile": "Rapid Open-File Development Sequence adapted into a closed positional structure.",
+    "name": "Caro-Kann Milner-Barry Gambit",
+    "defining_moves": "1.e4 c6 2.d4 d5 3.e5 Bf5 4.g4 Bg6 5.h4 h5 6.e6",
+    "tactical_profile": "Aggressive space strangulation layout designed to completely freeze black's defensive developer modules.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_088",
-    "name": "Latvian Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 f5",
-    "tactical_profile": "Immediate Black Flank Volatility Vector adapted into a closed positional structure.",
+    "name": "Diemer-Duhm Gambit",
+    "defining_moves": "1.e4 e6 2.d4 d5 3.c4",
+    "tactical_profile": "Extreme open-file conversion protocol melting the French center for sheer line velocity.",
     "system_status": "MAXIMUM_VOLATILITY"
   },
   {
     "id": "GAMBIT_089",
-    "name": "Goring Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3",
-    "tactical_profile": "Aggressive Center Control Open Core adapted into a closed positional structure.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_090",
-    "name": "Halloween Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5",
-    "tactical_profile": "Knight Deletion Psych-Out Pipeline adapted into a closed positional structure.",
+    "name": "Franco-Hiva Gambit",
+    "defining_moves": "1.e4 e6 2.Nf3 f5",
+    "tactical_profile": "Unorthodox horizontal wedge opening highly volatile lines at the cost of baseline king safety parameters.",
     "system_status": "VERIFIED_CHAOS"
   },
   {
+    "id": "GAMBIT_090",
+    "name": "Ruy Lopez Schliemann Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 f5",
+    "tactical_profile": "High-tension counteroffensive targeting white's active pin matrices with immediate explosive force.",
+    "system_status": "ENGINE_APPROVED"
+  },
+  {
     "id": "GAMBIT_091",
-    "name": "Colorado Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 nc6 2.Nf3 f5",
-    "tactical_profile": "Asymmetric Left-Flank Counter Strike adapted into a closed positional structure.",
+    "name": "Siesta Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5",
+    "tactical_profile": "Delayed tactical flank detonation attacking white's structural center layout deep inside modern lines.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_092",
-    "name": "Stafford Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6",
-    "tactical_profile": "Theoretical Volatility Engine Trap Core adapted into a closed positional structure.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_093",
-    "name": "Schara-Henning Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4",
-    "tactical_profile": "Symmetrical Center Exploding Variation adapted into a closed positional structure.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_094",
-    "name": "Wagner-Zucker Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4",
-    "tactical_profile": "Early Pin Exploitation Matrix adapted into a closed positional structure.",
+    "name": "Glek Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 d5 5.exd5 Nxd5 6.Bg2",
+    "tactical_profile": "Positional coordinate attack blending flank fianchetto security loops with central grid pressure.",
     "system_status": "ENGINE_APPROVED"
   },
   {
-    "id": "GAMBIT_095",
-    "name": "Omega Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3",
-    "tactical_profile": "Pure Black-Diemer Inversion Protocol adapted into a closed positional structure.",
+    "id": "GAMBIT_093",
+    "name": "Gedult Attack Gambit",
+    "defining_moves": "1.f4 d5 2.d4 c5 3.e4",
+    "tactical_profile": "Radical tactical reconfiguration forcing multi-dimensional space trades across strange vector grids.",
     "system_status": "VERIFIED_CHAOS"
   },
   {
+    "id": "GAMBIT_094",
+    "name": "Kadas Gambit",
+    "defining_moves": "1.h4 d5 2.d4 e5",
+    "tactical_profile": "Bizarre boundary-breaking response intended to fully fragment the opponent's processing engine.",
+    "system_status": "MAXIMUM_VOLATILITY"
+  },
+  {
+    "id": "GAMBIT_095",
+    "name": "Sorensen Gambit",
+    "defining_moves": "1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Nxc3",
+    "tactical_profile": "High-throughput tactical liquidation pipeline establishing deep tactical control over active vertical channels.",
+    "system_status": "ENGINE_APPROVED"
+  },
+  {
     "id": "GAMBIT_096",
-    "name": "Elephant Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 d5",
-    "tactical_profile": "Sudden Underbelly Central Thrust adapted into a closed positional structure.",
+    "name": "St. George Gambit",
+    "defining_moves": "1.e4 a6 2.d4 b5 3.Nf3 Bb7 4.Bd3 e6 5.O-O c5 6.d5 c4",
+    "tactical_profile": "Asymmetric queenside wing expansion breaking coordinate boundaries to secure flank piece deployments.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_097",
-    "name": "Muzio Gambit (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O",
-    "tactical_profile": "Extreme Piece Deletion Kingside Breakthrough adapted into a closed positional structure.",
+    "name": "Tal Gambit",
+    "defining_moves": "1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.c4",
+    "tactical_profile": "Aggressive spatial fragmentation strategy tearing open standard Caro-Kann pawn bases for sharp midgame tracking.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_098",
-    "name": "Max Lange Attack (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5",
-    "tactical_profile": "Tactical Tsunami Transition Sequence adapted into a closed positional structure.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Tarrasch Gambit",
+    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.dxc5 d4 10.Na4",
+    "tactical_profile": "High-level theoretical configuration yielding an isolated pawn system for hyper-active long-range mobility arrays.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_099",
-    "name": "Staunton Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 f5 2.e4",
-    "tactical_profile": "Anti-Dutch Structural Breakdown Pipeline adapted into a closed positional structure.",
-    "system_status": "ENGINE_APPROVED"
-  }
+    "name": "Uedemann Gambit",
+    "defining_moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Bc4",
+    "tactical_profile": "Early piece coordinate target shift prioritizing rapid weapon positioning over direct positional safety rules.",
+    "system_status": "HIGH_VOLATILITY"
+  },
   {
     "id": "GAMBIT_100",
-    "name": "Traxler Counterattack (Declined Matrix)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5",
-    "tactical_profile": "Nuclear Counter-Attack Vector on f2 adapted into a closed positional structure.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Vulture Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 Ne4",
+    "tactical_profile": "Hyper-exotic knight maneuvering blueprint designed to instantly jam white's opening pipeline configuration architectures.",
+    "system_status": "MAXIMUM_VOLATILITY"
   },
   {
     "id": "GAMBIT_101",
-    "name": "Blackmar-Diemer Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3",
-    "tactical_profile": "Central Pipeline Pawn Liquidation Grid adapted into a closed positional structure.",
-    "system_status": "HIGH_VOLATILITY"
+    "name": "Gibbins-Wiedenhagen Gambit",
+    "defining_moves": "1.d4 Nf6 2.g4 Nxg4 3.e4",
+    "tactical_profile": "Ultra-radical kingside material donation designed to seize instant space and initiative arrays inside the center columns.",
+    "system_status": "MAXIMUM_VOLATILITY"
   },
   {
     "id": "GAMBIT_102",
-    "name": "Budapest Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 Nf6 2.c4 e5",
-    "tactical_profile": "Early Tactical Structural Asymmetry adapted into a closed positional structure.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
+    "name": "Dunst Gambit",
+    "defining_moves": "1.Nc3 d5 2.e4 dxe4 3.Nxe4",
+    "tactical_profile": "Unorthodox central line optimization using early knight activation arrays to bypass traditional transposition protocols.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_103",
-    "name": "Englund Gambit (Declined Matrix)",
-    "defining_moves": "1.d4 e5",
-    "tactical_profile": "Immediate Engine Disruption System adapted into a closed positional structure.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Amar Gambit",
+    "defining_moves": "1.Nh3 d5 2.g3 e5 3.f4 Bxh3 4.Bxh3 exf4",
+    "tactical_profile": "Extremely volatile perimeter framework sacrificing castling structural logic for open vertical files.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_104",
-    "name": "From's Gambit (Declined Matrix)",
-    "defining_moves": "1.f4 e5",
-    "tactical_profile": "Anti-Bird Counter Structural Blast adapted into a closed positional structure.",
-    "system_status": "ENGINE_APPROVED"
+    "name": "Durkin Gambit",
+    "defining_moves": "1.Na3 e5 2.Nc4 Nc6 3.e4",
+    "tactical_profile": "Flank deployment anomaly targeting central infiltration routes from highly unusual diagonal grid setups.",
+    "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_105",
-    "name": "Tennison Gambit (Declined Matrix)",
-    "defining_moves": "1.Nf3 d5 2.e4",
-    "tactical_profile": "Hyper-Volatile Reti Inversion Matrix adapted into a closed positional structure.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Myers Queen's Gambit",
+    "defining_moves": "1.c4 g6 2.d4 Bg7 3.Nc3 c5 4.d5 Bxc3+ 5.bxc3 f5",
+    "tactical_profile": "Hyper-aggressive hypermodern black strike fracturing white's structural base for raw endgame blockades.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_106",
-    "name": "Sturm Gambit (Deferred System)",
-    "defining_moves": "1.d4 d5 2.g4",
-    "tactical_profile": "Ultra Volatile Kingside Thrust with dynamic, late-stage configuration setups.",
-    "system_status": "HIGH_VOLATILITY"
+    "name": "Goldsmith Defense Gambit",
+    "defining_moves": "1.e4 h5 2.d4 e5",
+    "tactical_profile": "Psychological subversion array offering material down the center file to break standard white focus algorithms.",
+    "system_status": "MAXIMUM_VOLATILITY"
   },
   {
     "id": "GAMBIT_107",
-    "name": "Halasz Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.f4",
-    "tactical_profile": "Chaotic Central Space Sacrifice with dynamic, late-stage configuration setups.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
+    "name": "Carr Defense Gambit",
+    "defining_moves": "1.e4 h6 2.d4 a6 3.Nf3 d5",
+    "tactical_profile": "Highly defensive asymmetric configuration shifting targets to midgame counterattacks via flank positional nodes.",
+    "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_108",
-    "name": "Von Der Lasa Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3",
-    "tactical_profile": "Retro Classical Piece Sacrifice Matrix with dynamic, late-stage configuration setups.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Lemming Defense Gambit",
+    "defining_moves": "1.e4 Na6 2.Bxa6 bxa6",
+    "tactical_profile": "Extreme open b-file deployment framework trading structural integrity for rapid queen-side mobile pressure tracking.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_109",
-    "name": "Scotch Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4",
-    "tactical_profile": "High-Velocity Development Engine with dynamic, late-stage configuration setups.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_110",
-    "name": "King's Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.f4",
-    "tactical_profile": "Traditional Structural Hyper-Chaos with dynamic, late-stage configuration setups.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_111",
-    "name": "Vienna Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nc3 Nf6 3.f4",
-    "tactical_profile": "Flank Disruption Central Pipeline with dynamic, late-stage configuration setups.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_112",
-    "name": "Bishop's Opening (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Bc4",
-    "tactical_profile": "Early Diagonal Targeted Attack Vector with dynamic, late-stage configuration setups.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_113",
-    "name": "Danish Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.c3",
-    "tactical_profile": "Double Pawn Liquidation Runway with dynamic, late-stage configuration setups.",
+    "name": "Fried Fox Gambit",
+    "defining_moves": "1.e4 f6 2.d4 Kf7",
+    "tactical_profile": "Radical human calculation override. King manual activation on move 2 to bypass all traditional template limits.",
     "system_status": "MAXIMUM_VOLATILITY"
   },
   {
-    "id": "GAMBIT_114",
-    "name": "Ponziani Opening (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.c3",
-    "tactical_profile": "Delayed Center Contestation Protocol with dynamic, late-stage configuration setups.",
+    "id": "GAMBIT_110",
+    "name": "Mokele Mbembe Gambit",
+    "defining_moves": "1.e4 Nf6 2.e5 Ne4 3.d4 f6",
+    "tactical_profile": "Deep Alekhine challenge thrusting the knight directly into the enemy grid base to invite structural overextension loops.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
+    "id": "GAMBIT_111",
+    "name": "Bucker Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 e5 3.d5 Bc5",
+    "tactical_profile": "Budapest configuration modifier maximizing direct tactical focus toward the vulnerable f2 coordinate matrix.",
     "system_status": "ENGINE_APPROVED"
   },
   {
-    "id": "GAMBIT_115",
-    "name": "Smith-Morra Gambit (Deferred System)",
-    "defining_moves": "1.e4 c5 2.d4 cxd4 3.c3",
-    "tactical_profile": "Anti-Sicilian Structural Incineration Vector with dynamic, late-stage configuration setups.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_116",
-    "name": "Alapin Opening (Deferred System)",
-    "defining_moves": "1.e4 c5 2.c3",
-    "tactical_profile": "Positional Anti-Scraping Structural Base with dynamic, late-stage configuration setups.",
+    "id": "GAMBIT_112",
+    "name": "Dodo Gambit",
+    "defining_moves": "1.d4 d5 2.f4 e5",
+    "tactical_profile": "Immediate black central sacrifice challenging Stonewall structures before development arrays can deploy.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
+    "id": "GAMBIT_113",
+    "name": "Soller Childs Gambit",
+    "defining_moves": "1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Bf4 Qb4+",
+    "tactical_profile": "High-velocity tactical sequence engineering a triple threat targeting the b2, d4, and f4 parameters simultaneously.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
+    "id": "GAMBIT_114",
+    "name": "Zilbermints Countergambit",
+    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3 e5",
+    "tactical_profile": "Blackmar-Diemer structural explosion inversion reclaiming the center coordinates via rapid piece play setups.",
+    "system_status": "VERIFIED_CHAOS"
+  },
+  {
+    "id": "GAMBIT_115",
+    "name": "Lasa Open Evans Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 Bb6",
+    "tactical_profile": "High-throughput midgame pipeline design providing deep spatial pressure targets down the open layout lanes.",
+    "system_status": "ENGINE_APPROVED"
+  },
+  {
+    "id": "GAMBIT_116",
+    "name": "Richardson Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Nxe4 5.Bxf7+ Ke7 6.d4",
+    "tactical_profile": "Extreme hardware liquidation sequence turning the two-knights defense into a hyper-complex central firefight matrix.",
+    "system_status": "MAXIMUM_VOLATILITY"
+  },
+  {
     "id": "GAMBIT_117",
-    "name": "Falkbeer Countergambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.f4 d5",
-    "tactical_profile": "Aggressive Central Blockage Inversion with dynamic, late-stage configuration setups.",
+    "name": "Rosentreter Gambit",
+    "defining_moves": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.g3",
+    "tactical_profile": "King's Gambit optimization array designed to forcefully clear kingside files for dynamic rook deployment arcs.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_118",
-    "name": "Alien Gambit (Deferred System)",
-    "defining_moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.Nxf7",
-    "tactical_profile": "Hyper-Chaotic Subatomic Structural Destruction with dynamic, late-stage configuration setups.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_119",
-    "name": "Benko Gambit (Deferred System)",
-    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 b5",
-    "tactical_profile": "Queenside Flank Asymmetric Matrix with dynamic, late-stage configuration setups.",
+    "name": "Sorensen Countergambit",
+    "defining_moves": "1.e4 e5 2.d4 exd4 3.c3 d5",
+    "tactical_profile": "Danish Gambit structural defense module immediately neutralizing white's structural runway calculations.",
     "system_status": "ENGINE_APPROVED"
   },
   {
+    "id": "GAMBIT_119",
+    "name": "Spassky Ruy Lopez Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 exd4 7.e5 Ne4 8.c3",
+    "tactical_profile": "Elite masterclass space sacrifice optimizing open lines to pin black's king tracking matrix safely.",
+    "system_status": "HIGH_VOLATILITY"
+  },
+  {
     "id": "GAMBIT_120",
-    "name": "Evans Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
-    "tactical_profile": "Classic Tactical Mainframe Sacrifice with dynamic, late-stage configuration setups.",
+    "name": "Gedult Diemer Gambit",
+    "defining_moves": "1.d4 d5 2.f3 e5",
+    "tactical_profile": "Highly volatile reverse configuration challenging early opening logic arrays with instant tactical friction.",
     "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_121",
-    "name": "Nakhmonson Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Nc3",
-    "tactical_profile": "Tactical Engine Overload Disruption Module with dynamic, late-stage configuration setups.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_122",
-    "name": "Urusov Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3",
-    "tactical_profile": "Rapid Open-File Development Sequence with dynamic, late-stage configuration setups.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_123",
-    "name": "Latvian Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 f5",
-    "tactical_profile": "Immediate Black Flank Volatility Vector with dynamic, late-stage configuration setups.",
+    "name": "Swiss Gambit",
+    "defining_moves": "1.f4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4",
+    "tactical_profile": "Bird's Opening structural inversion tracking explosive flank vanguards to dislodge defensive configurations.",
     "system_status": "MAXIMUM_VOLATILITY"
   },
   {
-    "id": "GAMBIT_124",
-    "name": "Goring Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3",
-    "tactical_profile": "Aggressive Center Control Open Core with dynamic, late-stage configuration setups.",
+    "id": "GAMBIT_122",
+    "name": "Polugaevsky Gambit",
+    "defining_moves": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 b5",
+    "tactical_profile": "Theoretical razor line inside the Sicilian Najdorf. Total coordinate overload where one step triggers instant execution.",
     "system_status": "ENGINE_APPROVED"
   },
   {
+    "id": "GAMBIT_123",
+    "name": "Rubinstein Countergambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Nxe4 5.Nc3",
+    "tactical_profile": "Dynamic material adjustment module focusing immediate horizontal tracking arrays across central files.",
+    "system_status": "HIGH_VOLATILITY"
+  },
+  {
+    "id": "GAMBIT_124",
+    "name": "Shabalov-Gambit",
+    "defining_moves": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.g4",
+    "tactical_profile": "Modern anti-Semi-Slav weapon launching structural flank missiles to disrupt traditional black processing grids.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
     "id": "GAMBIT_125",
-    "name": "Halloween Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5",
-    "tactical_profile": "Knight Deletion Psych-Out Pipeline with dynamic, late-stage configuration setups.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Alapin Sicilian Gambit",
+    "defining_moves": "1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.O-O Nc6 8.Be3 cxd4 9.cxd4 Bb4 10.a3 Ba5 11.Nc3 Bxc3 12.bxc3 O-O 13.h3 Bh5 14.c4",
+    "tactical_profile": "Positional structural isolation layout tracking dynamic coordinate fluidity inside queen-pawn profiles.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_126",
-    "name": "Colorado Gambit (Deferred System)",
-    "defining_moves": "1.e4 nc6 2.Nf3 f5",
-    "tactical_profile": "Asymmetric Left-Flank Counter Strike with dynamic, late-stage configuration setups.",
+    "name": "Morphy Defense Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O",
+    "tactical_profile": "High-velocity open Spanish layout deploying direct tracking vectors before black can configure castling protocols.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_127",
-    "name": "Stafford Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6",
-    "tactical_profile": "Theoretical Volatility Engine Trap Core with dynamic, late-stage configuration setups.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_128",
-    "name": "Schara-Henning Gambit (Deferred System)",
-    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4",
-    "tactical_profile": "Symmetrical Center Exploding Variation with dynamic, late-stage configuration setups.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_129",
-    "name": "Wagner-Zucker Gambit (Deferred System)",
-    "defining_moves": "1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4",
-    "tactical_profile": "Early Pin Exploitation Matrix with dynamic, late-stage configuration setups.",
+    "name": "Sveshnikov Sicilian Gambit",
+    "defining_moves": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5",
+    "tactical_profile": "High-density hardware structural battle mapping long-term piece positioning matrices across deep open fields.",
     "system_status": "ENGINE_APPROVED"
   },
   {
+    "id": "GAMBIT_128",
+    "name": "Ahlhausen Gambit",
+    "defining_moves": "1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.a3 Bg4",
+    "tactical_profile": "Albin countergambit refinement adding precise tracking modifiers to bypass white's standard blocking configurations.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
+    "id": "GAMBIT_129",
+    "name": "Pillsbury Gambit",
+    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.cxd5 cxd4",
+    "tactical_profile": "Dynamic Queen's Gambit Declined variation trading absolute center space for immediate pin exploitation loops.",
+    "system_status": "HIGH_VOLATILITY"
+  },
+  {
     "id": "GAMBIT_130",
-    "name": "Omega Gambit (Deferred System)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3",
-    "tactical_profile": "Pure Black-Diemer Inversion Protocol with dynamic, late-stage configuration setups.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Karpov Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5 9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 c5",
+    "tactical_profile": "Elite structural masterpiece mapping out complex spatial control metrics with minimal tactical data friction.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_131",
-    "name": "Elephant Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 d5",
-    "tactical_profile": "Sudden Underbelly Central Thrust with dynamic, late-stage configuration setups.",
+    "name": "Deep Petrov Volatility Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nc3",
+    "tactical_profile": "Asymmetric material exchange targeting baseline coordination speed early in standard setups.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_132",
-    "name": "Muzio Gambit (Deferred System)",
-    "defining_moves": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O",
-    "tactical_profile": "Extreme Piece Deletion Kingside Breakthrough with dynamic, late-stage configuration setups.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  }
+    "name": "Marshall Queen's Gambit",
+    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.Bg5",
+    "tactical_profile": "High-friction coordinate attack pinning target defense architectures before midgame script transitions occur.",
+    "system_status": "ENGINE_APPROVED"
+  },
   {
     "id": "GAMBIT_133",
-    "name": "Max Lange Attack (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5",
-    "tactical_profile": "Tactical Tsunami Transition Sequence with dynamic, late-stage configuration setups.",
-    "system_status": "MAXIMUM_VOLATILITY"
+    "name": "Janowski Gambit",
+    "defining_moves": "1.d4 d5 2.c4 bf5 3.Nc3 e6 4.Nf3 Nf6 5.Qb3 Nc6",
+    "tactical_profile": "Unorthodox bishop development configuration abandoning standard defense lines for sharp horizontal counter-scans.",
+    "system_status": "VERIFIED_CHAOS"
   },
   {
     "id": "GAMBIT_134",
-    "name": "Staunton Gambit (Deferred System)",
-    "defining_moves": "1.d4 f5 2.e4",
-    "tactical_profile": "Anti-Dutch Structural Breakdown Pipeline with dynamic, late-stage configuration setups.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_135",
-    "name": "Traxler Counterattack (Deferred System)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5",
-    "tactical_profile": "Nuclear Counter-Attack Vector on f2 with dynamic, late-stage configuration setups.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_136",
-    "name": "Blackmar-Diemer Gambit (Deferred System)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3",
-    "tactical_profile": "Central Pipeline Pawn Liquidation Grid with dynamic, late-stage configuration setups.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_137",
-    "name": "Budapest Gambit (Deferred System)",
-    "defining_moves": "1.d4 Nf6 2.c4 e5",
-    "tactical_profile": "Early Tactical Structural Asymmetry with dynamic, late-stage configuration setups.",
+    "name": "Noteboom Gambit",
+    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5",
+    "tactical_profile": "High-volatility pawn framework engineering long-range queen-side running tracks to force permanent engine panic.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
-    "id": "GAMBIT_138",
-    "name": "Englund Gambit (Deferred System)",
-    "defining_moves": "1.d4 e5",
-    "tactical_profile": "Immediate Engine Disruption System with dynamic, late-stage configuration setups.",
+    "id": "GAMBIT_135",
+    "name": "Semi-Slav Shirov Gambit",
+    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.Bg5 h6 6.Bh4 g5 7.Bg3 dxc4 8.e4 b5",
+    "tactical_profile": "Hyper-complex tactical interface trading structural baseline protections for total cross-board space control.",
     "system_status": "MAXIMUM_VOLATILITY"
   },
   {
-    "id": "GAMBIT_139",
-    "name": "From's Gambit (Deferred System)",
-    "defining_moves": "1.f4 e5",
-    "tactical_profile": "Anti-Bird Counter Structural Blast with dynamic, late-stage configuration setups.",
+    "id": "GAMBIT_136",
+    "name": "Abaza Gambit",
+    "defining_moves": "1.d4 Nf6 2.g3 g6 3.Bg2 Bg7 4.e4 d6 5.Ne2 O-O 6.Nbc3 e5 7.h3 c6 8.a4 a5 9.Be3 Na6 10.O-O",
+    "tactical_profile": "King's Indian defense mod balancing quiet baseline parameters with late-stage explosive structural thrusts.",
     "system_status": "ENGINE_APPROVED"
   },
   {
+    "id": "GAMBIT_137",
+    "name": "Grunfeld Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O",
+    "tactical_profile": "Foundational space trade template allowing white wide central runways to exploit long-range diagonal firing tracks.",
+    "system_status": "ENGINE_APPROVED"
+  },
+  {
+    "id": "GAMBIT_138",
+    "name": "Nimzo-Indian Kmoch Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 Nxd5 8.dxc5",
+    "tactical_profile": "Doubled structural pawn system converted into raw vertical open-lane attacking energy across the center core.",
+    "system_status": "HIGH_VOLATILITY"
+  },
+  {
+    "id": "GAMBIT_139",
+    "name": "Spielmann Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Ne4",
+    "tactical_profile": "Early queen deployment blueprint designed to restrict black coordinate adjustments before midgame transition logic.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
     "id": "GAMBIT_140",
-    "name": "Tennison Gambit (Deferred System)",
-    "defining_moves": "1.Nf3 d5 2.e4",
-    "tactical_profile": "Hyper-Volatile Reti Inversion Matrix with dynamic, late-stage configuration setups.",
-    "system_status": "VERIFIED_CHAOS"
+    "name": "Catalan Open Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 dxc4 5.Bg2 a6 6.O-O Nc6",
+    "tactical_profile": "High-level diagnostic sacrifice layout prioritizing long-term diagonal pressure from the kingside execution nodes.",
+    "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_141",
-    "name": "Sturm Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 d5 2.g4",
-    "tactical_profile": "Ultra Volatile Kingside Thrust forcing complex space adjustments after line rejection.",
+    "name": "Benoni Taimanov Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg7 6.f4 O-O 7.Nf3 e6 8.Be2 exd5 9.cxd5 Bg4",
+    "tactical_profile": "Aggressive central pawn formation driving highly fluid open file tactical conversions across the board.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_142",
-    "name": "Halasz Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.f4",
-    "tactical_profile": "Chaotic Central Space Sacrifice forcing complex space adjustments after line rejection.",
+    "name": "Modern Defense Averbakh Gambit",
+    "defining_moves": "1.e4 g6 2.d4 Bg7 3.c4 d6 4.Nc3 e5 5.d5 Nd7 6.Bd3 Ne7 7.h4",
+    "tactical_profile": "Flank structural launch utilizing early vertical pipeline adjustments to attack kingside safety zones.",
     "system_status": "CRITICAL_ATTACK_VECTOR"
   },
   {
     "id": "GAMBIT_143",
-    "name": "Von Der Lasa Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3",
-    "tactical_profile": "Retro Classical Piece Sacrifice Matrix forcing complex space adjustments after line rejection.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_144",
-    "name": "Scotch Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4",
-    "tactical_profile": "High-Velocity Development Engine forcing complex space adjustments after line rejection.",
+    "name": "English Mikenas Gambit",
+    "defining_moves": "1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6",
+    "tactical_profile": "Intense structural transposition testing black's immediate response processing limits right on move 3.",
     "system_status": "ENGINE_APPROVED"
   },
   {
-    "id": "GAMBIT_145",
-    "name": "King's Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.f4",
-    "tactical_profile": "Traditional Structural Hyper-Chaos forcing complex space adjustments after line rejection.",
+    "id": "GAMBIT_144",
+    "name": "Bellon Gambit",
+    "defining_moves": "1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 b5",
+    "tactical_profile": "English opening flank counter-explosion dropping structural side pawns to secure early initiative lanes.",
     "system_status": "VERIFIED_CHAOS"
   },
   {
+    "id": "GAMBIT_145",
+    "name": "Halibut Gambit",
+    "defining_moves": "1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Nc6 5.f4",
+    "tactical_profile": "Polish Opening modification dropping multiple flank files to establish absolute tactical scanning lines to f7.",
+    "system_status": "MAXIMUM_VOLATILITY"
+  },
+  {
     "id": "GAMBIT_146",
-    "name": "Vienna Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nc3 Nf6 3.f4",
-    "tactical_profile": "Flank Disruption Central Pipeline forcing complex space adjustments after line rejection.",
+    "name": " Wade Tartakower Gambit",
+    "defining_moves": "1.d4 d6 2.Nf3 Bg4 3.c4 Nd7 4.g3 Bxf3 5.exf3",
+    "tactical_profile": "Early double-pawn structural dynamic configuration generating unexpected vertical defensive file systems.",
     "system_status": "HIGH_VOLATILITY"
   },
   {
     "id": "GAMBIT_147",
-    "name": "Bishop's Opening (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Bc4",
-    "tactical_profile": "Early Diagonal Targeted Attack Vector forcing complex space adjustments after line rejection.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_148",
-    "name": "Danish Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.c3",
-    "tactical_profile": "Double Pawn Liquidation Runway forcing complex space adjustments after line rejection.",
+    "name": "Scotch Göring double-pawn Gambit",
+    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 cxb2 6.Bxb2",
+    "tactical_profile": "Absolute hardware liquidation runway white drops two structural elements to achieve extreme diagonal scanning output.",
     "system_status": "MAXIMUM_VOLATILITY"
   },
   {
+    "id": "GAMBIT_148",
+    "name": "King's Indian Dan Manchester Gambit",
+    "defining_moves": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 c5 7.d5 b5",
+    "tactical_profile": "Queenside structural break injecting high-friction asymmetric metrics into traditional setups.",
+    "system_status": "CRITICAL_ATTACK_VECTOR"
+  },
+  {
     "id": "GAMBIT_149",
-    "name": "Ponziani Opening (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.c3",
-    "tactical_profile": "Delayed Center Contestation Protocol forcing complex space adjustments after line rejection.",
+    "name": "Reti Lisitsin-Duhrssen Gambit",
+    "defining_moves": "1.Nf3 f5 2.e4 fxe4 3.Ng5 Nf6 4.d3 e3",
+    "tactical_profile": "Theoretical lane clearance variation blocking white's structural runway to force micro-coordination faults.",
     "system_status": "ENGINE_APPROVED"
   },
   {
     "id": "GAMBIT_150",
-    "name": "Smith-Morra Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 c5 2.d4 cxd4 3.c3",
-    "tactical_profile": "Anti-Sicilian Structural Incineration Vector forcing complex space adjustments after line rejection.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_151",
-    "name": "Alapin Opening (Refused Protocol)",
-    "defining_moves": "1.e4 c5 2.c3",
-    "tactical_profile": "Positional Anti-Scraping Structural Base forcing complex space adjustments after line rejection.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_152",
-    "name": "Falkbeer Countergambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.f4 d5",
-    "tactical_profile": "Aggressive Central Blockage Inversion forcing complex space adjustments after line rejection.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_153",
-    "name": "Alien Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.Nxf7",
-    "tactical_profile": "Hyper-Chaotic Subatomic Structural Destruction forcing complex space adjustments after line rejection.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_154",
-    "name": "Benko Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 b5",
-    "tactical_profile": "Queenside Flank Asymmetric Matrix forcing complex space adjustments after line rejection.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_155",
-    "name": "Evans Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
-    "tactical_profile": "Classic Tactical Mainframe Sacrifice forcing complex space adjustments after line rejection.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_156",
-    "name": "Nakhmonson Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Nc3",
-    "tactical_profile": "Tactical Engine Overload Disruption Module forcing complex space adjustments after line rejection.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_157",
-    "name": "Urusov Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3",
-    "tactical_profile": "Rapid Open-File Development Sequence forcing complex space adjustments after line rejection.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_158",
-    "name": "Latvian Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 f5",
-    "tactical_profile": "Immediate Black Flank Volatility Vector forcing complex space adjustments after line rejection.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_159",
-    "name": "Goring Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3",
-    "tactical_profile": "Aggressive Center Control Open Core forcing complex space adjustments after line rejection.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_160",
-    "name": "Halloween Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5",
-    "tactical_profile": "Knight Deletion Psych-Out Pipeline forcing complex space adjustments after line rejection.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_161",
-    "name": "Colorado Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 nc6 2.Nf3 f5",
-    "tactical_profile": "Asymmetric Left-Flank Counter Strike forcing complex space adjustments after line rejection.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_162",
-    "name": "Stafford Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6",
-    "tactical_profile": "Theoretical Volatility Engine Trap Core forcing complex space adjustments after line rejection.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_163",
-    "name": "Schara-Henning Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4",
-    "tactical_profile": "Symmetrical Center Exploding Variation forcing complex space adjustments after line rejection.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_164",
-    "name": "Wagner-Zucker Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4",
-    "tactical_profile": "Early Pin Exploitation Matrix forcing complex space adjustments after line rejection.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_165",
-    "name": "Omega Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3",
-    "tactical_profile": "Pure Black-Diemer Inversion Protocol forcing complex space adjustments after line rejection.",
+    "name": "Scandinavian Kotrc-Mesgon Gambit",
+    "defining_moves": "1.e4 d5 2.exd5 c6 3.dxc6 e5",
+    "tactical_profile": "Hyper-volatile center counter strategy converting traditional pawn lines into absolute piece mobility frameworks.",
     "system_status": "VERIFIED_CHAOS"
   }
-  {
-    "id": "GAMBIT_166",
-    "name": "Elephant Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 d5",
-    "tactical_profile": "Sudden Underbelly Central Thrust forcing complex space adjustments after line rejection.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_167",
-    "name": "Muzio Gambit (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O",
-    "tactical_profile": "Extreme Piece Deletion Kingside Breakthrough forcing complex space adjustments after line rejection.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_168",
-    "name": "Max Lange Attack (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5",
-    "tactical_profile": "Tactical Tsunami Transition Sequence forcing complex space adjustments after line rejection.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_169",
-    "name": "Staunton Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 f5 2.e4",
-    "tactical_profile": "Anti-Dutch Structural Breakdown Pipeline forcing complex space adjustments after line rejection.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_170",
-    "name": "Traxler Counterattack (Refused Protocol)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5",
-    "tactical_profile": "Nuclear Counter-Attack Vector on f2 forcing complex space adjustments after line rejection.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_171",
-    "name": "Blackmar-Diemer Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 d5 2.e4 dxe4 3.Nc3",
-    "tactical_profile": "Central Pipeline Pawn Liquidation Grid forcing complex space adjustments after line rejection.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_172",
-    "name": "Budapest Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 Nf6 2.c4 e5",
-    "tactical_profile": "Early Tactical Structural Asymmetry forcing complex space adjustments after line rejection.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_173",
-    "name": "Englund Gambit (Refused Protocol)",
-    "defining_moves": "1.d4 e5",
-    "tactical_profile": "Immediate Engine Disruption System forcing complex space adjustments after line rejection.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_174",
-    "name": "From's Gambit (Refused Protocol)",
-    "defining_moves": "1.f4 e5",
-    "tactical_profile": "Anti-Bird Counter Structural Blast forcing complex space adjustments after line rejection.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_175",
-    "name": "Tennison Gambit (Refused Protocol)",
-    "defining_moves": "1.Nf3 d5 2.e4",
-    "tactical_profile": "Hyper-Volatile Reti Inversion Matrix forcing complex space adjustments after line rejection.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_176",
-    "name": "Sturm Gambit (Counterattack Variation)",
-    "defining_moves": "1.d4 d5 2.g4",
-    "tactical_profile": "Ultra Volatile Kingside Thrust met with aggressive structural counter-play.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_177",
-    "name": "Halasz Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.f4",
-    "tactical_profile": "Chaotic Central Space Sacrifice met with aggressive structural counter-play.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_178",
-    "name": "Von Der Lasa Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3",
-    "tactical_profile": "Retro Classical Piece Sacrifice Matrix met with aggressive structural counter-play.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_179",
-    "name": "Scotch Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4",
-    "tactical_profile": "High-Velocity Development Engine met with aggressive structural counter-play.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_180",
-    "name": "King's Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.f4",
-    "tactical_profile": "Traditional Structural Hyper-Chaos met with aggressive structural counter-play.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_181",
-    "name": "Vienna Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nc3 Nf6 3.f4",
-    "tactical_profile": "Flank Disruption Central Pipeline met with aggressive structural counter-play.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_182",
-    "name": "Bishop's Opening (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Bc4",
-    "tactical_profile": "Early Diagonal Targeted Attack Vector met with aggressive structural counter-play.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_183",
-    "name": "Danish Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.d4 exd4 3.c3",
-    "tactical_profile": "Double Pawn Liquidation Runway met with aggressive structural counter-play.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_184",
-    "name": "Ponziani Opening (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.c3",
-    "tactical_profile": "Delayed Center Contestation Protocol met with aggressive structural counter-play.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_185",
-    "name": "Smith-Morra Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 c5 2.d4 cxd4 3.c3",
-    "tactical_profile": "Anti-Sicilian Structural Incineration Vector met with aggressive structural counter-play.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_186",
-    "name": "Alapin Opening (Counterattack Variation)",
-    "defining_moves": "1.e4 c5 2.c3",
-    "tactical_profile": "Positional Anti-Scraping Structural Base met with aggressive structural counter-play.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_187",
-    "name": "Falkbeer Countergambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.f4 d5",
-    "tactical_profile": "Aggressive Central Blockage Inversion met with aggressive structural counter-play.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_188",
-    "name": "Alien Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.Nxf7",
-    "tactical_profile": "Hyper-Chaotic Subatomic Structural Destruction met with aggressive structural counter-play.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_189",
-    "name": "Benko Gambit (Counterattack Variation)",
-    "defining_moves": "1.d4 Nf6 2.c4 c5 3.d5 b5",
-    "tactical_profile": "Queenside Flank Asymmetric Matrix met with aggressive structural counter-play.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_190",
-    "name": "Evans Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
-    "tactical_profile": "Classic Tactical Mainframe Sacrifice met with aggressive structural counter-play.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_191",
-    "name": "Nakhmonson Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Nc3",
-    "tactical_profile": "Tactical Engine Overload Disruption Module met with aggressive structural counter-play.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_192",
-    "name": "Urusov Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3",
-    "tactical_profile": "Rapid Open-File Development Sequence met with aggressive structural counter-play.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_193",
-    "name": "Latvian Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 f5",
-    "tactical_profile": "Immediate Black Flank Volatility Vector met with aggressive structural counter-play.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_194",
-    "name": "Goring Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3",
-    "tactical_profile": "Aggressive Center Control Open Core met with aggressive structural counter-play.",
-    "system_status": "ENGINE_APPROVED"
-  },
-  {
-    "id": "GAMBIT_195",
-    "name": "Halloween Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5",
-    "tactical_profile": "Knight Deletion Psych-Out Pipeline met with aggressive structural counter-play.",
-    "system_status": "VERIFIED_CHAOS"
-  },
-  {
-    "id": "GAMBIT_196",
-    "name": "Colorado Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 nc6 2.Nf3 f5",
-    "tactical_profile": "Asymmetric Left-Flank Counter Strike met with aggressive structural counter-play.",
-    "system_status": "HIGH_VOLATILITY"
-  },
-  {
-    "id": "GAMBIT_197",
-    "name": "Stafford Gambit (Counterattack Variation)",
-    "defining_moves": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6",
-    "tactical_profile": "Theoretical Volatility Engine Trap Core met with aggressive structural counter-play.",
-    "system_status": "CRITICAL_ATTACK_VECTOR"
-  },
-  {
-    "id": "GAMBIT_198",
-    "name": "Schara-Henning Gambit (Counterattack Variation)",
-    "defining_moves": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4",
-    "tactical_profile": "Symmetrical Center Exploding Variation met with aggressive structural counter-play.",
-    "system_status": "MAXIMUM_VOLATILITY"
-  }
+]
