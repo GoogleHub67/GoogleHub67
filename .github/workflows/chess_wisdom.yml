@@ -73,7 +73,7 @@ jobs:
         env:
           MARKDOWN_PAYLOAD: |
             ### ♟ Telemetry Broadcast: Gambit of the Day
-            > **[${{env.WISDOM_ID}}]${{env.WISDOM_NAME}}**
+            > **[${{ env.WISDOM_ID }}]${{ env.WISDOM_NAME }}**
             > * **Moves:** \`${{ env.WISDOM_MOVES }}\`
             > * **Tactical Profile:** *\${{ env.WISDOM_PROFILE }}*
             > * **System Status:** \`${{ env.WISDOM_STATUS }}\`
