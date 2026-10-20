@@ -220,7 +220,13 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 4. **Verify tracking anchors:** Ensure your `README.md` file contains this exact initialization block where you want the automated output to render:
    ```markdown
    <!-- CHESS_WISDOM_START -->
-   <!-- CHESS_WISDOM_END -->
+### ♟ Telemetry Broadcast: Gambit of the Day
+> **[GAMBIT_145]Halibut Gambit**
+> * **Moves:** \`1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Nc6 5.f4\`
+> * **Tactical Profile:** *\Polish Opening modification dropping multiple flank files to establish absolute tactical scanning lines to f7.*
+> * **System Status:** \`MAXIMUM_VOLATILITY\`
+
+<!-- CHESS_WISDOM_END -->
    ```
 5. **Override schedule:** Head over to your repository's main **Actions** tab -> Select `Dispense Chess Wisdom` from the sidebar pipeline list.
 6. **Trigger pipeline:** Click the **Run workflow** dropdown on the right side, select your target branch, and click the green execution button.
