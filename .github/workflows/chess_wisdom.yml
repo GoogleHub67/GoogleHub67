@@ -73,9 +73,9 @@ jobs:
           MARKDOWN_PAYLOAD: |
             ### ♟ Telemetry Broadcast: Gambit of the Day
             > **[${{ env.WISDOM_ID }}]${{ env.WISDOM_NAME }}**
-            > * **Moves:** \`${{ env.WISDOM_MOVES }}\`
-            > * **Tactical Profile:** *\${{ env.WISDOM_PROFILE }}*
-            > * **System Status:** \`${{ env.WISDOM_STATUS }}\`
+            > * **Moves:** `${{ env.WISDOM_MOVES }}`
+            > * **Tactical Profile:** *${{ env.WISDOM_PROFILE }}*
+            > * **System Status:** `${{ env.WISDOM_STATUS }}`
         run: |
           # Use an automated perl stream block to safely replace the target array contents inside the README
           perl -0777 -pi -e "s/(<!-- CHESS_WISDOM_START -->)(.*?)(<!-- CHESS_WISDOM_END -->)/\$1\n\$ENV{MARKDOWN_PAYLOAD}\n\$3/s" README.md
