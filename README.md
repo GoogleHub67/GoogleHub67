@@ -686,7 +686,7 @@ Positional chess is slow and uninspiring. My opening philosophy centers entirely
 <table>
   <tr>
     <td width="50%" align="center">
-    <img src= "https://github-readme-stats.vercel.app/api/pin?username=GoogleHub67&repo=GoogleHub67&theme=radial" alt="GoogleHub67's Forks Stats" width="100%" />
+    <img src= "https://github-readme-stats.vercel.app/api/pin?username=GoogleHub67&theme=radial" alt="GoogleHub67's Forks Stats" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=GoogleHub67&theme=tokyonight" alt="GoogleHub67's Streak Stats" width="100%" />
