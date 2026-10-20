@@ -1,14 +1,18 @@
 name: Dispense Chess Wisdom
 
 on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs natively on autopilot every single day at midnight UTC
   repository_dispatch:
     types: [dispense_wisdom]
-  workflow_dispatch: # Allows you to manually trigger it from the Actions tab
+  workflow_dispatch:     # Retains your manual click trigger button in the Actions panel
 
 jobs:
   telemetry_fetch:
     name: Execute Gambit Telemetry Pipeline
     runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Crucial layer allowing the GitHub runner to push changes back to your README
     
     steps:
       - name: Initialize Mainframe Connection & Checkout Code
@@ -31,28 +35,56 @@ jobs:
         id: parse_data
         run: |
           # Fetch a completely randomized object row from the array matrix
-          RANDOM_ROW=$(jq -c '.[]' chess_tips.json | shuf -n 1)
+          RANDOM_ROW=\$(jq -c '.[]' chess_tips.json | shuf -n 1)
           
-          # Extract variables and fallback to defaults if properties are empty
-          RANK=$(echo "$RANDOM_ROW" | jq -r '.rank // "N/A"')
-          OPENING=$(echo "$RANDOM_ROW" | jq -r '.opening // "Unknown Payload"')
-          WIN_RATE=$(echo "$RANDOM_ROW" | jq -r '.win_rate // "??%"')
-          TELEMETRY=$(echo "$RANDOM_ROW" | jq -r '.telemetry // "No telemetric logs extracted."')
-          THREAT=$(echo "$RANDOM_ROW" | jq -r '.threat_level // "UNKNOWN ⚪"')
+          # Corrected Command Substitution Syntax
+          ID=\$(echo "\$RANDOM_ROW" | jq -r '.id // "GAMBIT_???"')
+          NAME=\$(echo "\$RANDOM_ROW" | jq -r '.name // "Unknown Payload"')
+          MOVES=\$(echo "\$RANDOM_ROW" | jq -r '.defining_moves // "1.e4 e5"')
+          PROFILE=\$(echo "\$RANDOM_ROW" | jq -r '.tactical_profile // "No telemetric logs extracted."')
+          STATUS=\$(echo "\$RANDOM_ROW" | jq -r '.system_status // "UNKNOWN ⚪"')
 
-          # Output to terminal logs with cyberpunk formatting
+
+          # Output to terminal logs with your authentic cyberpunk formatting
           echo "==========================================================================="
           echo "♟️  GOOGLEHUB67 TELEMETRY DISPATCH SYSTEM | STATUS: ACTIVE"
           echo "==========================================================================="
-          echo "  [+] SECURITY/THREAT ASSESSMENT : $THREAT"
-          echo "  [+] TARGET OPENING REGISTERED  : $OPENING"
-          if [ "$RANK" != "N/A" ]; then
-            echo "  [+] DATABASE INDEX / RANK      : #$RANK out of 30"
-          fi
-          echo "  [+] SYSTEM REGISTERED WIN-RATE : $WIN_RATE"
+          echo "  [+] DATASET IDENTITY INDEX    : \$ID"
+          echo "  [+] TARGET OPENING REGISTERED : \$NAME"
+          echo "  [+] DEFINING SYSTEM MOVES     : \$MOVES"
+          echo "  [+] COMPLIANCE STATE STATUS   : \$STATUS"
           echo "---------------------------------------------------------------------------"
           echo "  [>] TELEMETRIC INSTRUCTION LOGS:"
-          echo "      $TELEMETRY"
+          echo "      \$PROFILE"
           echo "==========================================================================="
           echo "STATUS: DATASET DEPLOYED SUCCESSFUL. BUFFER FLUSHED. STANDBY..."
           echo "==========================================================================="
+
+          # Write values safely to the environment file to pass into the next deployment step
+          {
+            echo "WISDOM_ID=\$ID"
+            echo "WISDOM_NAME=\$NAME"
+            echo "WISDOM_MOVES=\$MOVES"
+            echo "WISDOM_PROFILE=\$PROFILE"
+            echo "WISDOM_STATUS=\$STATUS"
+          } >> "\$GITHUB_ENV"
+
+      - name: Inject Telemetry Payload Into Profile Matrix
+        env:
+          MARKDOWN_PAYLOAD: |
+            ### ♟ Telemetry Broadcast: Gambit of the Day
+            > **[\({{ env.WISDOM_ID }}]\){{ env.WISDOM_NAME }}**
+            > * **Moves:** \`${{ env.WISDOM_MOVES }}\`
+            > * **Tactical Profile:** *\${{ env.WISDOM_PROFILE }}*
+            > * **System Status:** \`${{ env.WISDOM_STATUS }}\`
+        run: |
+          # Use an automated perl stream block to safely replace the target array contents inside the README
+          perl -0777 -pi -e "s/(<!-- CHESS_WISDOM_START -->)(.*?)(<!-- CHESS_WISDOM_END -->)/\$1\n\$ENV{MARKDOWN_PAYLOAD}\n\$3/s" README.md
+
+      - name: Deploy Modifications to Profile Matrix
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Only commit and push if a change actually took place to avoid useless workflow errors
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📊 Telemetry Sync: Gambit of the Day Injected" && git push)
