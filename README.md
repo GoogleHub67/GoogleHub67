@@ -229,11 +229,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_083]—Cunningham Gambit**
+> **[GAMBIT_005]—King's Gambit**
 >
-> * **Moves:** `1.e4 e5 2.f4 exf4 3.Nf3 Be7`
-> * **Tactical Profile:** *Classical piece positioning vector aiming for immediate kingside diagonal checks to break structural king loops.*
-> * **System Status:** `HIGH_VOLATILITY`
+> * **Moves:** `1.e4 e5 2.f4`
+> * **Tactical Profile:** *Traditional kingside structural disruption forcing hyper-chaotic calculations out of the opening.*
+> * **System Status:** `VERIFIED_CHAOS`
 
 <!-- CHESS_WISDOM_END -->
 
