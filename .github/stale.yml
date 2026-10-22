@@ -1,0 +1,16 @@
+# Automated Environment Maintenance Core
+# Target: Purge low-efficiency entities
+
+# Configuration metrics
+daysUntilStale: 1
+daysUntilClose: 1
+
+# Telemetry broadcast payloads
+staleRepoMessage: >
+  [!] ENVIRONMENT WARNING: This transaction has been flagged as STALE. 
+  No terminal input or chess engine calculations have been recorded on this thread for 24 hours.
+closeRepoMessage: >
+  [!] FORCE PURGE EXECUTED. 
+  Closing this communication portal permanently due to excessive point-and-click GUI behavior. 
+  Please upgrade your local cognitive buffer before executing a retry.
+staleRepoLabel: "skill-issue"
