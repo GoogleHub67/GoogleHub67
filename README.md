@@ -1,4 +1,3 @@
-
 > [!WARNING]
 > ### 🚫 CRITICAL COMPATIBILITY NOTICE FOR GUI DEPENDENT ENTITIES
 > This repository uses advanced terminal layout architecture and raw POSIX-compliant logic workflows. If your primary method of navigating software engineering projects involves moving a cursor to click a shiny green button, your local cognitive buffer may experience immediate fragmentation. 
