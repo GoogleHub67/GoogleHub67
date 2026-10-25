@@ -228,11 +228,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_059]—Grand Prix Gambit**
+> **[GAMBIT_044]—Rousseau Gambit**
 >
-> * **Moves:** `1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bc4 e6 6.f5`
-> * **Tactical Profile:** *Aggressive flank structural penetration sequence locking down immediate tracking lanes toward the enemy baseline.*
-> * **System Status:** `CRITICAL_ATTACK_VECTOR`
+> * **Moves:** `1.e4 e5 2.Nf3 Nc6 3.Bc4 f5`
+> * **Tactical Profile:** *Kingside flank explosion targeting white's active diagonal vectors before castling infrastructure deploys.*
+> * **System Status:** `ENGINE_APPROVED`
 
 <!-- CHESS_WISDOM_END -->
 
