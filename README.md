@@ -228,10 +228,10 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_198]—Semi-Slav Rubinstein Gambit**
+> **[GAMBIT_179]—Mieses Gambit**
 >
-> * **Moves:** `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.e3 Nbd7 6.Qc2 Bd6 7.g4 Nxg4 8.Rg1`
-> * **Tactical Profile:** *Elite modern sharp vector dropping a flank component to capture permanent horizontal rook file pressure loops.*
+> * **Moves:** `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8`
+> * **Tactical Profile:** *Elite masterclass positional sacrifice yielding permanent open files and dynamic piece fluidity across the central sectors.*
 > * **System Status:** `ENGINE_APPROVED`
 
 <!-- CHESS_WISDOM_END -->
