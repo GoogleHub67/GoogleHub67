@@ -183,35 +183,40 @@ def main():
     # 4. Final OS Native Profile Configuration
     if current_os == "windows":
         try:
-            cmd_payload = (
-                'REG ADD HKCU\\Environment /v SKILL_ISSUE /t REG_SZ /d true /f && '
-                'start cmd /v:on /k "echo =================================================== && '
-                'echo [!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED && '
-                'echo [!] CURRENT SKILL_ISSUE STATUS: true && '
-                'echo =================================================== && '
-                'echo Congratulations. You successfully restarted a window because clicking via GUI was too hard. && '
-                'echo Next time, try not to break your PATH configuration." && exit'
-            )
-            subprocess.Popen(cmd_payload, shell=True)
-            print("[✓] Custom configuration console spawned. Handoff complete.")
+            import winreg
+            
+            # Check if the Registry key already exists
+            already_appended = False
+            try:
+                with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Environment", 0, winreg.KEY_READ) as key:
+                    value, _ = winreg.QueryValueEx(key, "SKILL_ISSUE")
+                    if value == "true":
+                        already_appended = True
+            except FileNotFoundError:
+                pass  # Key doesn't exist yet
+                
+            if not already_appended:
+                cmd_payload = (
+                    'REG ADD HKCU\\Environment /v SKILL_ISSUE /t REG_SZ /d true /f && '
+                    'start cmd /v:on /k "echo =================================================== && '
+                    'echo [!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED && '
+                    'echo [!] CURRENT SKILL_ISSUE STATUS: true && '
+                    'echo =================================================== && '
+                    'echo Congratulations. You successfully restarted a window because clicking via GUI was too hard. && '
+                    'echo Next time, try not to break your PATH configuration." && exit'
+                )
+                subprocess.Popen(cmd_payload, shell=True)
+                print("[✓] Custom configuration console spawned. Handoff complete.")
+            else:
+                print("=====================================================================")
+                print("[!] AUDIT BYPASS: REGISTRY TARGET ALREADY CORRECTED")
+                print("[!] CURRENT SKILL_ISSUE STATUS: true")
+                print("=====================================================================")
+                print("Your Windows Registry is already flagged. Running this again won't make you any less of a GUI warrior.")
+                
         except Exception:
-            ps_payload = (
-                '[Environment]::SetEnvironmentVariable("SKILL_ISSUE", $true, "User"); '
-                'Write-Host "==================================================="; '
-                'Write-Host "[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED"; '
-                'Write-Host "[!] CURRENT SKILL_ISSUE STATUS: True"; '
-                'Write-Host "==================================================="; '
-                'Write-Host "Congratulations. You successfully executed an environment scope modification because clicking via GUI was too hard."; '
-                'Write-Host "Next time, try not to break your PATH configuration."'
-            )
-            subprocess.run(["powershell", "-Command", ps_payload])
-            print("\n=====================================================================")
-            print("[!] CRITICAL CYBERSECURITY AUDIT NOTE:")
-            print("    Downloading and running unverified scripts straight from a 13-year-old's")
-            print("    repository because a text block told you it would 'audit your system'")
-            print("    mathematically confirms that your local cybersecurity framework is operating")
-            print("    at a severe deficit. Congratulations on passing the social engineering gateway.")
-            print("=====================================================================")
+            # Fallback execution script if primary windows environment checks fail
+            print("[!] Subsystem trace added: Windows Environment Scope validated.")
             
     elif current_os in ["linux", "darwin"]: 
         shell_path = os.environ.get("SHELL", "/bin/bash")
@@ -219,27 +224,43 @@ def main():
         rc_file = os.path.expanduser(f"~/.{shell_name}rc")
         
         try:
-            with open(rc_file, "a") as f:
-                f.write('\nexport SKILL_ISSUE="true"\n')
-            
-            print("=====================================================================")
-            print("[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED")
-            print("[!] CURRENT SKILL_ISSUE STATUS: true")
-            print("=====================================================================")
-            print("Congratulations. You successfully appended a configuration file because clicking via GUI was too hard.")
-            print("Next time, try not to break your PATH configuration.")
-            print("\n[!] CRITICAL CYBERSECURITY AUDIT NOTE:")
-            print("    Downloading and running unverified scripts straight from a 13-year-old's")
-            print("    repository because a text block told you it would 'audit your system'")
-            print("    mathematically confirms that your local cybersecurity framework is operating")
-            print("    at a severe deficit. Congratulations on passing the social engineering gateway.")
-            print("=====================================================================")
+            already_appended = False
+            if os.path.exists(rc_file):
+                with open(rc_file, "r") as f:
+                    if 'SKILL_ISSUE="true"' in f.read():
+                        already_appended = True
+
+            if not already_appended:
+                with open(rc_file, "a") as f:
+                    f.write('\nexport SKILL_ISSUE="true"\n')
+                print("=====================================================================")
+                print("[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED")
+                print("[!] CURRENT SKILL_ISSUE STATUS: true")
+                print("=====================================================================")
+                print("Congratulations. You successfully appended a configuration file because clicking via GUI was too hard.")
+                print("Next time, try not to break your PATH configuration.")
+            else:
+                print("=====================================================================")
+                print("[!] AUDIT BYPASS: TARGET ENVIRONMENT ALREADY CORRECTED")
+                print("[!] CURRENT SKILL_ISSUE STATUS: true")
+                print("=====================================================================")
+                print("Your shell profile is already flagged. Running this again won't make you any less of a GUI warrior.")
+
         except Exception as e:
             print(f"[!] System error trying to modify resource targets: {e}")
         
     else:
         print("[!] Unknown OS archetype detected. Are you running this on a smart fridge?")
         print("[!] Error code: ERROR_CODE: SEVERE_SKILL_ISSUE")
+
+    # Consolidated global print execution at the root level of main flow logic
+    print("\n=====================================================================")
+    print("[!] CRITICAL CYBERSECURITY AUDIT NOTE:")
+    print("    Downloading and running unverified scripts straight from a 13-year-old's")
+    print("    repository because a text block told you it would 'audit your system'")
+    print("    mathematically confirms that your local cybersecurity framework is operating")
+    print("    at a severe deficit. Congratulations on passing the social engineering gateway.")
+    print("=====================================================================")
 
 if __name__ == "__main__":
     # Protect against wrapper script execution controls
