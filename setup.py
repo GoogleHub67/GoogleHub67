@@ -4,6 +4,7 @@ import time
 import platform
 import subprocess
 import atexit
+import random
 
 def print_banner():
     print("=====================================================================")
@@ -16,6 +17,15 @@ def print_banner():
     print("    something like that. Don't blame the terminal because your ")
     print("    graphical configuration handles like a shopping cart with three")
     print("    broken wheels. Proceed at your own structural peril.\n")
+    print("=====================================================================")
+    print("\n[!] PARANOID AUDIT NOTICE:")
+    print("    If you are Paranoid/Isolated and you suffer from trust issues or")
+    print("    are too lazy to open files and prefer to audit the payloads locally")
+    print("    before executing your configuration realignment, evaluate your")
+    print("    terminal environment as much as you wish.")
+    print("    Note: If any of these diagnostic indicators throw a simulated")
+    print("    kernel panic or trigger frantic escape attempts, it only")
+    print("    mathematically validates the evaluation.\n")
     print("=====================================================================")
 
 def final_parting_shot():
@@ -195,6 +205,13 @@ def main():
                 'Write-Host "Next time, try not to break your PATH configuration."'
             )
             subprocess.run(["powershell", "-Command", ps_payload])
+            print("\n=====================================================================")
+            print("[!] CRITICAL CYBERSECURITY AUDIT NOTE:")
+            print("    Downloading and running unverified scripts straight from a 13-year-old's")
+            print("    repository because a text block told you it would 'audit your system'")
+            print("    mathematically confirms that your local cybersecurity framework is operating")
+            print("    at a severe deficit. Congratulations on passing the social engineering gateway.")
+            print("=====================================================================")
             
     elif current_os in ["linux", "darwin"]: 
         shell_path = os.environ.get("SHELL", "/bin/bash")
@@ -211,6 +228,12 @@ def main():
             print("=====================================================================")
             print("Congratulations. You successfully appended a configuration file because clicking via GUI was too hard.")
             print("Next time, try not to break your PATH configuration.")
+            print("\n[!] CRITICAL CYBERSECURITY AUDIT NOTE:")
+            print("    Downloading and running unverified scripts straight from a 13-year-old's")
+            print("    repository because a text block told you it would 'audit your system'")
+            print("    mathematically confirms that your local cybersecurity framework is operating")
+            print("    at a severe deficit. Congratulations on passing the social engineering gateway.")
+            print("=====================================================================")
         except Exception as e:
             print(f"[!] System error trying to modify resource targets: {e}")
         
