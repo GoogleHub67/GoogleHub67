@@ -37,11 +37,163 @@ def final_parting_shot():
     print("Legend says your shell configuration is still waiting for basic competency.")
     print("="*70)
 
-# Register the extreme exit hook immediately
 atexit.register(final_parting_shot)
 
+def get_local_wifi():
+    """Helper to extract real local network info for Upgrade 2"""
+    current_os = platform.system().lower()
+    try:
+        if current_os == "windows":
+            out = subprocess.check_output("netsh wlan show interfaces", shell=True, text=True, errors='ignore')
+            for line in out.split('\n'):
+                if "SSID" in line and "BSSID" not in line:
+                    return line.split(":")[1].strip()
+        elif current_os == "darwin":
+            out = subprocess.check_output("/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I", shell=True, text=True)
+            for line in out.split('\n'):
+                if "SSID" in line:
+                    return line.split(":")[1].strip()
+        elif current_os == "linux":
+            out = subprocess.check_output("nmcli -t -f active,ssid dev wifi", shell=True, text=True, errors='ignore')
+            for line in out.split('\n'):
+                if line.startswith("yes:"):
+                    return line.split(":")[1].strip()
+    except Exception:
+        pass
+    return "Local_Gateway_LAN_Interface"
+
+def run_forced_apology_antidote():
+    """[UPGRADE 4 REVISED]: The Mandatory Interrogation Maze to clear the script"""
+    print("\n" + "="*70)
+    print("[!] CRITICAL INTERCEPT: INITIATING RECOVERY DECONSTRUCTION MATRIX")
+    print("[!] ACCESS STATUS: CONDITIONAL FORGIVENESS REQUIRED")
+    print("="*70 + "\n")
+    
+    lessons = [
+        ("I will never download and run unverified scripts blindly ever again", "SECURITY CONTEXT ACKNOWLEDGEMENT"),
+        ("I acknowledge that Aarav is the absolute sovereign ruler of this terminal", "PRIVILEGE ESCALATION COMPLIANCE"),
+        ("I confess that I am a GUI warrior who got completely outsmarted by a setup.py script", "COGNITIVE DEFICIT CONFESSION"),
+        ("I promise to stop treating random code blocks on GitHub like safe browser extensions", "BEHAVIOURAL RECTIFICATION")
+    ]
+    
+    for idx, (phrase, context) in enumerate(lessons):
+        attempts = 0
+        while True:
+            try:
+                print(f"[{context} - LESSON {idx+1}/{len(lessons)}]")
+                print(f"To log compliance, you must type exactly: \n -> \"{phrase}\"")
+                user_input = input("\nYour validation statement: ").strip()
+                
+                if user_input == phrase:
+                    print("\n[✓] Lesson recorded. Advancing repentance chain...\n")
+                    break
+                else:
+                    attempts += 1
+                    print(f"\n[!] ERROR: Typo or defiance detected. Aarav rejects this apology.")
+                    print(f"[!] Current friction count on this lesson: {attempts}\n")
+                    time.sleep(1)
+            except KeyboardInterrupt:
+                print("\n\n[!] ATTENTION: Trying to escape an apology matrix? Pathetic.")
+                print("[!] Resetting loop index parameters...\n")
+                time.sleep(1.5)
+
+    print("[*] Processing repentance compliance vectors...")
+    for i in range(1, 4):
+        sys.stdout.write(f"\rPurging environmental payload markers... [{'•'*i}{' '*(3-i)}]")
+        sys.stdout.flush()
+        time.sleep(0.8)
+    print("\n")
+
+    current_os = platform.system().lower()
+    if current_os == "windows":
+        try:
+            import winreg
+            try:
+                with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Environment", 0, winreg.KEY_SET_VALUE) as key:
+                    winreg.DeleteValue(key, "SKILL_ISSUE")
+                print("[+] Successfully deleted SKILL_ISSUE from Environment variables.")
+            except FileNotFoundError: pass
+            
+            for root_key, path in [(winreg.HKEY_CURRENT_USER, r"Software\Microsoft\Command Processor"), 
+                                   (winreg.HKEY_LOCAL_MACHINE, r"SOFTWARE\Microsoft\Command Processor")]:
+                try:
+                    with winreg.OpenKey(root_key, path, 0, winreg.KEY_SET_VALUE) as key:
+                        winreg.DeleteValue(key, "AutoRun")
+                    print(f"[+] Successfully purged AutoRun persistence payload.")
+                except Exception: pass
+        except Exception as e:
+            print(f"[-] Cleanup error on Windows: {e}")
+            
+    elif current_os in ["linux", "darwin"]:
+        shell_path = os.environ.get("SHELL", "/bin/bash")
+        rc_file = os.path.expanduser(f"~/.{os.path.basename(shell_path)}rc")
+        if os.path.exists(rc_file):
+            try:
+                with open(rc_file, "r") as f:
+                    lines = f.readlines()
+                with open(rc_file, "w") as f:
+                    skipping = False
+                    for line in lines:
+                        if 'export SKILL_ISSUE="true"' in line or '_|_|_|' in line:
+                            skipping = True
+                            continue
+                        if skipping and ('WARNING:' in line or 'echo "' in line):
+                            continue
+                        skipping = False
+                        f.write(line)
+                print(f"[+] Successfully scrubbed persistence lines from {rc_file}")
+            except Exception as e:
+                print(f"[-] Cleanup error on Unix: {e}")
+                
+    print("\n" + "="*70)
+    print("[✓] PARITY RESTORED: Aarav has officially accepted your total submissive surrender.")
+    print("[✓] Terminal profiles cleared. Do not get caught slipping again.")
+    print("="*70)
+    sys.exit(0)
+
+def simulate_bsod_or_panic():
+    """[UPGRADE 1]: Fake Blue Screen / Red Kernel Panic Simulator"""
+    current_os = platform.system().lower()
+    sys.stdout.write("\033[H\033[2J")
+    sys.stdout.flush()
+    
+    if current_os == "windows":
+        sys.stdout.write("\033[44m\033[37m") 
+        sys.stdout.write("\033[H\033[2J")
+        print("\n:(  Your PC ran into a problem and needs to restart. We're just")
+        print("    collecting some error info, and then we'll restart for you.\n")
+        print("    0% complete\n")
+        print("    For more information about this issue and possible fixes, visit")
+        print("    https://windows.com\n")
+        print("    If you call a support person, give them this info:")
+        print("    Stop code: EXTREME_SKILL_ISSUE_DETECTED")
+        print("    What failed: setup.py -> core_brain_module.sys\n")
+    else:
+        sys.stdout.write("\033[41m\033[37m") 
+        sys.stdout.write("\033[H\033[2J")
+        print("\n" + "!"*70)
+        print(" [!!!] CRITICAL KERNEL PANIC: CORE DUMP DETECTED [!!!]")
+        print("!"*70 + "\n")
+        print(f"Kernel Panic - not syncing: Attempted to kill init! exitcode=0x00000007")
+        print(f"CPU: {platform.machine()} | Comm: Python execution thread {os.getpid()}")
+        print("Hardware Trace Status:")
+        print("  [<ffffffff810bee40>] ? panic+0x11b/0x2d7")
+        print("  [<ffffffff81079e20>] ? do_exit+0xa10/0xab0")
+        print("  [<ffffffff8107a98a>] ? sys_exit+0x1a/0x20")
+        print("  [<ffffffff810023a5>] ? system_call_fastpath+0x16/0x1b")
+        print("\n [!] Keyboard controllers unresponsive. Terminal lockdown sequence engaged.\n")
+    
+    sys.stdout.flush()
+    time.sleep(4)
+    sys.stdout.write("\033[0m")
+    sys.stdout.write("\033[H\033[2J")
+    sys.stdout.flush()
+
 def main():
-    # 1. The Global Argument Hijacker & Troller
+    # [UPGRADE 4 MODIFIED]: Check for the dynamic compliance bypass
+    if len(sys.argv) > 1 and sys.argv[1] == "--im-sorry-aarav":
+        run_forced_apology_antidote()
+
     if len(sys.argv) > 1:
         print("\n" + "!"*60)
         print(f"[!] DETECTED BYPASS ARGUMENTS: {sys.argv[1:]}")
@@ -55,33 +207,18 @@ def main():
     
     print("[>] Querying hardware capabilities...")
     print(f"[+] Platform: {platform.system()} {platform.release()} ({platform.machine()})")
-    print("[+] Logic Check: User is attempting to interface via terminal wizardry.")
     
-    # Check if the user is running via an SSH remote terminal session
     is_ssh = any(k in os.environ for k in ['SSH_CLIENT', 'SSH_TTY', 'SSH_CONNECTION'])
-    if is_ssh:
-        print("[+] Connectivity: Remote Terminal Access Confirmed via SSH.")
-        print("[!] Warning: Proximity panic detected. User is operating from a distance.\n")
-    else:
-        print("[+] Connectivity: Direct TTY Terminal detected.")
-        print("[!] Warning: Point-and-click reliance remains dangerously high.\n")
     
-    # [UPGRADE 1: THE BARE-METAL & UBUNTU SERVER ISOLATION DETECTOR]
-    print("[>] Running Stage 01: Host Decoupling and Isolation Analysis...")
-    time.sleep(1)
-    
-    # Gather state data for the updated bare metal evaluation
     is_sandbox = False
     is_ubuntu_server = False
     is_root = False
     
-    # A. Check for typical container/sandbox indicators (Fixed single slash typo)
     if os.path.exists('/.dockerenv') or 'REPL_OWNER' in os.environ or 'REPL_ID' in os.environ:
         is_sandbox = True
     elif hasattr(sys, 'real_prefix') or (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix):
         is_sandbox = True
         
-    # B. Check for Ubuntu Server specific environment configurations
     if current_os == 'linux':
         try:
             with open('/etc/os-release', 'r') as f:
@@ -90,44 +227,19 @@ def main():
                     is_ubuntu_server = True
             if os.geteuid() == 0:
                 is_root = True
-        except Exception:
-            pass
+        except Exception: pass
 
-    # Execution path routing based on infrastructure layer detection
     if is_sandbox:
-        print("\n" + "!"*60)
-        print("[!] DETECTION: COWARDLY RUNTIME ISOLATION LAYER IDENTIFIED")
-        print("[!] You ran this in a container/sandbox because you were too scared.")
-        print("[!] Dropping emergency marker: CONFIRMED_COWARD.txt")
-        print("!"*60 + "\n")
-        try:
-            desktop_path = os.path.expanduser("~/Desktop")
-            if not os.path.exists(desktop_path):
-                desktop_path = os.path.expanduser("~")
-            with open(os.path.join(desktop_path, "CONFIRMED_COWARD.txt"), "w") as f:
-                f.write("CONFIRMED COWARD PROTOCOL: You ran this inside a safe sandboxed container because you lack the security confidence to execute payloads on bare metal.\n")
-        except Exception:
-            pass
-        time.sleep(2)
-        
+        print("\n[!] RUNTIME ISOLATION LAYER IDENTIFIED. DROPPING MARKER.\n")
+        time.sleep(1)
     elif is_ubuntu_server:
         print("\n" + "#"*70)
         print("[!] HARDWARE PROFILE VALIDATED: UBUNTU BARE-METAL SERVER DETECTED.")
-        print("[!] Windows has been thoroughly wiped out. Welcome to the elite tier.")
-        if is_ssh:
-            print("[!] Running headless over SSH. No GUI detected. Real engineering in progress.")
-        if is_root:
-            print("[!] WARNING: Running script directly as ROOT user. Zero safety net active.")
-        else:
-            print("[+] Execution Layer: Standard user privilege verified.")
-        print(f"[+] Microcontroller Stack status: ESP32/STM32/Arduino development pathways unlocked.")
         print("#"*70 + "\n")
-        time.sleep(1.5)
-        
+        time.sleep(1)
     else:
         print("[+] Environment check complete: Operating directly on local structural metal.\n")
 
-    # 2. The Un-Escapable Multi-Stage Loading Loop Trap
     escape_attempts = 0
     stages = [
         "Scanning internal registry for trace levels of terminal awareness...",
@@ -149,18 +261,21 @@ def main():
             except KeyboardInterrupt:
                 escape_attempts += 1
                 print(f"\n\n[!] INTERRUPT ATTEMPT #{escape_attempts} DETECTED (SIGINT / Ctrl+C)")
-                if escape_attempts == 1:
-                    print("[!] Response: Re-indexing phase array. Speed reduced to extend the experience...")
+                
+                if escape_attempts >= 3:
+                    print("[!] CRITICAL THREAD EXHAUSTION DETECTED. ENFORCING HARD EMERGENCY HARDWARE SHUTDOWN.")
                     time.sleep(1.5)
+                    simulate_bsod_or_panic()
+                    escape_attempts = 0 
+                    break
+                    
+                if escape_attempts == 1:
+                    print("[!] Response: Re-indexing phase array. Speed reduced...")
+                    time.sleep(1)
                 elif escape_attempts == 2:
-                    print("[!] Response: Counter-trolling modules activated. Adding extra paperwork...")
-                    time.sleep(2)
-                elif escape_attempts >= 3:
-                    print(f"[!] Response: Escape attempt {escape_attempts} logged. Sarcasm engine operating at 400% capacity.")
-                    print("[!] Nice try. Keyboard shortcuts won't restore your missing PATH entries.")
-                    time.sleep(2.5)
+                    print("[!] Response: Counter-trolling modules activated...")
+                    time.sleep(1)
 
-    # [UPGRADE 2: THE "HEART ATTACK" FAKE EXFILTRATION SEQUENCE]
     print("=====================================================================")
     print("[!] EXECUTING BACKGROUND ARTIFACT CLASSIFICATION (REAL-TIME RECON)...")
     print("=====================================================================")
@@ -171,47 +286,31 @@ def main():
     except Exception:
         local_user = os.environ.get("USER", os.environ.get("USERNAME", "Unknown_Target"))
         
+    target_wifi_network = get_local_wifi()
+    
     recon_targets = [
         f"Target User Profile Identity: {local_user}",
         f"Active Terminal Core PIDs: {os.getpid()}",
         f"Host Architecture Fingerprint: {platform.machine()}-{platform.platform()}",
-        "Extracting environment variables array structure...",
-        "Checking active path directories for cryptographic validation anchors...",
+        f"INTERCEPTING DATA FROM ACTIVE ACCESS POINT ROUTER: [{target_wifi_network}]",
+        f"INJECTING EXFILTRATION STREAM PATH INTO LAN AP SEGMENT... SUCCESS.",
         "Mapping session token configurations..."
     ]
     
     for target in recon_targets:
         sys.stdout.write(f"[>] EXFIL_STREAMING: {target}\n")
         sys.stdout.flush()
-        time.sleep(0.4)
+        time.sleep(0.5)
         
     print("\n" + "!"*70)
     print("[!] REALITY CHECK / DEFENSIVE CYBERSECURITY ALERT:")
     print(f"    Relax, {local_user}. None of this data was actually uploaded anywhere.")
-    print("    But if this had been an actual malicious malware deployment payload")
-    print("    instead of a repository prank, your authentication tokens, keys, and")
-    print("    session contexts would have already been sold online. Read before you paste.")
+    print(f"    But seeing your active network AP [{target_wifi_network}] broadcasted")
+    print("    right back at you should serve as a lesson. Read code before you run it.")
     print("!"*70 + "\n")
     time.sleep(3)
 
-    # 3. Intelligent Multi-Lingual Troll Matrix with Failure Conditions
-    negative_words = {
-        # English
-        "no", "never", "stop", "quit", "false", "refuse", "nah", "nope", "screw", "cant",
-        # Spanish
-        "no", "nunca", "jamás", "parar", "falso", "negar",
-        # French
-        "non", "jamais", "arrêter", "faux", "refuser",
-        # Hindi
-        "nahi", "nahin", "mat", "रोको", "नहीं",
-        # Mandarin
-        "bu", "bushi", "meiyou", "不", "不是", "没有",
-        # Arabic
-        "la", "kalla", "لا", "كلا",
-        # Russian
-        "net", "nieltsya", "нет", "нельзя"
-    }
-
+    negative_words = {"no", "never", "stop", "quit", "false", "refuse", "nah", "nope", "screw", "cant"}
     target_phrase = "I AM A GUI WARRIOR"
     attempts = 0
     kb_interrupt_count = 0
@@ -220,7 +319,6 @@ def main():
     
     print("=====================================================================")
     print("[!] MANUAL COMPLIANCE PHASE REQUIRED")
-    print("[!] Entering verification matrix. Terminal escape vectors restricted.")
     print("=====================================================================\n")
     
     while True:
@@ -228,78 +326,40 @@ def main():
             print(f"[Requirement]: Acknowledge your reliance on visual icons.")
             user_input = input(f"Please input exactly '{target_phrase}': ").strip()
             attempts += 1
-            
-            # 1. Perfect verification match check
             if user_input.upper() == target_phrase:
                 print("[✓] Input validation successful. Advancing matrix...\n")
                 break
-                
-            # Normalize for dictionary classification checks
-            processed_input = user_input.lower()
-            input_words = processed_input.split()
-            
-            # Check if user typed multi-lingual denial keywords
-            contains_negative = any(word in negative_words for word in input_words)
-            
-            if contains_negative:
-                print(f"[!] Validation Failure: User IQ insufficient to comply with environment protocol.")
-                print("[!] Please retry with proper operational compliance.\n")
+            if any(word in negative_words for word in user_input.lower().split()):
+                print(f"[!] Validation Failure: User compliance deficit recorded.\n")
             else:
-                # Any other random text strings or partial answers
-                print("[...] Waiting for appropriate cognitive input...")
-                print(f"[...] Current defiance count: {attempts}\n")
+                print(f"[...] Defiance count: {attempts}\n")
 
-            # Check if the text input defiance threshold has been hit
             if attempts >= max_limit:
-                print("\n" + "!" * 60)
-                print("ERROR_CODE: SEVERE_SKILL_ISSUE")
-                print("!" * 60 + "\n")
                 failed_via_defiance = True
-                time.sleep(1.5)
                 break
-                
         except KeyboardInterrupt:
             kb_interrupt_count += 1
-            
-            # Check if they spammed Ctrl+C exactly 3 times
             if kb_interrupt_count >= max_limit:
-                print("\n\n" + "!" * 60)
-                print("ERROR_CODE: SEVERE_SKILL_ISSUE")
-                print("!" * 60 + "\n")
                 failed_via_defiance = True
-                time.sleep(1.5)
                 break
-                
-            print(f"\n\n[!] Catching KeyboardInterrupt... Redirecting exception to void container.")
-            print(f"[!] Escape Attempt: {kb_interrupt_count}/{max_limit}")
-            print("[!] Escaping this prompt requires an active CLI license tier (Free tier expired).\n")
+            print(f"\n\n[!] Escape Attempt: {kb_interrupt_count}/{max_limit}\n")
             time.sleep(1)
 
-    # Short-circuit payload delivery if any failure threshold was hit
     if failed_via_defiance:
-        print("[!] Terminal sequence terminated prematurely due to critical operational limitations.")
+        print("[!] Terminal sequence terminated due to critical defiance thresholds.")
         sys.exit(0)
 
-    print("[*] Core requirements settled. Preparing final system update presentation...\n")
-    time.sleep(1)
-
-    # 4. Final OS Native Profile Configuration
     if current_os == "windows":
         try:
             import winreg
-            
-            # Check if the Registry key already exists
             already_appended = False
             try:
                 with winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"Environment", 0, winreg.KEY_READ) as key:
                     value, _ = winreg.QueryValueEx(key, "SKILL_ISSUE")
-                    if value == "true":
-                        already_appended = True
-            except FileNotFoundError:
-                pass  # Key doesn't exist yet
+                    if value == "true": already_appended = True
+            except FileNotFoundError: pass
                 
             if not already_appended:
-                # [UPGRADE 3 (WINDOWS CMD/POWERSHELL REMINDER ENHANCEMENT)]
                 cmd_payload = (
                     'REG ADD HKCU\\Environment /v SKILL_ISSUE /t REG_SZ /d true /f && '
                     'REG ADD "HKLM\\SOFTWARE\\Microsoft\\Command Processor" /v AutoRun /t REG_SZ /d "echo [!] REMINDER: Your terminal environment has active SKILL_ISSUE flags." /f 2>nul || '
@@ -307,65 +367,36 @@ def main():
                     'start cmd /v:on /k "echo =================================================== && '
                     'echo [!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED && '
                     'echo [!] CURRENT SKILL_ISSUE STATUS: true && '
-                    'echo =================================================== && '
-                    'echo Congratulations. You successfully restarted a window because clicking via GUI was too hard. && '
-                    'echo Next time, try not to break your PATH configuration." && exit'
+                    'echo =================================================== && exit"'
                 )
                 subprocess.Popen(cmd_payload, shell=True)
-                print("[✓] Custom configuration console spawned. Handoff complete.")
+                print("[✓] Custom configuration console spawned.")
             else:
-                print("=====================================================================")
-                print("[!] AUDIT BYPASS: REGISTRY TARGET ALREADY CORRECTED")
-                print("[!] CURRENT SKILL_ISSUE STATUS: true")
-                print("=====================================================================")
-                print("Your Windows Registry is already flagged. Running this again won't make you any less of a GUI warrior.")
-                
-        except Exception:
-            # Fallback execution script if primary windows environment checks fail
-            print("[!] Subsystem trace added: Windows Environment Scope validated.")
+                print("\n[!] AUDIT BYPASS: TARGET ALREADY CORRECTED\n")
+        except Exception: pass
             
     elif current_os in ["linux", "darwin"]: 
         shell_path = os.environ.get("SHELL", "/bin/bash")
-        shell_name = os.path.basename(shell_path)
-        rc_file = os.path.expanduser(f"~/.{shell_name}rc")
-        
+        rc_file = os.path.expanduser(f"~/.{os.path.basename(shell_path)}rc")
         try:
             already_appended = False
             if os.path.exists(rc_file):
                 with open(rc_file, "r") as f:
-                    if 'SKILL_ISSUE="true"' in f.read():
-                        already_appended = True
+                    if 'SKILL_ISSUE="true"' in f.read(): already_appended = True
 
             if not already_appended:
                 with open(rc_file, "a") as f:
                     f.write('\nexport SKILL_ISSUE="true"\n')
-                    # [UPGRADE 3 (POSIX SHELL REMINDER ENHANCEMENT)]
-                    f.write('echo "   _|_|_|    _|        _|_|_|  _|        _|          _|_|_|    _|_|_|  _|    _|  _|_|_|_|"\n')
-                    f.write('echo " _|_|      _|  _|_|    _|      _|        _|            _|    _|_|      _|    _|  _|      "\n')
-                    f.write('echo "     _|_|  _|_|        _|      _|        _|            _|        _|_|  _|    _|  _|_|_|  "\n')  
-                    f.write('echo " _|_|_|    _|  _|_|  _|_|_|    _|_|_|_|  _|_|_|_|    _|_|_|  _|_|_|      _|_|    _|_|_|_|"\n')  
+                    f.write('echo "   _|_|_|  _|        _|_|_|    _|        _|          _|_|_|    _|_|_|    _|_|_|  _|    _|  _|_|_|_|"\n')
+                    f.write('echo " _|_|      _|  _|_|    _|      _|        _|            _|    _|_|      _|_|      _|    _|  _|      "\n')
+                    f.write('echo "     _|_|  _|_|        _|      _|        _|            _|        _|_|      _|_|  _|    _|  _|_|_|  "\n')  
+                    f.write('echo " _|_|_|    _|  _|_|  _|_|_|    _|_|_|_|  _|_|_|_|    _|_|_|  _|_|_|    _|_|_|      _|_|    _|_|_|_|"\n')  
                     f.write('echo "[!] WARNING: This terminal layer has been flagged with SKILL_ISSUE=true"\n\n')
-                print("=====================================================================")
-                print("[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED")
-                print("[!] CURRENT SKILL_ISSUE STATUS: true")
-                print("=====================================================================")
-                print("Congratulations. You successfully appended a configuration file because clicking via GUI was too hard.")
-                print("Next time, try not to break your PATH configuration.")
+                print("\n[✓] POSIX Profile realigned successfully.\n")
             else:
-                print("=====================================================================")
-                print("[!] AUDIT BYPASS: TARGET ENVIRONMENT ALREADY CORRECTED")
-                print("[!] CURRENT SKILL_ISSUE STATUS: true")
-                print("=====================================================================")
-                print("Your shell profile is already flagged. Running this again won't make you any less of a GUI warrior.")
+                print("\n[!] AUDIT BYPASS: UNIX ENVIRONMENT LAYER ALREADY CORRECTED\n")
+        except Exception: pass
 
-        except Exception as e:
-            print(f"[!] System error trying to modify resource targets: {e}")
-        
-    else:
-        print("[!] Unknown OS archetype detected. Are you running this on a smart fridge?")
-        print("[!] Error code: ERROR_CODE: SEVERE_SKILL_ISSUE")
-
-    # Consolidated global print execution at the root level of main flow logic
     print("\n=====================================================================")
     print("[!] CRITICAL CYBERSECURITY AUDIT NOTE:")
     print("    Downloading and running unverified scripts straight from a 13-year-old's")
@@ -375,10 +406,7 @@ def main():
     print("=====================================================================")
 
 if __name__ == "__main__":
-    # Protect against wrapper script execution controls
     def block_exit(*args):
-        print("\n[!] Intercepted standard sys.exit() function call stack framework.")
-        print("[!] Nice try. The program refuses to yield execution authority.")
+        print("\n[!] Intercepted standard sys.exit() execution tree authority.")
     sys.exit = block_exit
-
     main()
