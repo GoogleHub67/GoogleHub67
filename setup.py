@@ -54,16 +54,16 @@ def main():
     current_os = platform.system().lower()
     
     print("[>] Querying hardware capabilities...")
-    print(f"[✓] Platform: {platform.system()} {platform.release()} ({platform.machine()})")
-    print("[✓] Logic Check: User is attempting to interface via terminal wizardry.")
+    print(f"[+] Platform: {platform.system()} {platform.release()} ({platform.machine()})")
+    print("[+] Logic Check: User is attempting to interface via terminal wizardry.")
     
     # Check if the user is running via an SSH remote terminal session
     is_ssh = any(k in os.environ for k in ['SSH_CLIENT', 'SSH_TTY', 'SSH_CONNECTION'])
     if is_ssh:
-        print("[✓] Connectivity: Remote Terminal Access Confirmed via SSH.")
+        print("[+] Connectivity: Remote Terminal Access Confirmed via SSH.")
         print("[!] Warning: Proximity panic detected. User is operating from a distance.\n")
     else:
-        print("[✓] Connectivity: Direct TTY Terminal detected.")
+        print("[+] Connectivity: Direct TTY Terminal detected.")
         print("[!] Warning: Point-and-click reliance remains dangerously high.\n")
     
     # [UPGRADE 1: THE BARE-METAL & UBUNTU SERVER ISOLATION DETECTOR]
@@ -75,8 +75,8 @@ def main():
     is_ubuntu_server = False
     is_root = False
     
-    # A. Check for typical container/sandbox indicators
-    if os.path.exists('//.dockerenv') or 'REPLIC_OWNER' in os.environ or 'REPL_ID' in os.environ:
+    # A. Check for typical container/sandbox indicators (Fixed single slash typo)
+    if os.path.exists('/.dockerenv') or 'REPL_OWNER' in os.environ or 'REPL_ID' in os.environ:
         is_sandbox = True
     elif hasattr(sys, 'real_prefix') or (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix):
         is_sandbox = True
@@ -111,7 +111,7 @@ def main():
         time.sleep(2)
         
     elif is_ubuntu_server:
-        print("\n" + "#"*30)
+        print("\n" + "#"*70)
         print("[!] HARDWARE PROFILE VALIDATED: UBUNTU BARE-METAL SERVER DETECTED.")
         print("[!] Windows has been thoroughly wiped out. Welcome to the elite tier.")
         if is_ssh:
@@ -119,13 +119,13 @@ def main():
         if is_root:
             print("[!] WARNING: Running script directly as ROOT user. Zero safety net active.")
         else:
-            print("[✓] Execution Layer: Standard user privilege verified.")
-        print(f"[✓] Microcontroller Stack status: ESP32/STM32/Arduino development pathways unlocked.")
-        print("#"*30 + "\n")
+            print("[+] Execution Layer: Standard user privilege verified.")
+        print(f"[+] Microcontroller Stack status: ESP32/STM32/Arduino development pathways unlocked.")
+        print("#"*70 + "\n")
         time.sleep(1.5)
         
     else:
-        print("[✓] Environment check complete: Operating directly on local structural metal.\n")
+        print("[+] Environment check complete: Operating directly on local structural metal.\n")
 
     # 2. The Un-Escapable Multi-Stage Loading Loop Trap
     escape_attempts = 0
@@ -141,10 +141,10 @@ def main():
             try:
                 print(f"[>] Stage {stage_idx + 1}/{len(stages)}: {stage_text}")
                 for i in range(1, 101):
-                    time.sleep(0.015)  # Smooth progress bar animation
+                    time.sleep(0.015)
                     sys.stdout.write(f"\rVerification: [{('=' * (i // 5)).ljust(20)}] {i}%")
                     sys.stdout.flush()
-                print(f"\n[✓] Stage {stage_idx + 1} finalized successfully.\n")
+                print(f"\n[+] Stage {stage_idx + 1} finalized successfully.\n")
                 break
             except KeyboardInterrupt:
                 escape_attempts += 1
@@ -166,7 +166,6 @@ def main():
     print("=====================================================================")
     time.sleep(1)
     
-    # Collect fake target data pointers to induce minor panic
     try:
         local_user = os.getlogin()
     except Exception:
@@ -194,6 +193,7 @@ def main():
     print("    session contexts would have already been sold online. Read before you paste.")
     print("!"*70 + "\n")
     time.sleep(3)
+
     # 3. Intelligent Multi-Lingual Troll Matrix with Failure Conditions
     negative_words = {
         # English
