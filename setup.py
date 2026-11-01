@@ -56,19 +56,44 @@ def main():
     print("[>] Querying hardware capabilities...")
     print(f"[✓] Platform: {platform.system()} {platform.release()} ({platform.machine()})")
     print("[✓] Logic Check: User is attempting to interface via terminal wizardry.")
-    print("[!] Warning: Point-and-click reliance remains dangerously high.\n")
     
-    # [UPGRADE 1: THE "CONFIRMED COWARD" SANDBOX DETECTOR]
+    # Check if the user is running via an SSH remote terminal session
+    is_ssh = any(k in os.environ for k in ['SSH_CLIENT', 'SSH_TTY', 'SSH_CONNECTION'])
+    if is_ssh:
+        print("[✓] Connectivity: Remote Terminal Access Confirmed via SSH.")
+        print("[!] Warning: Proximity panic detected. User is operating from a distance.\n")
+    else:
+        print("[✓] Connectivity: Direct TTY Terminal detected.")
+        print("[!] Warning: Point-and-click reliance remains dangerously high.\n")
+    
+    # [UPGRADE 1: THE BARE-METAL & UBUNTU SERVER ISOLATION DETECTOR]
     print("[>] Running Stage 01: Host Decoupling and Isolation Analysis...")
     time.sleep(1)
-    is_sandbox = False
     
-    # Check for typical sandbox indicators (Docker, Replit, virtual environments)
-    if os.path.exists('/.dockerenv') or 'REPLIC_OWNER' in os.environ or 'REPL_ID' in os.environ:
+    # Gather state data for the updated bare metal evaluation
+    is_sandbox = False
+    is_ubuntu_server = False
+    is_root = False
+    
+    # A. Check for typical container/sandbox indicators
+    if os.path.exists('//.dockerenv') or 'REPLIC_OWNER' in os.environ or 'REPL_ID' in os.environ:
         is_sandbox = True
     elif hasattr(sys, 'real_prefix') or (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix):
         is_sandbox = True
         
+    # B. Check for Ubuntu Server specific environment configurations
+    if current_os == 'linux':
+        try:
+            with open('/etc/os-release', 'r') as f:
+                os_info = f.read().lower()
+                if 'ubuntu' in os_info and 'server' in os_info:
+                    is_ubuntu_server = True
+            if os.geteuid() == 0:
+                is_root = True
+        except Exception:
+            pass
+
+    # Execution path routing based on infrastructure layer detection
     if is_sandbox:
         print("\n" + "!"*60)
         print("[!] DETECTION: COWARDLY RUNTIME ISOLATION LAYER IDENTIFIED")
@@ -84,6 +109,21 @@ def main():
         except Exception:
             pass
         time.sleep(2)
+        
+    elif is_ubuntu_server:
+        print("\n" + "#"*30)
+        print("[!] HARDWARE PROFILE VALIDATED: UBUNTU BARE-METAL SERVER DETECTED.")
+        print("[!] Windows has been thoroughly wiped out. Welcome to the elite tier.")
+        if is_ssh:
+            print("[!] Running headless over SSH. No GUI detected. Real engineering in progress.")
+        if is_root:
+            print("[!] WARNING: Running script directly as ROOT user. Zero safety net active.")
+        else:
+            print("[✓] Execution Layer: Standard user privilege verified.")
+        print(f"[✓] Microcontroller Stack status: ESP32/STM32/Arduino development pathways unlocked.")
+        print("#"*30 + "\n")
+        time.sleep(1.5)
+        
     else:
         print("[✓] Environment check complete: Operating directly on local structural metal.\n")
 
