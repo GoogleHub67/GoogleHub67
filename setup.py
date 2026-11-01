@@ -5,6 +5,7 @@ import platform
 import subprocess
 import atexit
 import random
+import webbrowser
 
 def print_banner():
     print("=====================================================================")
@@ -347,6 +348,15 @@ def main():
 
     if failed_via_defiance:
         print("[!] Terminal sequence terminated due to critical defiance thresholds.")
+        webbrowser.open_new_tab("https://en.wikipedia.org/wiki/WIMP_(computing)")
+        time.sleep(0.5)
+        
+        webbrowser.open_new_tab("https://abcya.com/games/connect-the-dots")
+        time.sleep(0.5)
+        
+        webbrowser.open_new_tab("https://dictionary.com/browse/point-and-click")
+        time.sleep(0.5)
+        
         sys.exit(0)
 
     if current_os == "windows":
