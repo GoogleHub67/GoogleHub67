@@ -331,7 +331,7 @@ def main():
                 print("[✓] Input validation successful. Advancing matrix...\n")
                 break
             if any(word in negative_words for word in user_input.lower().split()):
-                print(f"[!] Validation Failure: User compliance deficit recorded.\n")
+                print(f"[!] Validation Failure: User IQ compliance deficit recorded.\n")
             else:
                 print(f"[...] Defiance count: {attempts}\n")
 
