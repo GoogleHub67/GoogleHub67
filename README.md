@@ -356,7 +356,6 @@ Choose your compliance pathway below to evaluate your technical vulnerability.
 
 ---
 
-#### 🏎️ Pathway A: The Automated Audit (High Compliance)
 Run this single line to automatically detect your operating system archetype, audit your GUI dependence, and inject a localized environment reality check directly into your system core.
 
 ##### 🪟 Windows (PowerShell)
