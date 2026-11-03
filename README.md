@@ -228,10 +228,10 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_155]—Nimzowitsch Wheeler Gambit**
+> **[GAMBIT_092]—Glek Gambit**
 >
-> * **Moves:** `1.e4 Nc6 2.d4 d5 3.Nc3 dxe4 4.d5 Nb8 5.f3`
-> * **Tactical Profile:** *Unorthodox retrograde piece positioning dropping material cleanly to establish a complete central development matrix.*
+> * **Moves:** `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 d5 5.exd5 Nxd5 6.Bg2`
+> * **Tactical Profile:** *Positional coordinate attack blending flank fianchetto security loops with central grid pressure.*
 > * **System Status:** `ENGINE_APPROVED`
 
 <!-- CHESS_WISDOM_END -->
