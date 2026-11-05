@@ -228,11 +228,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_128]—Ahlhausen Gambit**
+> **[GAMBIT_166]—Benko Half-Gambit**
 >
-> * **Moves:** `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.a3 Bg4`
-> * **Tactical Profile:** *Albin countergambit refinement adding precise tracking modifiers to bypass white's standard blocking configurations.*
-> * **System Status:** `CRITICAL_ATTACK_VECTOR`
+> * **Moves:** `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.e3`
+> * **Tactical Profile:** *Positional wing restriction matrix balancing dynamic side file pressure with stable engine-approved pawn arrays.*
+> * **System Status:** `ENGINE_APPROVED`
 
 <!-- CHESS_WISDOM_END -->
 
