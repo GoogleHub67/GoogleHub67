@@ -228,10 +228,10 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_152]—Zukertort Queen's Knight Gambit**
+> **[GAMBIT_024]—Wagner-Zucker Gambit**
 >
-> * **Moves:** `1.Nf3 d5 2.d4 Nf6 3.Nc3 c5 4.e4`
-> * **Tactical Profile:** *Dynamic central explosion out of a quiet Reti base, forcing immediate transposition errors.*
+> * **Moves:** `1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4`
+> * **Tactical Profile:** *Early diagonal pin exploitation aggressively transforming positional setups into sharp attacking structures.*
 > * **System Status:** `ENGINE_APPROVED`
 
 <!-- CHESS_WISDOM_END -->
