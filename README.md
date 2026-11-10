@@ -228,11 +228,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_024]—Wagner-Zucker Gambit**
+> **[GAMBIT_154]—Lisitsin Counter-Gambit**
 >
-> * **Moves:** `1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4`
-> * **Tactical Profile:** *Early diagonal pin exploitation aggressively transforming positional setups into sharp attacking structures.*
-> * **System Status:** `ENGINE_APPROVED`
+> * **Moves:** `1.Nf3 f5 2.e4 fxe4 3.Ng5 e5`
+> * **Tactical Profile:** *Black-side central structural push contesting space directly while white's tracking knight handles vulnerability loops.*
+> * **System Status:** `HIGH_VOLATILITY`
 
 <!-- CHESS_WISDOM_END -->
 
