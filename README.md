@@ -429,6 +429,9 @@ If you are Paranoid/Isolated and you suffer from trust issues, pride yourself on
 > [!IMPORTANT]
 > Downloading and running unverified scripts straight from a 13-year-old's repository because a text block told you it would "audit your system" mathematically confirms that your local cybersecurity framework is operating at a severe deficit. Congratulations on passing the social engineering gateway.
 
+> [!TIP]
+> **HINT:** Already crying over your new terminal banner because you had zero patience to read before pasting? Stop frantically opening new tabs expecting it to magically vanish—for god's sake go actually read **[README.md](https://github.com/GoogleHub67/gui-vulnerability-audit/blob/main/README.md)** for once in your life and follow the clues and find the exit flag yourself.
+
 ---
 
 <!-- =========================================================================
