@@ -90,7 +90,7 @@
 ---
 
 > **Q: Who are you in a single sentence?**  
-> A: Too many things. Go to Section 4 to learn more.
+> A: Too many things. Go to Section 5 to learn more.
 
 > **Q: How did you get into coding?**  
 > A: Long story, but because of Lichess bots and the curiosity to how they work.
@@ -103,11 +103,55 @@
 | 🌍 **Location** | 127.0.0.1 |
 | 🗣️ **Languages** | English |
 
-**Other Stats**
-- 🎮 **Main Games:** Chess, Cyberpunk 2077, Geometry Dash, MineCraft
+### 💡 What Drives Me & Current Focus
+- 🔭 **Endless curiosity:** Always asking "how does this work?" and diving into new rabbit holes, that's why my teachers are always angry
+- 🔍 **Deep dives:** Connecting ideas across science, code, business, and the real world
+- 🌱 **Currently exploring & learning:** Lots of things
+- 🚀 **Working on:** My brainrot programming language and Lichess bot
+- 🧩 **Side projects:** Weekend scripts, mini-games, and cool experiments
+
+### 💻 Tech, Hardware & Engineering
+- 🤖 **Coding & AI/ML:** Building software, exploring machine learning, and solving CS problems
+- 🛡️ **Cybersecurity:** Learning how systems work and how to keep them secure
+- 🖥️ **PC Building & Repair:** Custom PC builds, hardware troubleshooting, and tech tinkering
+- 🦾 **Robotics & IoT:** Connecting code with real-world sensors and hardware
+
+### 🔬 Science, Math & Research
+- ⚛️ **Quantum Physics & Chemistry:** Exploring how the universe works at the smallest scales
+- 📐 **Mathematics & Geography:** Numbers, patterns, logic, and understanding the world
+- 🔬 **Research:** Reading scientific research papers to stay curious and learn deep concepts
+
+### 📈 Business, Strategy & Speaking
+- 💼 **Finance & Business:** Studying stocks, commerce, markets, and entrepreneurship
+- 🎙️ **Debate:** Arguing, chaos and exploring big ideas
+- ✍️ **Author in progress:** Writing books and putting stories and ideas onto digital paper
+
+### 🏆 Games, Sports & Beyond Coding
+- ♟️ **Chess:** Strategy, tactics, and calculation
+- 🏏 **Cricket:** Playing and following the game
+- 🧊 **Cubing:** Speedsolving twisty puzzles
+- 🎨 **Creative side:** I'm a robot, no creativity (or maybe a lot?)
+- 🎧 **Vibe & Fuel:** Coding with music on, powered by pizza and snacks 🍕
+- 🎮 **Main Games:** Chess, Cyberpunk 2077, Geometry Dash, Minecraft
 - 📚 **Top Books:** Quantum Physics and Coding-related books from 2005
 - 🏠 **My Setup:** A nuclear reactor you will be shocked to see
-- 👤 **Favourite Personalities:** Linus Torvalds, Claude Shannon, Alan Turing, and Dennis Ritchie 
+- 👤 **Favourite Personalities:** Linus Torvalds, Claude Shannon, Alan Turing, and Dennis Ritchie
+
+### 🛠️ Setup & Tech Stack
+- 💻 **Setup:** Go to Section 4 to learn more
+- 🔧 **Languages & Tools:** Go to Section 4 to learn more
+
+### 🌟 Featured Projects, Stats & Connect
+- 🏆 **Proudest win:** Too much to say to fit in one line...
+- 🔥 **GitHub Activity:** Check out my stats and repos below!
+- 🌟 **Ask me about:** PC builds, chess strategies, AI, cricket, or a cool research paper I read recently!
+- ⚡ **Fun fact:** If you do the math, I actually play **1 hour and 40 minutes** of cricket daily during school hours. Here is the breakdown:
+  - **Lunch:** 30 minutes total — 15 minutes for cricket, and 15 minutes for eating and talking.
+  - **Transition breaks:** 5 minutes per period (1 minute for setup and 4 minutes for playing).
+  - **Total periods:** 8 periods.
+  - **Transition play time:** 4 × 8 = 32 minutes.
+  - **CT Period:** 1 hour total, with 50 minutes spent playing cricket.
+  - **Total calculation:** 15 + 50 + 32 = 97 minutes (roughly 100 minutes, or **1 hour and 40 minutes**).
 
 > **Global Trajectory: 48 Target Cities I Want to Visit**
 <details>
