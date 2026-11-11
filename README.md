@@ -228,11 +228,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_154]—Lisitsin Counter-Gambit**
+> **[GAMBIT_133]—Janowski Gambit**
 >
-> * **Moves:** `1.Nf3 f5 2.e4 fxe4 3.Ng5 e5`
-> * **Tactical Profile:** *Black-side central structural push contesting space directly while white's tracking knight handles vulnerability loops.*
-> * **System Status:** `HIGH_VOLATILITY`
+> * **Moves:** `1.d4 d5 2.c4 bf5 3.Nc3 e6 4.Nf3 Nf6 5.Qb3 Nc6`
+> * **Tactical Profile:** *Unorthodox bishop development configuration abandoning standard defense lines for sharp horizontal counter-scans.*
+> * **System Status:** `VERIFIED_CHAOS`
 
 <!-- CHESS_WISDOM_END -->
 
