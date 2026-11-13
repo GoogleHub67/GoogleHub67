@@ -272,11 +272,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_049]—Halloween Gambit**
+> **[GAMBIT_175]—Vienna Zhuravlev Gambit**
 >
-> * **Moves:** `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5`
-> * **Tactical Profile:** *Subatomic tactical detonation. White deletes a full piece to drive black knights into frantic internal tracking loops.*
-> * **System Status:** `MAXIMUM_VOLATILITY`
+> * **Moves:** `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.exf6 Nxf6`
+> * **Tactical Profile:** *Aggressive central line clearance configuration forcing deep tactical checks and manual king safety calibrations.*
+> * **System Status:** `CRITICAL_ATTACK_VECTOR`
 
 <!-- CHESS_WISDOM_END -->
 
