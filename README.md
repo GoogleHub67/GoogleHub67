@@ -272,11 +272,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_141]—Benoni Taimanov Gambit**
+> **[GAMBIT_124]—Shabalov-Gambit**
 >
-> * **Moves:** `1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg7 6.f4 O-O 7.Nf3 e6 8.Be2 exd5 9.cxd5 Bg4`
-> * **Tactical Profile:** *Aggressive central pawn formation driving highly fluid open file tactical conversions across the board.*
-> * **System Status:** `HIGH_VOLATILITY`
+> * **Moves:** `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.g4`
+> * **Tactical Profile:** *Modern anti-Semi-Slav weapon launching structural flank missiles to disrupt traditional black processing grids.*
+> * **System Status:** `CRITICAL_ATTACK_VECTOR`
 
 <!-- CHESS_WISDOM_END -->
 
