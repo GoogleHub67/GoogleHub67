@@ -272,10 +272,10 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_132]—Marshall Queen's Gambit**
+> **[GAMBIT_092]—Glek Gambit**
 >
-> * **Moves:** `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.Bg5`
-> * **Tactical Profile:** *High-friction coordinate attack pinning target defense architectures before midgame script transitions occur.*
+> * **Moves:** `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 d5 5.exd5 Nxd5 6.Bg2`
+> * **Tactical Profile:** *Positional coordinate attack blending flank fianchetto security loops with central grid pressure.*
 > * **System Status:** `ENGINE_APPROVED`
 
 <!-- CHESS_WISDOM_END -->
