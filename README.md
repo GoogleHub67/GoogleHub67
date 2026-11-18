@@ -272,11 +272,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_092]—Glek Gambit**
+> **[GAMBIT_018]—Latvian Gambit**
 >
-> * **Moves:** `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 d5 5.exd5 Nxd5 6.Bg2`
-> * **Tactical Profile:** *Positional coordinate attack blending flank fianchetto security loops with central grid pressure.*
-> * **System Status:** `ENGINE_APPROVED`
+> * **Moves:** `1.e4 e5 2.Nf3 f5`
+> * **Tactical Profile:** *A highly volatile black-side counteroffensive striking directly at white's central infrastructure.*
+> * **System Status:** `MAXIMUM_VOLATILITY`
 
 <!-- CHESS_WISDOM_END -->
 
