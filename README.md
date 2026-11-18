@@ -196,6 +196,15 @@ I am Aarav, a developer, competitive chess player, and a technical builder focus
 
 My engineering framework centers on rapid prototyping, continuous optimization, and practical system architecture—whether that involves deploying low-level hardware automation or researching particle state mechanics. Beyond core software development, I actively explore advanced spatial grid systems, coordinate methodologies, and modern microservice pipelines to build creative and highly optimized applications.
 
+> [!CAUTION]
+> **Server Hygiene & Platform Policy**
+>
+> The servers only have so much space available for each day, and if the level of activity in the forums was too high in the previous night, I might have to delete a few comments to save space later. If I delete one of your comments that you thought was particularly brilliant, sorry, but I'm trying to keep the forums running smoothly for the rest of the day. If the servers got filled up, there wouldn't be any space left for the spammers.
+>
+> Since people have to pay $50 to get unmuted and $100 to be allowed to create a new account after getting banned, this is a very important source of revenue for the platform. Regular members can help out by reporting users to me so I can get free money.
+>
+> I actually love spammers. Not only do they make for relatively quick and easy bans, but they always want to come back with new accounts, which means lots of extra revenue. I reward them by letting them post half a dozen comments before banning them. This is why it's so important to delete enough comments earlier in the day to ensure there's room on the servers for the spammers.
+
 > [!NOTE]
 > **📡 INBOUND Q&A NODE ACTIVE**
 > The global question-and-answer cluster is currently listening for incoming data payloads. If you want to query the mainframe regarding engineering pipelines, volatile gambit telemetry, or custom hardware actuation grids:
