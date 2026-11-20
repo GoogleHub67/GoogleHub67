@@ -281,10 +281,10 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_162]—Alekhine O'Sullivan Gambit**
+> **[GAMBIT_082]—Mlotkowski Gambit**
 >
-> * **Moves:** `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Be3 Bf5 8.Nc3 e6 9.Nf3 Be7 10.d5`
-> * **Tactical Profile:** *Advanced structural vanguard movement triggering heavy endgame computing logic paths early in the layout.*
+> * **Moves:** `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 b5`
+> * **Tactical Profile:** *Evans Gambit counter-explosion. Black throws a pawn right back to hijack structural momentum.*
 > * **System Status:** `CRITICAL_ATTACK_VECTOR`
 
 <!-- CHESS_WISDOM_END -->
