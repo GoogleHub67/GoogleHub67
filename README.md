@@ -281,11 +281,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_181]—Pirc Holmov Gambit**
+> **[GAMBIT_053]—Urusov Gambit**
 >
-> * **Moves:** `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bc4 Bg7 5.Qe2 Nc6 6.e5`
-> * **Tactical Profile:** *Aggressive central line displacement sequence designed to trap black's processing modules before castling infrastructure deploys.*
-> * **System Status:** `CRITICAL_ATTACK_VECTOR`
+> * **Moves:** `1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3`
+> * **Tactical Profile:** *High-throughput development framework prioritizing vertical and diagonal lane access over basic pawn units.*
+> * **System Status:** `HIGH_VOLATILITY`
 
 <!-- CHESS_WISDOM_END -->
 
