@@ -281,11 +281,11 @@ Clicking below runs a 1978 retro-typewriter loop matching my current system proc
 
 <!-- CHESS_WISDOM_START -->
 ### ♟ Telemetry Broadcast: Gambit of the Day
-> **[GAMBIT_053]—Urusov Gambit**
+> **[GAMBIT_113]—Soller Childs Gambit**
 >
-> * **Moves:** `1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3`
-> * **Tactical Profile:** *High-throughput development framework prioritizing vertical and diagonal lane access over basic pawn units.*
-> * **System Status:** `HIGH_VOLATILITY`
+> * **Moves:** `1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Bf4 Qb4+`
+> * **Tactical Profile:** *High-velocity tactical sequence engineering a triple threat targeting the b2, d4, and f4 parameters simultaneously.*
+> * **System Status:** `CRITICAL_ATTACK_VECTOR`
 
 <!-- CHESS_WISDOM_END -->
 
